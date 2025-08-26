@@ -1,0 +1,1910 @@
+{
+	"Treecko": {
+		"name": "Treecko",
+		"number": "#001",
+		"url": "https://pokemondb.net/pokedex/treecko",
+		"type": "Grass",
+		"types": [
+			"Grass"
+		]
+	},
+	"Grovyle": {
+		"name": "Grovyle",
+		"number": "#002",
+		"url": "https://pokemondb.net/pokedex/grovyle",
+		"type": "Grass",
+		"types": [
+			"Grass"
+		]
+	},
+	"Sceptile": {
+		"name": "Sceptile",
+		"number": "#003",
+		"url": "https://pokemondb.net/pokedex/sceptile",
+		"type": "Grass",
+		"types": [
+			"Grass"
+		]
+	},
+	"Torchic": {
+		"name": "Torchic",
+		"number": "#004",
+		"url": "https://pokemondb.net/pokedex/torchic",
+		"type": "Fire",
+		"types": [
+			"Fire"
+		]
+	},
+	"Combusken": {
+		"name": "Combusken",
+		"number": "#005",
+		"url": "https://pokemondb.net/pokedex/combusken",
+		"type": "Fire/Fighting",
+		"types": [
+			"Fire",
+			"Fighting"
+		]
+	},
+	"Blaziken": {
+		"name": "Blaziken",
+		"number": "#006",
+		"url": "https://pokemondb.net/pokedex/blaziken",
+		"type": "Fire/Fighting",
+		"types": [
+			"Fire",
+			"Fighting"
+		]
+	},
+	"Mudkip": {
+		"name": "Mudkip",
+		"number": "#007",
+		"url": "https://pokemondb.net/pokedex/mudkip",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Marshtomp": {
+		"name": "Marshtomp",
+		"number": "#008",
+		"url": "https://pokemondb.net/pokedex/marshtomp",
+		"type": "Water/Ground",
+		"types": [
+			"Water",
+			"Ground"
+		]
+	},
+	"Swampert": {
+		"name": "Swampert",
+		"number": "#009",
+		"url": "https://pokemondb.net/pokedex/swampert",
+		"type": "Water/Ground",
+		"types": [
+			"Water",
+			"Ground"
+		]
+	},
+	"Poochyena": {
+		"name": "Poochyena",
+		"number": "#010",
+		"url": "https://pokemondb.net/pokedex/poochyena",
+		"type": "Dark",
+		"types": [
+			"Dark"
+		]
+	},
+	"Mightyena": {
+		"name": "Mightyena",
+		"number": "#011",
+		"url": "https://pokemondb.net/pokedex/mightyena",
+		"type": "Dark",
+		"types": [
+			"Dark"
+		]
+	},
+	"Zigzagoon": {
+		"name": "Zigzagoon",
+		"number": "#012",
+		"url": "https://pokemondb.net/pokedex/zigzagoon",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Linoone": {
+		"name": "Linoone",
+		"number": "#013",
+		"url": "https://pokemondb.net/pokedex/linoone",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Wurmple": {
+		"name": "Wurmple",
+		"number": "#014",
+		"url": "https://pokemondb.net/pokedex/wurmple",
+		"type": "Bug",
+		"types": [
+			"Bug"
+		]
+	},
+	"Silcoon": {
+		"name": "Silcoon",
+		"number": "#015",
+		"url": "https://pokemondb.net/pokedex/silcoon",
+		"type": "Bug",
+		"types": [
+			"Bug"
+		]
+	},
+	"Beautifly": {
+		"name": "Beautifly",
+		"number": "#016",
+		"url": "https://pokemondb.net/pokedex/beautifly",
+		"type": "Flying/Bug",
+		"types": [
+			"Flying",
+			"Bug"
+		]
+	},
+	"Cascoon": {
+		"name": "Cascoon",
+		"number": "#017",
+		"url": "https://pokemondb.net/pokedex/cascoon",
+		"type": "Bug",
+		"types": [
+			"Bug"
+		]
+	},
+	"Dustox": {
+		"name": "Dustox",
+		"number": "#018",
+		"url": "https://pokemondb.net/pokedex/dustox",
+		"type": "Poison/Bug",
+		"types": [
+			"Poison",
+			"Bug"
+		]
+	},
+	"Lotad": {
+		"name": "Lotad",
+		"number": "#019",
+		"url": "https://pokemondb.net/pokedex/lotad",
+		"type": "Water/Grass",
+		"types": [
+			"Water",
+			"Grass"
+		]
+	},
+	"Lombre": {
+		"name": "Lombre",
+		"number": "#020",
+		"url": "https://pokemondb.net/pokedex/lombre",
+		"type": "Water/Grass",
+		"types": [
+			"Water",
+			"Grass"
+		]
+	},
+	"Ludicolo": {
+		"name": "Ludicolo",
+		"number": "#021",
+		"url": "https://pokemondb.net/pokedex/ludicolo",
+		"type": "Water/Grass",
+		"types": [
+			"Water",
+			"Grass"
+		]
+	},
+	"Seedot": {
+		"name": "Seedot",
+		"number": "#022",
+		"url": "https://pokemondb.net/pokedex/seedot",
+		"type": "Grass",
+		"types": [
+			"Grass"
+		]
+	},
+	"Nuzleaf": {
+		"name": "Nuzleaf",
+		"number": "#023",
+		"url": "https://pokemondb.net/pokedex/nuzleaf",
+		"type": "Grass/Dark",
+		"types": [
+			"Grass",
+			"Dark"
+		]
+	},
+	"Shiftry": {
+		"name": "Shiftry",
+		"number": "#024",
+		"url": "https://pokemondb.net/pokedex/shiftry",
+		"type": "Grass/Dark",
+		"types": [
+			"Grass",
+			"Dark"
+		]
+	},
+	"Taillow": {
+		"name": "Taillow",
+		"number": "#025",
+		"url": "https://pokemondb.net/pokedex/taillow",
+		"type": "Normal/Flying",
+		"types": [
+			"Normal",
+			"Flying"
+		]
+	},
+	"Swellow": {
+		"name": "Swellow",
+		"number": "#026",
+		"url": "https://pokemondb.net/pokedex/swellow",
+		"type": "Normal/Flying",
+		"types": [
+			"Normal",
+			"Flying"
+		]
+	},
+	"Wingull": {
+		"name": "Wingull",
+		"number": "#027",
+		"url": "https://pokemondb.net/pokedex/wingull",
+		"type": "Water/Flying",
+		"types": [
+			"Water",
+			"Flying"
+		]
+	},
+	"Pelipper": {
+		"name": "Pelipper",
+		"number": "#028",
+		"url": "https://pokemondb.net/pokedex/pelipper",
+		"type": "Water/Flying",
+		"types": [
+			"Water",
+			"Flying"
+		]
+	},
+	"Ralts": {
+		"name": "Ralts",
+		"number": "#029",
+		"url": "https://pokemondb.net/pokedex/ralts",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Kirlia": {
+		"name": "Kirlia",
+		"number": "#030",
+		"url": "https://pokemondb.net/pokedex/kirlia",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Gardevoir": {
+		"name": "Gardevoir",
+		"number": "#031",
+		"url": "https://pokemondb.net/pokedex/gardevoir",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Surskit": {
+		"name": "Surskit",
+		"number": "#032",
+		"url": "https://pokemondb.net/pokedex/surskit",
+		"type": "Water/Bug",
+		"types": [
+			"Water",
+			"Bug"
+		]
+	},
+	"Masquerain": {
+		"name": "Masquerain",
+		"number": "#033",
+		"url": "https://pokemondb.net/pokedex/masquerain",
+		"type": "Flying/Bug",
+		"types": [
+			"Flying",
+			"Bug"
+		]
+	},
+	"Shroomish": {
+		"name": "Shroomish",
+		"number": "#034",
+		"url": "https://pokemondb.net/pokedex/shroomish",
+		"type": "Grass",
+		"types": [
+			"Grass"
+		]
+	},
+	"Breloom": {
+		"name": "Breloom",
+		"number": "#035",
+		"url": "https://pokemondb.net/pokedex/breloom",
+		"type": "Grass/Fighting",
+		"types": [
+			"Grass",
+			"Fighting"
+		]
+	},
+	"Slakoth": {
+		"name": "Slakoth",
+		"number": "#036",
+		"url": "https://pokemondb.net/pokedex/slakoth",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Vigoroth": {
+		"name": "Vigoroth",
+		"number": "#037",
+		"url": "https://pokemondb.net/pokedex/vigoroth",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Slaking": {
+		"name": "Slaking",
+		"number": "#038",
+		"url": "https://pokemondb.net/pokedex/slaking",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Abra": {
+		"name": "Abra",
+		"number": "#039",
+		"url": "https://pokemondb.net/pokedex/abra",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Kadabra": {
+		"name": "Kadabra",
+		"number": "#040",
+		"url": "https://pokemondb.net/pokedex/kadabra",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Alakazam": {
+		"name": "Alakazam",
+		"number": "#041",
+		"url": "https://pokemondb.net/pokedex/alakazam",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Nincada": {
+		"name": "Nincada",
+		"number": "#042",
+		"url": "https://pokemondb.net/pokedex/nincada",
+		"type": "Ground/Bug",
+		"types": [
+			"Ground",
+			"Bug"
+		]
+	},
+	"Ninjask": {
+		"name": "Ninjask",
+		"number": "#043",
+		"url": "https://pokemondb.net/pokedex/ninjask",
+		"type": "Flying/Bug",
+		"types": [
+			"Flying",
+			"Bug"
+		]
+	},
+	"Shedinja": {
+		"name": "Shedinja",
+		"number": "#044",
+		"url": "https://pokemondb.net/pokedex/shedinja",
+		"type": "Bug/Ghost",
+		"types": [
+			"Bug",
+			"Ghost"
+		]
+	},
+	"Whismur": {
+		"name": "Whismur",
+		"number": "#045",
+		"url": "https://pokemondb.net/pokedex/whismur",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Loudred": {
+		"name": "Loudred",
+		"number": "#046",
+		"url": "https://pokemondb.net/pokedex/loudred",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Exploud": {
+		"name": "Exploud",
+		"number": "#047",
+		"url": "https://pokemondb.net/pokedex/exploud",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Makuhita": {
+		"name": "Makuhita",
+		"number": "#048",
+		"url": "https://pokemondb.net/pokedex/makuhita",
+		"type": "Fighting",
+		"types": [
+			"Fighting"
+		]
+	},
+	"Hariyama": {
+		"name": "Hariyama",
+		"number": "#049",
+		"url": "https://pokemondb.net/pokedex/hariyama",
+		"type": "Fighting",
+		"types": [
+			"Fighting"
+		]
+	},
+	"Goldeen": {
+		"name": "Goldeen",
+		"number": "#050",
+		"url": "https://pokemondb.net/pokedex/goldeen",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Seaking": {
+		"name": "Seaking",
+		"number": "#051",
+		"url": "https://pokemondb.net/pokedex/seaking",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Magikarp": {
+		"name": "Magikarp",
+		"number": "#052",
+		"url": "https://pokemondb.net/pokedex/magikarp",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Gyarados": {
+		"name": "Gyarados",
+		"number": "#053",
+		"url": "https://pokemondb.net/pokedex/gyarados",
+		"type": "Water/Flying",
+		"types": [
+			"Water",
+			"Flying"
+		]
+	},
+	"Azurill": {
+		"name": "Azurill",
+		"number": "#054",
+		"url": "https://pokemondb.net/pokedex/azurill",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Marill": {
+		"name": "Marill",
+		"number": "#055",
+		"url": "https://pokemondb.net/pokedex/marill",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Azumarill": {
+		"name": "Azumarill",
+		"number": "#056",
+		"url": "https://pokemondb.net/pokedex/azumarill",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Geodude": {
+		"name": "Geodude",
+		"number": "#057",
+		"url": "https://pokemondb.net/pokedex/geodude",
+		"type": "Ground/Rock",
+		"types": [
+			"Ground",
+			"Rock"
+		]
+	},
+	"Graveler": {
+		"name": "Graveler",
+		"number": "#058",
+		"url": "https://pokemondb.net/pokedex/graveler",
+		"type": "Ground/Rock",
+		"types": [
+			"Ground",
+			"Rock"
+		]
+	},
+	"Golem": {
+		"name": "Golem",
+		"number": "#059",
+		"url": "https://pokemondb.net/pokedex/golem",
+		"type": "Ground/Rock",
+		"types": [
+			"Ground",
+			"Rock"
+		]
+	},
+	"Nosepass": {
+		"name": "Nosepass",
+		"number": "#060",
+		"url": "https://pokemondb.net/pokedex/nosepass",
+		"type": "Rock",
+		"types": [
+			"Rock"
+		]
+	},
+	"Skitty": {
+		"name": "Skitty",
+		"number": "#061",
+		"url": "https://pokemondb.net/pokedex/skitty",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Delcatty": {
+		"name": "Delcatty",
+		"number": "#062",
+		"url": "https://pokemondb.net/pokedex/delcatty",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Zubat": {
+		"name": "Zubat",
+		"number": "#063",
+		"url": "https://pokemondb.net/pokedex/zubat",
+		"type": "Poison/Flying",
+		"types": [
+			"Poison",
+			"Flying"
+		]
+	},
+	"Golbat": {
+		"name": "Golbat",
+		"number": "#064",
+		"url": "https://pokemondb.net/pokedex/golbat",
+		"type": "Poison/Flying",
+		"types": [
+			"Poison",
+			"Flying"
+		]
+	},
+	"Crobat": {
+		"name": "Crobat",
+		"number": "#065",
+		"url": "https://pokemondb.net/pokedex/crobat",
+		"type": "Poison/Flying",
+		"types": [
+			"Poison",
+			"Flying"
+		]
+	},
+	"Tentacool": {
+		"name": "Tentacool",
+		"number": "#066",
+		"url": "https://pokemondb.net/pokedex/tentacool",
+		"type": "Water/Poison",
+		"types": [
+			"Water",
+			"Poison"
+		]
+	},
+	"Tentacruel": {
+		"name": "Tentacruel",
+		"number": "#067",
+		"url": "https://pokemondb.net/pokedex/tentacruel",
+		"type": "Water/Poison",
+		"types": [
+			"Water",
+			"Poison"
+		]
+	},
+	"Sableye": {
+		"name": "Sableye",
+		"number": "#068",
+		"url": "https://pokemondb.net/pokedex/sableye",
+		"type": "Ghost/Dark",
+		"types": [
+			"Ghost",
+			"Dark"
+		]
+	},
+	"Mawile": {
+		"name": "Mawile",
+		"number": "#069",
+		"url": "https://pokemondb.net/pokedex/mawile",
+		"type": "Steel",
+		"types": [
+			"Steel"
+		]
+	},
+	"Aron": {
+		"name": "Aron",
+		"number": "#070",
+		"url": "https://pokemondb.net/pokedex/aron",
+		"type": "Rock/Steel",
+		"types": [
+			"Rock",
+			"Steel"
+		]
+	},
+	"Lairon": {
+		"name": "Lairon",
+		"number": "#071",
+		"url": "https://pokemondb.net/pokedex/lairon",
+		"type": "Rock/Steel",
+		"types": [
+			"Rock",
+			"Steel"
+		]
+	},
+	"Aggron": {
+		"name": "Aggron",
+		"number": "#072",
+		"url": "https://pokemondb.net/pokedex/aggron",
+		"type": "Rock/Steel",
+		"types": [
+			"Rock",
+			"Steel"
+		]
+	},
+	"Machop": {
+		"name": "Machop",
+		"number": "#073",
+		"url": "https://pokemondb.net/pokedex/machop",
+		"type": "Fighting",
+		"types": [
+			"Fighting"
+		]
+	},
+	"Machoke": {
+		"name": "Machoke",
+		"number": "#074",
+		"url": "https://pokemondb.net/pokedex/machoke",
+		"type": "Fighting",
+		"types": [
+			"Fighting"
+		]
+	},
+	"Machamp": {
+		"name": "Machamp",
+		"number": "#075",
+		"url": "https://pokemondb.net/pokedex/machamp",
+		"type": "Fighting",
+		"types": [
+			"Fighting"
+		]
+	},
+	"Meditite": {
+		"name": "Meditite",
+		"number": "#076",
+		"url": "https://pokemondb.net/pokedex/meditite",
+		"type": "Fighting/Psychic",
+		"types": [
+			"Fighting",
+			"Psychic"
+		]
+	},
+	"Medicham": {
+		"name": "Medicham",
+		"number": "#077",
+		"url": "https://pokemondb.net/pokedex/medicham",
+		"type": "Fighting/Psychic",
+		"types": [
+			"Fighting",
+			"Psychic"
+		]
+	},
+	"Electrike": {
+		"name": "Electrike",
+		"number": "#078",
+		"url": "https://pokemondb.net/pokedex/electrike",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Manectric": {
+		"name": "Manectric",
+		"number": "#079",
+		"url": "https://pokemondb.net/pokedex/manectric",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Plusle": {
+		"name": "Plusle",
+		"number": "#080",
+		"url": "https://pokemondb.net/pokedex/plusle",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Minun": {
+		"name": "Minun",
+		"number": "#081",
+		"url": "https://pokemondb.net/pokedex/minun",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Magnemite": {
+		"name": "Magnemite",
+		"number": "#082",
+		"url": "https://pokemondb.net/pokedex/magnemite",
+		"type": "Electric/Steel",
+		"types": [
+			"Electric",
+			"Steel"
+		]
+	},
+	"Magneton": {
+		"name": "Magneton",
+		"number": "#083",
+		"url": "https://pokemondb.net/pokedex/magneton",
+		"type": "Electric/Steel",
+		"types": [
+			"Electric",
+			"Steel"
+		]
+	},
+	"Voltorb": {
+		"name": "Voltorb",
+		"number": "#084",
+		"url": "https://pokemondb.net/pokedex/voltorb",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Electrode": {
+		"name": "Electrode",
+		"number": "#085",
+		"url": "https://pokemondb.net/pokedex/electrode",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Volbeat": {
+		"name": "Volbeat",
+		"number": "#086",
+		"url": "https://pokemondb.net/pokedex/volbeat",
+		"type": "Bug",
+		"types": [
+			"Bug"
+		]
+	},
+	"Illumise": {
+		"name": "Illumise",
+		"number": "#087",
+		"url": "https://pokemondb.net/pokedex/illumise",
+		"type": "Bug",
+		"types": [
+			"Bug"
+		]
+	},
+	"Oddish": {
+		"name": "Oddish",
+		"number": "#088",
+		"url": "https://pokemondb.net/pokedex/oddish",
+		"type": "Grass/Poison",
+		"types": [
+			"Grass",
+			"Poison"
+		]
+	},
+	"Gloom": {
+		"name": "Gloom",
+		"number": "#089",
+		"url": "https://pokemondb.net/pokedex/gloom",
+		"type": "Grass/Poison",
+		"types": [
+			"Grass",
+			"Poison"
+		]
+	},
+	"Vileplume": {
+		"name": "Vileplume",
+		"number": "#090",
+		"url": "https://pokemondb.net/pokedex/vileplume",
+		"type": "Grass/Poison",
+		"types": [
+			"Grass",
+			"Poison"
+		]
+	},
+	"Bellossom": {
+		"name": "Bellossom",
+		"number": "#091",
+		"url": "https://pokemondb.net/pokedex/bellossom",
+		"type": "Grass",
+		"types": [
+			"Grass"
+		]
+	},
+	"Doduo": {
+		"name": "Doduo",
+		"number": "#092",
+		"url": "https://pokemondb.net/pokedex/doduo",
+		"type": "Normal/Flying",
+		"types": [
+			"Normal",
+			"Flying"
+		]
+	},
+	"Dodrio": {
+		"name": "Dodrio",
+		"number": "#093",
+		"url": "https://pokemondb.net/pokedex/dodrio",
+		"type": "Normal/Flying",
+		"types": [
+			"Normal",
+			"Flying"
+		]
+	},
+	"Roselia": {
+		"name": "Roselia",
+		"number": "#094",
+		"url": "https://pokemondb.net/pokedex/roselia",
+		"type": "Grass/Poison",
+		"types": [
+			"Grass",
+			"Poison"
+		]
+	},
+	"Gulpin": {
+		"name": "Gulpin",
+		"number": "#095",
+		"url": "https://pokemondb.net/pokedex/gulpin",
+		"type": "Poison",
+		"types": [
+			"Poison"
+		]
+	},
+	"Swalot": {
+		"name": "Swalot",
+		"number": "#096",
+		"url": "https://pokemondb.net/pokedex/swalot",
+		"type": "Poison",
+		"types": [
+			"Poison"
+		]
+	},
+	"Carvanha": {
+		"name": "Carvanha",
+		"number": "#097",
+		"url": "https://pokemondb.net/pokedex/carvanha",
+		"type": "Water/Dark",
+		"types": [
+			"Water",
+			"Dark"
+		]
+	},
+	"Sharpedo": {
+		"name": "Sharpedo",
+		"number": "#098",
+		"url": "https://pokemondb.net/pokedex/sharpedo",
+		"type": "Water/Dark",
+		"types": [
+			"Water",
+			"Dark"
+		]
+	},
+	"Wailmer": {
+		"name": "Wailmer",
+		"number": "#099",
+		"url": "https://pokemondb.net/pokedex/wailmer",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Wailord": {
+		"name": "Wailord",
+		"number": "#100",
+		"url": "https://pokemondb.net/pokedex/wailord",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Numel": {
+		"name": "Numel",
+		"number": "#101",
+		"url": "https://pokemondb.net/pokedex/numel",
+		"type": "Fire/Ground",
+		"types": [
+			"Fire",
+			"Ground"
+		]
+	},
+	"Camerupt": {
+		"name": "Camerupt",
+		"number": "#102",
+		"url": "https://pokemondb.net/pokedex/camerupt",
+		"type": "Fire/Ground",
+		"types": [
+			"Fire",
+			"Ground"
+		]
+	},
+	"Slugma": {
+		"name": "Slugma",
+		"number": "#103",
+		"url": "https://pokemondb.net/pokedex/slugma",
+		"type": "Fire",
+		"types": [
+			"Fire"
+		]
+	},
+	"Magcargo": {
+		"name": "Magcargo",
+		"number": "#104",
+		"url": "https://pokemondb.net/pokedex/magcargo",
+		"type": "Fire/Rock",
+		"types": [
+			"Fire",
+			"Rock"
+		]
+	},
+	"Torkoal": {
+		"name": "Torkoal",
+		"number": "#105",
+		"url": "https://pokemondb.net/pokedex/torkoal",
+		"type": "Fire",
+		"types": [
+			"Fire"
+		]
+	},
+	"Grimer": {
+		"name": "Grimer",
+		"number": "#106",
+		"url": "https://pokemondb.net/pokedex/grimer",
+		"type": "Poison",
+		"types": [
+			"Poison"
+		]
+	},
+	"Muk": {
+		"name": "Muk",
+		"number": "#107",
+		"url": "https://pokemondb.net/pokedex/muk",
+		"type": "Poison",
+		"types": [
+			"Poison"
+		]
+	},
+	"Koffing": {
+		"name": "Koffing",
+		"number": "#108",
+		"url": "https://pokemondb.net/pokedex/koffing",
+		"type": "Poison",
+		"types": [
+			"Poison"
+		]
+	},
+	"Weezing": {
+		"name": "Weezing",
+		"number": "#109",
+		"url": "https://pokemondb.net/pokedex/weezing",
+		"type": "Poison",
+		"types": [
+			"Poison"
+		]
+	},
+	"Spoink": {
+		"name": "Spoink",
+		"number": "#110",
+		"url": "https://pokemondb.net/pokedex/spoink",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Grumpig": {
+		"name": "Grumpig",
+		"number": "#111",
+		"url": "https://pokemondb.net/pokedex/grumpig",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Sandshrew": {
+		"name": "Sandshrew",
+		"number": "#112",
+		"url": "https://pokemondb.net/pokedex/sandshrew",
+		"type": "Ground",
+		"types": [
+			"Ground"
+		]
+	},
+	"Sandslash": {
+		"name": "Sandslash",
+		"number": "#113",
+		"url": "https://pokemondb.net/pokedex/sandslash",
+		"type": "Ground",
+		"types": [
+			"Ground"
+		]
+	},
+	"Spinda": {
+		"name": "Spinda",
+		"number": "#114",
+		"url": "https://pokemondb.net/pokedex/spinda",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Skarmory": {
+		"name": "Skarmory",
+		"number": "#115",
+		"url": "https://pokemondb.net/pokedex/skarmory",
+		"type": "Flying/Steel",
+		"types": [
+			"Flying",
+			"Steel"
+		]
+	},
+	"Trapinch": {
+		"name": "Trapinch",
+		"number": "#116",
+		"url": "https://pokemondb.net/pokedex/trapinch",
+		"type": "Ground",
+		"types": [
+			"Ground"
+		]
+	},
+	"Vibrava": {
+		"name": "Vibrava",
+		"number": "#117",
+		"url": "https://pokemondb.net/pokedex/vibrava",
+		"type": "Ground/Dragon",
+		"types": [
+			"Ground",
+			"Dragon"
+		]
+	},
+	"Flygon": {
+		"name": "Flygon",
+		"number": "#118",
+		"url": "https://pokemondb.net/pokedex/flygon",
+		"type": "Ground/Dragon",
+		"types": [
+			"Ground",
+			"Dragon"
+		]
+	},
+	"Cacnea": {
+		"name": "Cacnea",
+		"number": "#119",
+		"url": "https://pokemondb.net/pokedex/cacnea",
+		"type": "Grass",
+		"types": [
+			"Grass"
+		]
+	},
+	"Cacturne": {
+		"name": "Cacturne",
+		"number": "#120",
+		"url": "https://pokemondb.net/pokedex/cacturne",
+		"type": "Grass/Dark",
+		"types": [
+			"Grass",
+			"Dark"
+		]
+	},
+	"Swablu": {
+		"name": "Swablu",
+		"number": "#121",
+		"url": "https://pokemondb.net/pokedex/swablu",
+		"type": "Normal/Flying",
+		"types": [
+			"Normal",
+			"Flying"
+		]
+	},
+	"Altaria": {
+		"name": "Altaria",
+		"number": "#122",
+		"url": "https://pokemondb.net/pokedex/altaria",
+		"type": "Flying/Dragon",
+		"types": [
+			"Flying",
+			"Dragon"
+		]
+	},
+	"Zangoose": {
+		"name": "Zangoose",
+		"number": "#123",
+		"url": "https://pokemondb.net/pokedex/zangoose",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Seviper": {
+		"name": "Seviper",
+		"number": "#124",
+		"url": "https://pokemondb.net/pokedex/seviper",
+		"type": "Poison",
+		"types": [
+			"Poison"
+		]
+	},
+	"Lunatone": {
+		"name": "Lunatone",
+		"number": "#125",
+		"url": "https://pokemondb.net/pokedex/lunatone",
+		"type": "Psychic/Rock",
+		"types": [
+			"Psychic",
+			"Rock"
+		]
+	},
+	"Solrock": {
+		"name": "Solrock",
+		"number": "#126",
+		"url": "https://pokemondb.net/pokedex/solrock",
+		"type": "Psychic/Rock",
+		"types": [
+			"Psychic",
+			"Rock"
+		]
+	},
+	"Barboach": {
+		"name": "Barboach",
+		"number": "#127",
+		"url": "https://pokemondb.net/pokedex/barboach",
+		"type": "Water/Ground",
+		"types": [
+			"Water",
+			"Ground"
+		]
+	},
+	"Whiscash": {
+		"name": "Whiscash",
+		"number": "#128",
+		"url": "https://pokemondb.net/pokedex/whiscash",
+		"type": "Water/Ground",
+		"types": [
+			"Water",
+			"Ground"
+		]
+	},
+	"Corphish": {
+		"name": "Corphish",
+		"number": "#129",
+		"url": "https://pokemondb.net/pokedex/corphish",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Crawdaunt": {
+		"name": "Crawdaunt",
+		"number": "#130",
+		"url": "https://pokemondb.net/pokedex/crawdaunt",
+		"type": "Water/Dark",
+		"types": [
+			"Water",
+			"Dark"
+		]
+	},
+	"Baltoy": {
+		"name": "Baltoy",
+		"number": "#131",
+		"url": "https://pokemondb.net/pokedex/baltoy",
+		"type": "Ground/Psychic",
+		"types": [
+			"Ground",
+			"Psychic"
+		]
+	},
+	"Claydol": {
+		"name": "Claydol",
+		"number": "#132",
+		"url": "https://pokemondb.net/pokedex/claydol",
+		"type": "Ground/Psychic",
+		"types": [
+			"Ground",
+			"Psychic"
+		]
+	},
+	"Lileep": {
+		"name": "Lileep",
+		"number": "#133",
+		"url": "https://pokemondb.net/pokedex/lileep",
+		"type": "Grass/Rock",
+		"types": [
+			"Grass",
+			"Rock"
+		]
+	},
+	"Cradily": {
+		"name": "Cradily",
+		"number": "#134",
+		"url": "https://pokemondb.net/pokedex/cradily",
+		"type": "Grass/Rock",
+		"types": [
+			"Grass",
+			"Rock"
+		]
+	},
+	"Anorith": {
+		"name": "Anorith",
+		"number": "#135",
+		"url": "https://pokemondb.net/pokedex/anorith",
+		"type": "Bug/Rock",
+		"types": [
+			"Bug",
+			"Rock"
+		]
+	},
+	"Armaldo": {
+		"name": "Armaldo",
+		"number": "#136",
+		"url": "https://pokemondb.net/pokedex/armaldo",
+		"type": "Bug/Rock",
+		"types": [
+			"Bug",
+			"Rock"
+		]
+	},
+	"Igglybuff": {
+		"name": "Igglybuff",
+		"number": "#137",
+		"url": "https://pokemondb.net/pokedex/igglybuff",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Jigglypuff": {
+		"name": "Jigglypuff",
+		"number": "#138",
+		"url": "https://pokemondb.net/pokedex/jigglypuff",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Wigglytuff": {
+		"name": "Wigglytuff",
+		"number": "#139",
+		"url": "https://pokemondb.net/pokedex/wigglytuff",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Feebas": {
+		"name": "Feebas",
+		"number": "#140",
+		"url": "https://pokemondb.net/pokedex/feebas",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Milotic": {
+		"name": "Milotic",
+		"number": "#141",
+		"url": "https://pokemondb.net/pokedex/milotic",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Castform": {
+		"name": "Castform",
+		"number": "#142",
+		"url": "https://pokemondb.net/pokedex/castform",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Staryu": {
+		"name": "Staryu",
+		"number": "#143",
+		"url": "https://pokemondb.net/pokedex/staryu",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Starmie": {
+		"name": "Starmie",
+		"number": "#144",
+		"url": "https://pokemondb.net/pokedex/starmie",
+		"type": "Water/Psychic",
+		"types": [
+			"Water",
+			"Psychic"
+		]
+	},
+	"Kecleon": {
+		"name": "Kecleon",
+		"number": "#145",
+		"url": "https://pokemondb.net/pokedex/kecleon",
+		"type": "Normal",
+		"types": [
+			"Normal"
+		]
+	},
+	"Shuppet": {
+		"name": "Shuppet",
+		"number": "#146",
+		"url": "https://pokemondb.net/pokedex/shuppet",
+		"type": "Ghost",
+		"types": [
+			"Ghost"
+		]
+	},
+	"Banette": {
+		"name": "Banette",
+		"number": "#147",
+		"url": "https://pokemondb.net/pokedex/banette",
+		"type": "Ghost",
+		"types": [
+			"Ghost"
+		]
+	},
+	"Duskull": {
+		"name": "Duskull",
+		"number": "#148",
+		"url": "https://pokemondb.net/pokedex/duskull",
+		"type": "Ghost",
+		"types": [
+			"Ghost"
+		]
+	},
+	"Dusclops": {
+		"name": "Dusclops",
+		"number": "#149",
+		"url": "https://pokemondb.net/pokedex/dusclops",
+		"type": "Ghost",
+		"types": [
+			"Ghost"
+		]
+	},
+	"Tropius": {
+		"name": "Tropius",
+		"number": "#150",
+		"url": "https://pokemondb.net/pokedex/tropius",
+		"type": "Grass/Flying",
+		"types": [
+			"Grass",
+			"Flying"
+		]
+	},
+	"Chimecho": {
+		"name": "Chimecho",
+		"number": "#151",
+		"url": "https://pokemondb.net/pokedex/chimecho",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Absol": {
+		"name": "Absol",
+		"number": "#152",
+		"url": "https://pokemondb.net/pokedex/absol",
+		"type": "Dark",
+		"types": [
+			"Dark"
+		]
+	},
+	"Vulpix": {
+		"name": "Vulpix",
+		"number": "#153",
+		"url": "https://pokemondb.net/pokedex/vulpix",
+		"type": "Fire",
+		"types": [
+			"Fire"
+		]
+	},
+	"Ninetales": {
+		"name": "Ninetales",
+		"number": "#154",
+		"url": "https://pokemondb.net/pokedex/ninetales",
+		"type": "Fire",
+		"types": [
+			"Fire"
+		]
+	},
+	"Pichu": {
+		"name": "Pichu",
+		"number": "#155",
+		"url": "https://pokemondb.net/pokedex/pichu",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Pikachu": {
+		"name": "Pikachu",
+		"number": "#156",
+		"url": "https://pokemondb.net/pokedex/pikachu",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Raichu": {
+		"name": "Raichu",
+		"number": "#157",
+		"url": "https://pokemondb.net/pokedex/raichu",
+		"type": "Electric",
+		"types": [
+			"Electric"
+		]
+	},
+	"Psyduck": {
+		"name": "Psyduck",
+		"number": "#158",
+		"url": "https://pokemondb.net/pokedex/psyduck",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Golduck": {
+		"name": "Golduck",
+		"number": "#159",
+		"url": "https://pokemondb.net/pokedex/golduck",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Wynaut": {
+		"name": "Wynaut",
+		"number": "#160",
+		"url": "https://pokemondb.net/pokedex/wynaut",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Wobbuffet": {
+		"name": "Wobbuffet",
+		"number": "#161",
+		"url": "https://pokemondb.net/pokedex/wobbuffet",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	},
+	"Natu": {
+		"name": "Natu",
+		"number": "#162",
+		"url": "https://pokemondb.net/pokedex/natu",
+		"type": "Flying/Psychic",
+		"types": [
+			"Flying",
+			"Psychic"
+		]
+	},
+	"Xatu": {
+		"name": "Xatu",
+		"number": "#163",
+		"url": "https://pokemondb.net/pokedex/xatu",
+		"type": "Flying/Psychic",
+		"types": [
+			"Flying",
+			"Psychic"
+		]
+	},
+	"Girafarig": {
+		"name": "Girafarig",
+		"number": "#164",
+		"url": "https://pokemondb.net/pokedex/girafarig",
+		"type": "Normal/Psychic",
+		"types": [
+			"Normal",
+			"Psychic"
+		]
+	},
+	"Phanpy": {
+		"name": "Phanpy",
+		"number": "#165",
+		"url": "https://pokemondb.net/pokedex/phanpy",
+		"type": "Ground",
+		"types": [
+			"Ground"
+		]
+	},
+	"Donphan": {
+		"name": "Donphan",
+		"number": "#166",
+		"url": "https://pokemondb.net/pokedex/donphan",
+		"type": "Ground",
+		"types": [
+			"Ground"
+		]
+	},
+	"Pinsir": {
+		"name": "Pinsir",
+		"number": "#167",
+		"url": "https://pokemondb.net/pokedex/pinsir",
+		"type": "Bug",
+		"types": [
+			"Bug"
+		]
+	},
+	"Heracross": {
+		"name": "Heracross",
+		"number": "#168",
+		"url": "https://pokemondb.net/pokedex/heracross",
+		"type": "Fighting/Bug",
+		"types": [
+			"Fighting",
+			"Bug"
+		]
+	},
+	"Rhyhorn": {
+		"name": "Rhyhorn",
+		"number": "#169",
+		"url": "https://pokemondb.net/pokedex/rhyhorn",
+		"type": "Ground/Rock",
+		"types": [
+			"Ground",
+			"Rock"
+		]
+	},
+	"Rhydon": {
+		"name": "Rhydon",
+		"number": "#170",
+		"url": "https://pokemondb.net/pokedex/rhydon",
+		"type": "Ground/Rock",
+		"types": [
+			"Ground",
+			"Rock"
+		]
+	},
+	"Snorunt": {
+		"name": "Snorunt",
+		"number": "#171",
+		"url": "https://pokemondb.net/pokedex/snorunt",
+		"type": "Ice",
+		"types": [
+			"Ice"
+		]
+	},
+	"Glalie": {
+		"name": "Glalie",
+		"number": "#172",
+		"url": "https://pokemondb.net/pokedex/glalie",
+		"type": "Ice",
+		"types": [
+			"Ice"
+		]
+	},
+	"Spheal": {
+		"name": "Spheal",
+		"number": "#173",
+		"url": "https://pokemondb.net/pokedex/spheal",
+		"type": "Water/Ice",
+		"types": [
+			"Water",
+			"Ice"
+		]
+	},
+	"Sealeo": {
+		"name": "Sealeo",
+		"number": "#174",
+		"url": "https://pokemondb.net/pokedex/sealeo",
+		"type": "Water/Ice",
+		"types": [
+			"Water",
+			"Ice"
+		]
+	},
+	"Walrein": {
+		"name": "Walrein",
+		"number": "#175",
+		"url": "https://pokemondb.net/pokedex/walrein",
+		"type": "Water/Ice",
+		"types": [
+			"Water",
+			"Ice"
+		]
+	},
+	"Clamperl": {
+		"name": "Clamperl",
+		"number": "#176",
+		"url": "https://pokemondb.net/pokedex/clamperl",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Huntail": {
+		"name": "Huntail",
+		"number": "#177",
+		"url": "https://pokemondb.net/pokedex/huntail",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Gorebyss": {
+		"name": "Gorebyss",
+		"number": "#178",
+		"url": "https://pokemondb.net/pokedex/gorebyss",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Relicanth": {
+		"name": "Relicanth",
+		"number": "#179",
+		"url": "https://pokemondb.net/pokedex/relicanth",
+		"type": "Water/Rock",
+		"types": [
+			"Water",
+			"Rock"
+		]
+	},
+	"Corsola": {
+		"name": "Corsola",
+		"number": "#180",
+		"url": "https://pokemondb.net/pokedex/corsola",
+		"type": "Water/Rock",
+		"types": [
+			"Water",
+			"Rock"
+		]
+	},
+	"Chinchou": {
+		"name": "Chinchou",
+		"number": "#181",
+		"url": "https://pokemondb.net/pokedex/chinchou",
+		"type": "Water/Electric",
+		"types": [
+			"Water",
+			"Electric"
+		]
+	},
+	"Lanturn": {
+		"name": "Lanturn",
+		"number": "#182",
+		"url": "https://pokemondb.net/pokedex/lanturn",
+		"type": "Water/Electric",
+		"types": [
+			"Water",
+			"Electric"
+		]
+	},
+	"Luvdisc": {
+		"name": "Luvdisc",
+		"number": "#183",
+		"url": "https://pokemondb.net/pokedex/luvdisc",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Horsea": {
+		"name": "Horsea",
+		"number": "#184",
+		"url": "https://pokemondb.net/pokedex/horsea",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Seadra": {
+		"name": "Seadra",
+		"number": "#185",
+		"url": "https://pokemondb.net/pokedex/seadra",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Kingdra": {
+		"name": "Kingdra",
+		"number": "#186",
+		"url": "https://pokemondb.net/pokedex/kingdra",
+		"type": "Water/Dragon",
+		"types": [
+			"Water",
+			"Dragon"
+		]
+	},
+	"Bagon": {
+		"name": "Bagon",
+		"number": "#187",
+		"url": "https://pokemondb.net/pokedex/bagon",
+		"type": "Dragon",
+		"types": [
+			"Dragon"
+		]
+	},
+	"Shelgon": {
+		"name": "Shelgon",
+		"number": "#188",
+		"url": "https://pokemondb.net/pokedex/shelgon",
+		"type": "Dragon",
+		"types": [
+			"Dragon"
+		]
+	},
+	"Salamence": {
+		"name": "Salamence",
+		"number": "#189",
+		"url": "https://pokemondb.net/pokedex/salamence",
+		"type": "Flying/Dragon",
+		"types": [
+			"Flying",
+			"Dragon"
+		]
+	},
+	"Beldum": {
+		"name": "Beldum",
+		"number": "#190",
+		"url": "https://pokemondb.net/pokedex/beldum",
+		"type": "Psychic/Steel",
+		"types": [
+			"Psychic",
+			"Steel"
+		]
+	},
+	"Metang": {
+		"name": "Metang",
+		"number": "#191",
+		"url": "https://pokemondb.net/pokedex/metang",
+		"type": "Psychic/Steel",
+		"types": [
+			"Psychic",
+			"Steel"
+		]
+	},
+	"Metagross": {
+		"name": "Metagross",
+		"number": "#192",
+		"url": "https://pokemondb.net/pokedex/metagross",
+		"type": "Psychic/Steel",
+		"types": [
+			"Psychic",
+			"Steel"
+		]
+	},
+	"Regirock": {
+		"name": "Regirock",
+		"number": "#193",
+		"url": "https://pokemondb.net/pokedex/regirock",
+		"type": "Rock",
+		"types": [
+			"Rock"
+		]
+	},
+	"Regice": {
+		"name": "Regice",
+		"number": "#194",
+		"url": "https://pokemondb.net/pokedex/regice",
+		"type": "Ice",
+		"types": [
+			"Ice"
+		]
+	},
+	"Registeel": {
+		"name": "Registeel",
+		"number": "#195",
+		"url": "https://pokemondb.net/pokedex/registeel",
+		"type": "Steel",
+		"types": [
+			"Steel"
+		]
+	},
+	"Latias": {
+		"name": "Latias",
+		"number": "#196",
+		"url": "https://pokemondb.net/pokedex/latias",
+		"type": "Psychic/Dragon",
+		"types": [
+			"Psychic",
+			"Dragon"
+		]
+	},
+	"Latios": {
+		"name": "Latios",
+		"number": "#197",
+		"url": "https://pokemondb.net/pokedex/latios",
+		"type": "Psychic/Dragon",
+		"types": [
+			"Psychic",
+			"Dragon"
+		]
+	},
+	"Kyogre": {
+		"name": "Kyogre",
+		"number": "#198",
+		"url": "https://pokemondb.net/pokedex/kyogre",
+		"type": "Water",
+		"types": [
+			"Water"
+		]
+	},
+	"Groudon": {
+		"name": "Groudon",
+		"number": "#199",
+		"url": "https://pokemondb.net/pokedex/groudon",
+		"type": "Ground",
+		"types": [
+			"Ground"
+		]
+	},
+	"Rayquaza": {
+		"name": "Rayquaza",
+		"number": "#200",
+		"url": "https://pokemondb.net/pokedex/rayquaza",
+		"type": "Flying/Dragon",
+		"types": [
+			"Flying",
+			"Dragon"
+		]
+	},
+	"Jirachi": {
+		"name": "Jirachi",
+		"number": "#201",
+		"url": "https://pokemondb.net/pokedex/jirachi",
+		"type": "Psychic/Steel",
+		"types": [
+			"Psychic",
+			"Steel"
+		]
+	},
+	"Deoxys": {
+		"name": "Deoxys",
+		"number": "#202",
+		"url": "https://pokemondb.net/pokedex/deoxys",
+		"type": "Psychic",
+		"types": [
+			"Psychic"
+		]
+	}
+}
