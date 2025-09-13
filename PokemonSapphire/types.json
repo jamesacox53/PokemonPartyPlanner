@@ -1,44 +1,140 @@
 {
-	"Grass": {
-		"name": "Grass",
+	"Normal": {
+		"name": "Normal",
 		"types": [
-			"Grass"
+			"Normal"
 		],
 		"pokemonNames": [
-			"Treecko",
-			"Grovyle",
-			"Sceptile",
-			"Seedot",
-			"Shroomish",
-			"Bellossom",
-			"Cacnea"
+			"Zigzagoon",
+			"Linoone",
+			"Slakoth",
+			"Vigoroth",
+			"Slaking",
+			"Whismur",
+			"Loudred",
+			"Exploud",
+			"Azurill",
+			"Skitty",
+			"Delcatty",
+			"Spinda",
+			"Zangoose",
+			"Igglybuff",
+			"Jigglypuff",
+			"Wigglytuff",
+			"Castform",
+			"Kecleon"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/treecko",
-			"https://pokemondb.net/pokedex/grovyle",
-			"https://pokemondb.net/pokedex/sceptile",
-			"https://pokemondb.net/pokedex/seedot",
-			"https://pokemondb.net/pokedex/shroomish",
-			"https://pokemondb.net/pokedex/bellossom",
-			"https://pokemondb.net/pokedex/cacnea"
+			"https://pokemondb.net/pokedex/zigzagoon",
+			"https://pokemondb.net/pokedex/linoone",
+			"https://pokemondb.net/pokedex/slakoth",
+			"https://pokemondb.net/pokedex/vigoroth",
+			"https://pokemondb.net/pokedex/slaking",
+			"https://pokemondb.net/pokedex/whismur",
+			"https://pokemondb.net/pokedex/loudred",
+			"https://pokemondb.net/pokedex/exploud",
+			"https://pokemondb.net/pokedex/azurill",
+			"https://pokemondb.net/pokedex/skitty",
+			"https://pokemondb.net/pokedex/delcatty",
+			"https://pokemondb.net/pokedex/spinda",
+			"https://pokemondb.net/pokedex/zangoose",
+			"https://pokemondb.net/pokedex/igglybuff",
+			"https://pokemondb.net/pokedex/jigglypuff",
+			"https://pokemondb.net/pokedex/wigglytuff",
+			"https://pokemondb.net/pokedex/castform",
+			"https://pokemondb.net/pokedex/kecleon"
 		],
 		"defense": {
 			"Normal": 1,
-			"Fire": 2,
-			"Water": 0.5,
-			"Electric": 0.5,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 2,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 1,
+			"Ghost": 0,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Normal/Flying": {
+		"name": "Normal/Flying",
+		"types": [
+			"Normal",
+			"Flying"
+		],
+		"pokemonNames": [
+			"Taillow",
+			"Swellow",
+			"Doduo",
+			"Dodrio",
+			"Swablu"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/taillow",
+			"https://pokemondb.net/pokedex/swellow",
+			"https://pokemondb.net/pokedex/doduo",
+			"https://pokemondb.net/pokedex/dodrio",
+			"https://pokemondb.net/pokedex/swablu"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 2,
 			"Grass": 0.5,
 			"Ice": 2,
 			"Fighting": 1,
-			"Poison": 2,
-			"Ground": 0.5,
-			"Flying": 2,
+			"Poison": 1,
+			"Ground": 0,
+			"Flying": 1,
 			"Psychic": 1,
-			"Bug": 2,
-			"Rock": 1,
-			"Ghost": 1,
+			"Bug": 0.5,
+			"Rock": 2,
+			"Ghost": 0,
 			"Dragon": 1,
 			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Normal/Psychic": {
+		"name": "Normal/Psychic",
+		"types": [
+			"Normal",
+			"Psychic"
+		],
+		"pokemonNames": [
+			"Girafarig"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/girafarig"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 1,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 0.5,
+			"Bug": 2,
+			"Rock": 1,
+			"Ghost": 0,
+			"Dragon": 1,
+			"Dark": 2,
 			"Steel": 1,
 			"Fairy": 1
 		}
@@ -118,6 +214,74 @@
 			"Fairy": 1
 		}
 	},
+	"Fire/Ground": {
+		"name": "Fire/Ground",
+		"types": [
+			"Fire",
+			"Ground"
+		],
+		"pokemonNames": [
+			"Numel",
+			"Camerupt"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/numel",
+			"https://pokemondb.net/pokedex/camerupt"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 0.5,
+			"Water": 4,
+			"Electric": 0,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 1,
+			"Poison": 0.5,
+			"Ground": 2,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 0.5,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 0.5,
+			"Fairy": 0.5
+		}
+	},
+	"Fire/Rock": {
+		"name": "Fire/Rock",
+		"types": [
+			"Fire",
+			"Rock"
+		],
+		"pokemonNames": [
+			"Magcargo"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/magcargo"
+		],
+		"defense": {
+			"Normal": 0.5,
+			"Fire": 0.25,
+			"Water": 4,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 0.5,
+			"Fighting": 2,
+			"Poison": 0.5,
+			"Ground": 4,
+			"Flying": 0.5,
+			"Psychic": 1,
+			"Bug": 0.5,
+			"Rock": 2,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 0.5
+		}
+	},
 	"Water": {
 		"name": "Water",
 		"types": [
@@ -190,257 +354,39 @@
 			"Fairy": 1
 		}
 	},
-	"Water/Ground": {
-		"name": "Water/Ground",
+	"Water/Electric": {
+		"name": "Water/Electric",
 		"types": [
 			"Water",
-			"Ground"
+			"Electric"
 		],
 		"pokemonNames": [
-			"Marshtomp",
-			"Swampert",
-			"Barboach",
-			"Whiscash"
+			"Chinchou",
+			"Lanturn"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/marshtomp",
-			"https://pokemondb.net/pokedex/swampert",
-			"https://pokemondb.net/pokedex/barboach",
-			"https://pokemondb.net/pokedex/whiscash"
+			"https://pokemondb.net/pokedex/chinchou",
+			"https://pokemondb.net/pokedex/lanturn"
 		],
 		"defense": {
 			"Normal": 1,
 			"Fire": 0.5,
-			"Water": 1,
+			"Water": 0.5,
 			"Electric": 0,
-			"Grass": 4,
-			"Ice": 1,
+			"Grass": 2,
+			"Ice": 0.5,
 			"Fighting": 1,
-			"Poison": 0.5,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 0.5,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 0.5,
-			"Fairy": 1
-		}
-	},
-	"Dark": {
-		"name": "Dark",
-		"types": [
-			"Dark"
-		],
-		"pokemonNames": [
-			"Poochyena",
-			"Mightyena",
-			"Absol"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/poochyena",
-			"https://pokemondb.net/pokedex/mightyena",
-			"https://pokemondb.net/pokedex/absol"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 2,
 			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 0,
-			"Bug": 2,
-			"Rock": 1,
-			"Ghost": 0.5,
-			"Dragon": 1,
-			"Dark": 0.5,
-			"Steel": 1,
-			"Fairy": 2
-		}
-	},
-	"Normal": {
-		"name": "Normal",
-		"types": [
-			"Normal"
-		],
-		"pokemonNames": [
-			"Zigzagoon",
-			"Linoone",
-			"Slakoth",
-			"Vigoroth",
-			"Slaking",
-			"Whismur",
-			"Loudred",
-			"Exploud",
-			"Azurill",
-			"Skitty",
-			"Delcatty",
-			"Spinda",
-			"Zangoose",
-			"Igglybuff",
-			"Jigglypuff",
-			"Wigglytuff",
-			"Castform",
-			"Kecleon"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/zigzagoon",
-			"https://pokemondb.net/pokedex/linoone",
-			"https://pokemondb.net/pokedex/slakoth",
-			"https://pokemondb.net/pokedex/vigoroth",
-			"https://pokemondb.net/pokedex/slaking",
-			"https://pokemondb.net/pokedex/whismur",
-			"https://pokemondb.net/pokedex/loudred",
-			"https://pokemondb.net/pokedex/exploud",
-			"https://pokemondb.net/pokedex/azurill",
-			"https://pokemondb.net/pokedex/skitty",
-			"https://pokemondb.net/pokedex/delcatty",
-			"https://pokemondb.net/pokedex/spinda",
-			"https://pokemondb.net/pokedex/zangoose",
-			"https://pokemondb.net/pokedex/igglybuff",
-			"https://pokemondb.net/pokedex/jigglypuff",
-			"https://pokemondb.net/pokedex/wigglytuff",
-			"https://pokemondb.net/pokedex/castform",
-			"https://pokemondb.net/pokedex/kecleon"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 2,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
+			"Ground": 2,
+			"Flying": 0.5,
 			"Psychic": 1,
 			"Bug": 1,
 			"Rock": 1,
-			"Ghost": 0,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Bug": {
-		"name": "Bug",
-		"types": [
-			"Bug"
-		],
-		"pokemonNames": [
-			"Wurmple",
-			"Silcoon",
-			"Cascoon",
-			"Volbeat",
-			"Illumise",
-			"Pinsir"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/wurmple",
-			"https://pokemondb.net/pokedex/silcoon",
-			"https://pokemondb.net/pokedex/cascoon",
-			"https://pokemondb.net/pokedex/volbeat",
-			"https://pokemondb.net/pokedex/illumise",
-			"https://pokemondb.net/pokedex/pinsir"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 0.5,
-			"Ice": 1,
-			"Fighting": 0.5,
-			"Poison": 1,
-			"Ground": 0.5,
-			"Flying": 2,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 2,
 			"Ghost": 1,
 			"Dragon": 1,
 			"Dark": 1,
-			"Steel": 1,
+			"Steel": 0.25,
 			"Fairy": 1
-		}
-	},
-	"Flying/Bug": {
-		"name": "Flying/Bug",
-		"types": [
-			"Flying",
-			"Bug"
-		],
-		"pokemonNames": [
-			"Beautifly",
-			"Masquerain",
-			"Ninjask"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/beautifly",
-			"https://pokemondb.net/pokedex/masquerain",
-			"https://pokemondb.net/pokedex/ninjask"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 1,
-			"Electric": 2,
-			"Grass": 0.25,
-			"Ice": 2,
-			"Fighting": 0.25,
-			"Poison": 1,
-			"Ground": 0,
-			"Flying": 2,
-			"Psychic": 1,
-			"Bug": 0.5,
-			"Rock": 4,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Poison/Bug": {
-		"name": "Poison/Bug",
-		"types": [
-			"Poison",
-			"Bug"
-		],
-		"pokemonNames": [
-			"Dustox"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/dustox"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 0.25,
-			"Ice": 1,
-			"Fighting": 0.25,
-			"Poison": 0.5,
-			"Ground": 1,
-			"Flying": 2,
-			"Psychic": 2,
-			"Bug": 0.5,
-			"Rock": 2,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 0.5
 		}
 	},
 	"Water/Grass": {
@@ -480,81 +426,114 @@
 			"Fairy": 1
 		}
 	},
-	"Grass/Dark": {
-		"name": "Grass/Dark",
+	"Water/Ice": {
+		"name": "Water/Ice",
 		"types": [
-			"Grass",
-			"Dark"
+			"Water",
+			"Ice"
 		],
 		"pokemonNames": [
-			"Nuzleaf",
-			"Shiftry",
-			"Cacturne"
+			"Spheal",
+			"Sealeo",
+			"Walrein"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/nuzleaf",
-			"https://pokemondb.net/pokedex/shiftry",
-			"https://pokemondb.net/pokedex/cacturne"
+			"https://pokemondb.net/pokedex/spheal",
+			"https://pokemondb.net/pokedex/sealeo",
+			"https://pokemondb.net/pokedex/walrein"
 		],
 		"defense": {
 			"Normal": 1,
-			"Fire": 2,
+			"Fire": 0.5,
 			"Water": 0.5,
-			"Electric": 0.5,
-			"Grass": 0.5,
-			"Ice": 2,
-			"Fighting": 2,
-			"Poison": 2,
-			"Ground": 0.5,
-			"Flying": 2,
-			"Psychic": 0,
-			"Bug": 4,
-			"Rock": 1,
-			"Ghost": 0.5,
-			"Dragon": 1,
-			"Dark": 0.5,
-			"Steel": 1,
-			"Fairy": 2
-		}
-	},
-	"Normal/Flying": {
-		"name": "Normal/Flying",
-		"types": [
-			"Normal",
-			"Flying"
-		],
-		"pokemonNames": [
-			"Taillow",
-			"Swellow",
-			"Doduo",
-			"Dodrio",
-			"Swablu"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/taillow",
-			"https://pokemondb.net/pokedex/swellow",
-			"https://pokemondb.net/pokedex/doduo",
-			"https://pokemondb.net/pokedex/dodrio",
-			"https://pokemondb.net/pokedex/swablu"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
 			"Electric": 2,
-			"Grass": 0.5,
-			"Ice": 2,
-			"Fighting": 1,
+			"Grass": 2,
+			"Ice": 0.125,
+			"Fighting": 2,
 			"Poison": 1,
-			"Ground": 0,
+			"Ground": 1,
 			"Flying": 1,
 			"Psychic": 1,
-			"Bug": 0.5,
+			"Bug": 1,
 			"Rock": 2,
-			"Ghost": 0,
+			"Ghost": 1,
 			"Dragon": 1,
 			"Dark": 1,
 			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Water/Poison": {
+		"name": "Water/Poison",
+		"types": [
+			"Water",
+			"Poison"
+		],
+		"pokemonNames": [
+			"Tentacool",
+			"Tentacruel"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/tentacool",
+			"https://pokemondb.net/pokedex/tentacruel"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 0.5,
+			"Water": 0.5,
+			"Electric": 2,
+			"Grass": 1,
+			"Ice": 0.5,
+			"Fighting": 0.5,
+			"Poison": 0.5,
+			"Ground": 2,
+			"Flying": 1,
+			"Psychic": 2,
+			"Bug": 0.5,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 0.5,
+			"Fairy": 0.5
+		}
+	},
+	"Water/Ground": {
+		"name": "Water/Ground",
+		"types": [
+			"Water",
+			"Ground"
+		],
+		"pokemonNames": [
+			"Marshtomp",
+			"Swampert",
+			"Barboach",
+			"Whiscash"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/marshtomp",
+			"https://pokemondb.net/pokedex/swampert",
+			"https://pokemondb.net/pokedex/barboach",
+			"https://pokemondb.net/pokedex/whiscash"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 0.5,
+			"Water": 1,
+			"Electric": 0,
+			"Grass": 4,
+			"Ice": 1,
+			"Fighting": 1,
+			"Poison": 0.5,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 0.5,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 0.5,
 			"Fairy": 1
 		}
 	},
@@ -595,46 +574,25 @@
 			"Fairy": 1
 		}
 	},
-	"Psychic": {
-		"name": "Psychic",
+	"Water/Psychic": {
+		"name": "Water/Psychic",
 		"types": [
+			"Water",
 			"Psychic"
 		],
 		"pokemonNames": [
-			"Ralts",
-			"Kirlia",
-			"Gardevoir",
-			"Abra",
-			"Kadabra",
-			"Alakazam",
-			"Spoink",
-			"Grumpig",
-			"Chimecho",
-			"Wynaut",
-			"Wobbuffet",
-			"Deoxys"
+			"Starmie"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/ralts",
-			"https://pokemondb.net/pokedex/kirlia",
-			"https://pokemondb.net/pokedex/gardevoir",
-			"https://pokemondb.net/pokedex/abra",
-			"https://pokemondb.net/pokedex/kadabra",
-			"https://pokemondb.net/pokedex/alakazam",
-			"https://pokemondb.net/pokedex/spoink",
-			"https://pokemondb.net/pokedex/grumpig",
-			"https://pokemondb.net/pokedex/chimecho",
-			"https://pokemondb.net/pokedex/wynaut",
-			"https://pokemondb.net/pokedex/wobbuffet",
-			"https://pokemondb.net/pokedex/deoxys"
+			"https://pokemondb.net/pokedex/starmie"
 		],
 		"defense": {
 			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
+			"Fire": 0.5,
+			"Water": 0.5,
+			"Electric": 2,
+			"Grass": 2,
+			"Ice": 0.5,
 			"Fighting": 0.5,
 			"Poison": 1,
 			"Ground": 1,
@@ -645,7 +603,7 @@
 			"Ghost": 2,
 			"Dragon": 1,
 			"Dark": 2,
-			"Steel": 1,
+			"Steel": 0.5,
 			"Fairy": 1
 		}
 	},
@@ -682,62 +640,31 @@
 			"Fairy": 1
 		}
 	},
-	"Grass/Fighting": {
-		"name": "Grass/Fighting",
+	"Water/Rock": {
+		"name": "Water/Rock",
 		"types": [
-			"Grass",
-			"Fighting"
+			"Water",
+			"Rock"
 		],
 		"pokemonNames": [
-			"Breloom"
+			"Relicanth",
+			"Corsola"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/breloom"
+			"https://pokemondb.net/pokedex/relicanth",
+			"https://pokemondb.net/pokedex/corsola"
 		],
 		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 0.5,
-			"Electric": 0.5,
-			"Grass": 0.5,
-			"Ice": 2,
-			"Fighting": 1,
-			"Poison": 2,
-			"Ground": 0.5,
-			"Flying": 4,
-			"Psychic": 2,
-			"Bug": 1,
-			"Rock": 0.5,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 0.5,
-			"Steel": 1,
-			"Fairy": 2
-		}
-	},
-	"Ground/Bug": {
-		"name": "Ground/Bug",
-		"types": [
-			"Ground",
-			"Bug"
-		],
-		"pokemonNames": [
-			"Nincada"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/nincada"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 2,
-			"Electric": 0,
-			"Grass": 1,
-			"Ice": 2,
-			"Fighting": 0.5,
+			"Normal": 0.5,
+			"Fire": 0.25,
+			"Water": 1,
+			"Electric": 2,
+			"Grass": 4,
+			"Ice": 0.5,
+			"Fighting": 2,
 			"Poison": 0.5,
-			"Ground": 0.5,
-			"Flying": 2,
+			"Ground": 2,
+			"Flying": 0.5,
 			"Psychic": 1,
 			"Bug": 1,
 			"Rock": 1,
@@ -748,362 +675,73 @@
 			"Fairy": 1
 		}
 	},
-	"Bug/Ghost": {
-		"name": "Bug/Ghost",
+	"Water/Dragon": {
+		"name": "Water/Dragon",
 		"types": [
-			"Bug",
-			"Ghost"
+			"Water",
+			"Dragon"
 		],
 		"pokemonNames": [
-			"Shedinja"
+			"Kingdra"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/shedinja"
-		],
-		"defense": {
-			"Normal": 0,
-			"Fire": 2,
-			"Water": 0,
-			"Electric": 0,
-			"Grass": 0,
-			"Ice": 0,
-			"Fighting": 0,
-			"Poison": 0,
-			"Ground": 0,
-			"Flying": 2,
-			"Psychic": 0,
-			"Bug": 0,
-			"Rock": 2,
-			"Ghost": 2,
-			"Dragon": 0,
-			"Dark": 2,
-			"Steel": 0,
-			"Fairy": 0
-		}
-	},
-	"Fighting": {
-		"name": "Fighting",
-		"types": [
-			"Fighting"
-		],
-		"pokemonNames": [
-			"Makuhita",
-			"Hariyama",
-			"Machop",
-			"Machoke",
-			"Machamp"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/makuhita",
-			"https://pokemondb.net/pokedex/hariyama",
-			"https://pokemondb.net/pokedex/machop",
-			"https://pokemondb.net/pokedex/machoke",
-			"https://pokemondb.net/pokedex/machamp"
+			"https://pokemondb.net/pokedex/kingdra"
 		],
 		"defense": {
 			"Normal": 1,
-			"Fire": 0.5,
-			"Water": 1,
+			"Fire": 0.25,
+			"Water": 0.25,
 			"Electric": 1,
 			"Grass": 1,
-			"Ice": 0.5,
+			"Ice": 1,
 			"Fighting": 1,
 			"Poison": 1,
 			"Ground": 1,
-			"Flying": 2,
-			"Psychic": 2,
-			"Bug": 0.5,
-			"Rock": 0.5,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 1,
 			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 0.5,
-			"Steel": 1,
+			"Dragon": 2,
+			"Dark": 1,
+			"Steel": 0.5,
 			"Fairy": 2
 		}
 	},
-	"Ground/Rock": {
-		"name": "Ground/Rock",
-		"types": [
-			"Ground",
-			"Rock"
-		],
-		"pokemonNames": [
-			"Geodude",
-			"Graveler",
-			"Golem",
-			"Rhyhorn",
-			"Rhydon"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/geodude",
-			"https://pokemondb.net/pokedex/graveler",
-			"https://pokemondb.net/pokedex/golem",
-			"https://pokemondb.net/pokedex/rhyhorn",
-			"https://pokemondb.net/pokedex/rhydon"
-		],
-		"defense": {
-			"Normal": 0.5,
-			"Fire": 0.5,
-			"Water": 4,
-			"Electric": 0,
-			"Grass": 4,
-			"Ice": 2,
-			"Fighting": 2,
-			"Poison": 0.25,
-			"Ground": 2,
-			"Flying": 0.5,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 0.5,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 2,
-			"Fairy": 1
-		}
-	},
-	"Rock": {
-		"name": "Rock",
-		"types": [
-			"Rock"
-		],
-		"pokemonNames": [
-			"Nosepass",
-			"Regirock"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/nosepass",
-			"https://pokemondb.net/pokedex/regirock"
-		],
-		"defense": {
-			"Normal": 0.5,
-			"Fire": 0.5,
-			"Water": 2,
-			"Electric": 1,
-			"Grass": 2,
-			"Ice": 1,
-			"Fighting": 2,
-			"Poison": 0.5,
-			"Ground": 2,
-			"Flying": 0.5,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 2,
-			"Fairy": 1
-		}
-	},
-	"Poison/Flying": {
-		"name": "Poison/Flying",
-		"types": [
-			"Poison",
-			"Flying"
-		],
-		"pokemonNames": [
-			"Zubat",
-			"Golbat",
-			"Crobat"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/zubat",
-			"https://pokemondb.net/pokedex/golbat",
-			"https://pokemondb.net/pokedex/crobat"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 2,
-			"Grass": 0.25,
-			"Ice": 2,
-			"Fighting": 0.25,
-			"Poison": 0.5,
-			"Ground": 0,
-			"Flying": 1,
-			"Psychic": 2,
-			"Bug": 0.25,
-			"Rock": 2,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 0.5
-		}
-	},
-	"Water/Poison": {
-		"name": "Water/Poison",
+	"Water/Dark": {
+		"name": "Water/Dark",
 		"types": [
 			"Water",
-			"Poison"
-		],
-		"pokemonNames": [
-			"Tentacool",
-			"Tentacruel"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/tentacool",
-			"https://pokemondb.net/pokedex/tentacruel"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 0.5,
-			"Water": 0.5,
-			"Electric": 2,
-			"Grass": 1,
-			"Ice": 0.5,
-			"Fighting": 0.5,
-			"Poison": 0.5,
-			"Ground": 2,
-			"Flying": 1,
-			"Psychic": 2,
-			"Bug": 0.5,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 0.5,
-			"Fairy": 0.5
-		}
-	},
-	"Ghost/Dark": {
-		"name": "Ghost/Dark",
-		"types": [
-			"Ghost",
 			"Dark"
 		],
 		"pokemonNames": [
-			"Sableye"
+			"Carvanha",
+			"Sharpedo",
+			"Crawdaunt"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/sableye"
-		],
-		"defense": {
-			"Normal": 0,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 0,
-			"Poison": 0.5,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 0,
-			"Bug": 1,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 2
-		}
-	},
-	"Steel": {
-		"name": "Steel",
-		"types": [
-			"Steel"
-		],
-		"pokemonNames": [
-			"Mawile",
-			"Registeel"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/mawile",
-			"https://pokemondb.net/pokedex/registeel"
-		],
-		"defense": {
-			"Normal": 0.5,
-			"Fire": 2,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 0.5,
-			"Ice": 0.5,
-			"Fighting": 2,
-			"Poison": 0,
-			"Ground": 2,
-			"Flying": 0.5,
-			"Psychic": 0.5,
-			"Bug": 0.5,
-			"Rock": 0.5,
-			"Ghost": 1,
-			"Dragon": 0.5,
-			"Dark": 1,
-			"Steel": 0.5,
-			"Fairy": 0.5
-		}
-	},
-	"Rock/Steel": {
-		"name": "Rock/Steel",
-		"types": [
-			"Rock",
-			"Steel"
-		],
-		"pokemonNames": [
-			"Aron",
-			"Lairon",
-			"Aggron"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/aron",
-			"https://pokemondb.net/pokedex/lairon",
-			"https://pokemondb.net/pokedex/aggron"
-		],
-		"defense": {
-			"Normal": 0.25,
-			"Fire": 1,
-			"Water": 2,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 0.5,
-			"Fighting": 4,
-			"Poison": 0,
-			"Ground": 4,
-			"Flying": 0.25,
-			"Psychic": 0.5,
-			"Bug": 0.5,
-			"Rock": 0.5,
-			"Ghost": 1,
-			"Dragon": 0.5,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 0.5
-		}
-	},
-	"Fighting/Psychic": {
-		"name": "Fighting/Psychic",
-		"types": [
-			"Fighting",
-			"Psychic"
-		],
-		"pokemonNames": [
-			"Meditite",
-			"Medicham"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/meditite",
-			"https://pokemondb.net/pokedex/medicham"
+			"https://pokemondb.net/pokedex/carvanha",
+			"https://pokemondb.net/pokedex/sharpedo",
+			"https://pokemondb.net/pokedex/crawdaunt"
 		],
 		"defense": {
 			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 0.5,
+			"Fire": 0.5,
+			"Water": 0.5,
+			"Electric": 2,
+			"Grass": 2,
+			"Ice": 0.5,
+			"Fighting": 2,
 			"Poison": 1,
 			"Ground": 1,
-			"Flying": 2,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 0.5,
-			"Ghost": 2,
+			"Flying": 1,
+			"Psychic": 0,
+			"Bug": 2,
+			"Rock": 1,
+			"Ghost": 0.5,
 			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
+			"Dark": 0.5,
+			"Steel": 0.5,
 			"Fairy": 2
 		}
 	},
@@ -1190,6 +828,83 @@
 			"Fairy": 0.5
 		}
 	},
+	"Grass": {
+		"name": "Grass",
+		"types": [
+			"Grass"
+		],
+		"pokemonNames": [
+			"Treecko",
+			"Grovyle",
+			"Sceptile",
+			"Seedot",
+			"Shroomish",
+			"Bellossom",
+			"Cacnea"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/treecko",
+			"https://pokemondb.net/pokedex/grovyle",
+			"https://pokemondb.net/pokedex/sceptile",
+			"https://pokemondb.net/pokedex/seedot",
+			"https://pokemondb.net/pokedex/shroomish",
+			"https://pokemondb.net/pokedex/bellossom",
+			"https://pokemondb.net/pokedex/cacnea"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 0.5,
+			"Electric": 0.5,
+			"Grass": 0.5,
+			"Ice": 2,
+			"Fighting": 1,
+			"Poison": 2,
+			"Ground": 0.5,
+			"Flying": 2,
+			"Psychic": 1,
+			"Bug": 2,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Grass/Fighting": {
+		"name": "Grass/Fighting",
+		"types": [
+			"Grass",
+			"Fighting"
+		],
+		"pokemonNames": [
+			"Breloom"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/breloom"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 0.5,
+			"Electric": 0.5,
+			"Grass": 0.5,
+			"Ice": 2,
+			"Fighting": 1,
+			"Poison": 2,
+			"Ground": 0.5,
+			"Flying": 4,
+			"Psychic": 2,
+			"Bug": 1,
+			"Rock": 0.5,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 0.5,
+			"Steel": 1,
+			"Fairy": 2
+		}
+	},
 	"Grass/Poison": {
 		"name": "Grass/Poison",
 		"types": [
@@ -1227,6 +942,255 @@
 			"Dark": 1,
 			"Steel": 1,
 			"Fairy": 0.5
+		}
+	},
+	"Grass/Flying": {
+		"name": "Grass/Flying",
+		"types": [
+			"Grass",
+			"Flying"
+		],
+		"pokemonNames": [
+			"Tropius"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/tropius"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 0.5,
+			"Electric": 1,
+			"Grass": 0.25,
+			"Ice": 4,
+			"Fighting": 0.5,
+			"Poison": 2,
+			"Ground": 0,
+			"Flying": 2,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 2,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Grass/Rock": {
+		"name": "Grass/Rock",
+		"types": [
+			"Grass",
+			"Rock"
+		],
+		"pokemonNames": [
+			"Lileep",
+			"Cradily"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/lileep",
+			"https://pokemondb.net/pokedex/cradily"
+		],
+		"defense": {
+			"Normal": 0.5,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 0.5,
+			"Grass": 1,
+			"Ice": 2,
+			"Fighting": 2,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 2,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 2,
+			"Fairy": 1
+		}
+	},
+	"Grass/Dark": {
+		"name": "Grass/Dark",
+		"types": [
+			"Grass",
+			"Dark"
+		],
+		"pokemonNames": [
+			"Nuzleaf",
+			"Shiftry",
+			"Cacturne"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/nuzleaf",
+			"https://pokemondb.net/pokedex/shiftry",
+			"https://pokemondb.net/pokedex/cacturne"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 0.5,
+			"Electric": 0.5,
+			"Grass": 0.5,
+			"Ice": 2,
+			"Fighting": 2,
+			"Poison": 2,
+			"Ground": 0.5,
+			"Flying": 2,
+			"Psychic": 0,
+			"Bug": 4,
+			"Rock": 1,
+			"Ghost": 0.5,
+			"Dragon": 1,
+			"Dark": 0.5,
+			"Steel": 1,
+			"Fairy": 2
+		}
+	},
+	"Ice": {
+		"name": "Ice",
+		"types": [
+			"Ice"
+		],
+		"pokemonNames": [
+			"Snorunt",
+			"Glalie",
+			"Regice"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/snorunt",
+			"https://pokemondb.net/pokedex/glalie",
+			"https://pokemondb.net/pokedex/regice"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 0.5,
+			"Fighting": 2,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 2,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 2,
+			"Fairy": 1
+		}
+	},
+	"Fighting": {
+		"name": "Fighting",
+		"types": [
+			"Fighting"
+		],
+		"pokemonNames": [
+			"Makuhita",
+			"Hariyama",
+			"Machop",
+			"Machoke",
+			"Machamp"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/makuhita",
+			"https://pokemondb.net/pokedex/hariyama",
+			"https://pokemondb.net/pokedex/machop",
+			"https://pokemondb.net/pokedex/machoke",
+			"https://pokemondb.net/pokedex/machamp"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 0.5,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 0.5,
+			"Fighting": 1,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 2,
+			"Psychic": 2,
+			"Bug": 0.5,
+			"Rock": 0.5,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 0.5,
+			"Steel": 1,
+			"Fairy": 2
+		}
+	},
+	"Fighting/Psychic": {
+		"name": "Fighting/Psychic",
+		"types": [
+			"Fighting",
+			"Psychic"
+		],
+		"pokemonNames": [
+			"Meditite",
+			"Medicham"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/meditite",
+			"https://pokemondb.net/pokedex/medicham"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 0.5,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 2,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 0.5,
+			"Ghost": 2,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 2
+		}
+	},
+	"Fighting/Bug": {
+		"name": "Fighting/Bug",
+		"types": [
+			"Fighting",
+			"Bug"
+		],
+		"pokemonNames": [
+			"Heracross"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/heracross"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 0.5,
+			"Ice": 1,
+			"Fighting": 0.5,
+			"Poison": 1,
+			"Ground": 0.5,
+			"Flying": 4,
+			"Psychic": 2,
+			"Bug": 0.5,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 0.5,
+			"Steel": 1,
+			"Fairy": 2
 		}
 	},
 	"Poison": {
@@ -1273,102 +1237,67 @@
 			"Fairy": 0.5
 		}
 	},
-	"Water/Dark": {
-		"name": "Water/Dark",
+	"Poison/Flying": {
+		"name": "Poison/Flying",
 		"types": [
-			"Water",
-			"Dark"
+			"Poison",
+			"Flying"
 		],
 		"pokemonNames": [
-			"Carvanha",
-			"Sharpedo",
-			"Crawdaunt"
+			"Zubat",
+			"Golbat",
+			"Crobat"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/carvanha",
-			"https://pokemondb.net/pokedex/sharpedo",
-			"https://pokemondb.net/pokedex/crawdaunt"
+			"https://pokemondb.net/pokedex/zubat",
+			"https://pokemondb.net/pokedex/golbat",
+			"https://pokemondb.net/pokedex/crobat"
 		],
 		"defense": {
 			"Normal": 1,
-			"Fire": 0.5,
-			"Water": 0.5,
+			"Fire": 1,
+			"Water": 1,
 			"Electric": 2,
-			"Grass": 2,
-			"Ice": 0.5,
-			"Fighting": 2,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 0,
-			"Bug": 2,
-			"Rock": 1,
-			"Ghost": 0.5,
-			"Dragon": 1,
-			"Dark": 0.5,
-			"Steel": 0.5,
-			"Fairy": 2
-		}
-	},
-	"Fire/Ground": {
-		"name": "Fire/Ground",
-		"types": [
-			"Fire",
-			"Ground"
-		],
-		"pokemonNames": [
-			"Numel",
-			"Camerupt"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/numel",
-			"https://pokemondb.net/pokedex/camerupt"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 0.5,
-			"Water": 4,
-			"Electric": 0,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 1,
+			"Grass": 0.25,
+			"Ice": 2,
+			"Fighting": 0.25,
 			"Poison": 0.5,
-			"Ground": 2,
+			"Ground": 0,
 			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 0.5,
-			"Rock": 1,
+			"Psychic": 2,
+			"Bug": 0.25,
+			"Rock": 2,
 			"Ghost": 1,
 			"Dragon": 1,
 			"Dark": 1,
-			"Steel": 0.5,
+			"Steel": 1,
 			"Fairy": 0.5
 		}
 	},
-	"Fire/Rock": {
-		"name": "Fire/Rock",
+	"Poison/Bug": {
+		"name": "Poison/Bug",
 		"types": [
-			"Fire",
-			"Rock"
+			"Poison",
+			"Bug"
 		],
 		"pokemonNames": [
-			"Magcargo"
+			"Dustox"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/magcargo"
+			"https://pokemondb.net/pokedex/dustox"
 		],
 		"defense": {
-			"Normal": 0.5,
-			"Fire": 0.25,
-			"Water": 4,
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 1,
 			"Electric": 1,
-			"Grass": 1,
-			"Ice": 0.5,
-			"Fighting": 2,
+			"Grass": 0.25,
+			"Ice": 1,
+			"Fighting": 0.25,
 			"Poison": 0.5,
-			"Ground": 4,
-			"Flying": 0.5,
-			"Psychic": 1,
+			"Ground": 1,
+			"Flying": 2,
+			"Psychic": 2,
 			"Bug": 0.5,
 			"Rock": 2,
 			"Ghost": 1,
@@ -1420,37 +1349,113 @@
 			"Fairy": 1
 		}
 	},
-	"Flying/Steel": {
-		"name": "Flying/Steel",
+	"Ground/Psychic": {
+		"name": "Ground/Psychic",
 		"types": [
-			"Flying",
-			"Steel"
+			"Ground",
+			"Psychic"
 		],
 		"pokemonNames": [
-			"Skarmory"
+			"Baltoy",
+			"Claydol"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/skarmory"
+			"https://pokemondb.net/pokedex/baltoy",
+			"https://pokemondb.net/pokedex/claydol"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 1,
+			"Water": 2,
+			"Electric": 0,
+			"Grass": 2,
+			"Ice": 2,
+			"Fighting": 0.5,
+			"Poison": 0.5,
+			"Ground": 0,
+			"Flying": 1,
+			"Psychic": 0.5,
+			"Bug": 2,
+			"Rock": 0.5,
+			"Ghost": 2,
+			"Dragon": 1,
+			"Dark": 2,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Ground/Bug": {
+		"name": "Ground/Bug",
+		"types": [
+			"Ground",
+			"Bug"
+		],
+		"pokemonNames": [
+			"Nincada"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/nincada"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 2,
+			"Electric": 0,
+			"Grass": 1,
+			"Ice": 2,
+			"Fighting": 0.5,
+			"Poison": 0.5,
+			"Ground": 0.5,
+			"Flying": 2,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Ground/Rock": {
+		"name": "Ground/Rock",
+		"types": [
+			"Ground",
+			"Rock"
+		],
+		"pokemonNames": [
+			"Geodude",
+			"Graveler",
+			"Golem",
+			"Rhyhorn",
+			"Rhydon"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/geodude",
+			"https://pokemondb.net/pokedex/graveler",
+			"https://pokemondb.net/pokedex/golem",
+			"https://pokemondb.net/pokedex/rhyhorn",
+			"https://pokemondb.net/pokedex/rhydon"
 		],
 		"defense": {
 			"Normal": 0.5,
-			"Fire": 2,
-			"Water": 1,
-			"Electric": 2,
-			"Grass": 0.25,
-			"Ice": 1,
-			"Fighting": 1,
-			"Poison": 0,
-			"Ground": 0,
+			"Fire": 0.5,
+			"Water": 4,
+			"Electric": 0,
+			"Grass": 4,
+			"Ice": 2,
+			"Fighting": 2,
+			"Poison": 0.25,
+			"Ground": 2,
 			"Flying": 0.5,
-			"Psychic": 0.5,
-			"Bug": 0.25,
-			"Rock": 1,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 0.5,
 			"Ghost": 1,
-			"Dragon": 0.5,
+			"Dragon": 1,
 			"Dark": 1,
-			"Steel": 0.5,
-			"Fairy": 0.5
+			"Steel": 2,
+			"Fairy": 1
 		}
 	},
 	"Ground/Dragon": {
@@ -1486,6 +1491,78 @@
 			"Dark": 1,
 			"Steel": 1,
 			"Fairy": 2
+		}
+	},
+	"Flying/Psychic": {
+		"name": "Flying/Psychic",
+		"types": [
+			"Flying",
+			"Psychic"
+		],
+		"pokemonNames": [
+			"Natu",
+			"Xatu"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/natu",
+			"https://pokemondb.net/pokedex/xatu"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 2,
+			"Grass": 0.5,
+			"Ice": 2,
+			"Fighting": 0.25,
+			"Poison": 1,
+			"Ground": 0,
+			"Flying": 1,
+			"Psychic": 0.5,
+			"Bug": 1,
+			"Rock": 2,
+			"Ghost": 2,
+			"Dragon": 1,
+			"Dark": 2,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Flying/Bug": {
+		"name": "Flying/Bug",
+		"types": [
+			"Flying",
+			"Bug"
+		],
+		"pokemonNames": [
+			"Beautifly",
+			"Masquerain",
+			"Ninjask"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/beautifly",
+			"https://pokemondb.net/pokedex/masquerain",
+			"https://pokemondb.net/pokedex/ninjask"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 1,
+			"Electric": 2,
+			"Grass": 0.25,
+			"Ice": 2,
+			"Fighting": 0.25,
+			"Poison": 1,
+			"Ground": 0,
+			"Flying": 2,
+			"Psychic": 1,
+			"Bug": 0.5,
+			"Rock": 4,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 1
 		}
 	},
 	"Flying/Dragon": {
@@ -1525,6 +1602,93 @@
 			"Fairy": 2
 		}
 	},
+	"Flying/Steel": {
+		"name": "Flying/Steel",
+		"types": [
+			"Flying",
+			"Steel"
+		],
+		"pokemonNames": [
+			"Skarmory"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/skarmory"
+		],
+		"defense": {
+			"Normal": 0.5,
+			"Fire": 2,
+			"Water": 1,
+			"Electric": 2,
+			"Grass": 0.25,
+			"Ice": 1,
+			"Fighting": 1,
+			"Poison": 0,
+			"Ground": 0,
+			"Flying": 0.5,
+			"Psychic": 0.5,
+			"Bug": 0.25,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 0.5,
+			"Dark": 1,
+			"Steel": 0.5,
+			"Fairy": 0.5
+		}
+	},
+	"Psychic": {
+		"name": "Psychic",
+		"types": [
+			"Psychic"
+		],
+		"pokemonNames": [
+			"Ralts",
+			"Kirlia",
+			"Gardevoir",
+			"Abra",
+			"Kadabra",
+			"Alakazam",
+			"Spoink",
+			"Grumpig",
+			"Chimecho",
+			"Wynaut",
+			"Wobbuffet",
+			"Deoxys"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/ralts",
+			"https://pokemondb.net/pokedex/kirlia",
+			"https://pokemondb.net/pokedex/gardevoir",
+			"https://pokemondb.net/pokedex/abra",
+			"https://pokemondb.net/pokedex/kadabra",
+			"https://pokemondb.net/pokedex/alakazam",
+			"https://pokemondb.net/pokedex/spoink",
+			"https://pokemondb.net/pokedex/grumpig",
+			"https://pokemondb.net/pokedex/chimecho",
+			"https://pokemondb.net/pokedex/wynaut",
+			"https://pokemondb.net/pokedex/wobbuffet",
+			"https://pokemondb.net/pokedex/deoxys"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 0.5,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 0.5,
+			"Bug": 2,
+			"Rock": 1,
+			"Ghost": 2,
+			"Dragon": 1,
+			"Dark": 2,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
 	"Psychic/Rock": {
 		"name": "Psychic/Rock",
 		"types": [
@@ -1560,504 +1724,19 @@
 			"Fairy": 1
 		}
 	},
-	"Ground/Psychic": {
-		"name": "Ground/Psychic",
+	"Psychic/Dragon": {
+		"name": "Psychic/Dragon",
 		"types": [
-			"Ground",
-			"Psychic"
-		],
-		"pokemonNames": [
-			"Baltoy",
-			"Claydol"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/baltoy",
-			"https://pokemondb.net/pokedex/claydol"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 1,
-			"Water": 2,
-			"Electric": 0,
-			"Grass": 2,
-			"Ice": 2,
-			"Fighting": 0.5,
-			"Poison": 0.5,
-			"Ground": 0,
-			"Flying": 1,
-			"Psychic": 0.5,
-			"Bug": 2,
-			"Rock": 0.5,
-			"Ghost": 2,
-			"Dragon": 1,
-			"Dark": 2,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Grass/Rock": {
-		"name": "Grass/Rock",
-		"types": [
-			"Grass",
-			"Rock"
-		],
-		"pokemonNames": [
-			"Lileep",
-			"Cradily"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/lileep",
-			"https://pokemondb.net/pokedex/cradily"
-		],
-		"defense": {
-			"Normal": 0.5,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 0.5,
-			"Grass": 1,
-			"Ice": 2,
-			"Fighting": 2,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 2,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 2,
-			"Fairy": 1
-		}
-	},
-	"Bug/Rock": {
-		"name": "Bug/Rock",
-		"types": [
-			"Bug",
-			"Rock"
-		],
-		"pokemonNames": [
-			"Anorith",
-			"Armaldo"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/anorith",
-			"https://pokemondb.net/pokedex/armaldo"
-		],
-		"defense": {
-			"Normal": 0.5,
-			"Fire": 1,
-			"Water": 2,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 1,
-			"Poison": 0.5,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 2,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 2,
-			"Fairy": 1
-		}
-	},
-	"Water/Psychic": {
-		"name": "Water/Psychic",
-		"types": [
-			"Water",
-			"Psychic"
-		],
-		"pokemonNames": [
-			"Starmie"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/starmie"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 0.5,
-			"Water": 0.5,
-			"Electric": 2,
-			"Grass": 2,
-			"Ice": 0.5,
-			"Fighting": 0.5,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 0.5,
-			"Bug": 2,
-			"Rock": 1,
-			"Ghost": 2,
-			"Dragon": 1,
-			"Dark": 2,
-			"Steel": 0.5,
-			"Fairy": 1
-		}
-	},
-	"Ghost": {
-		"name": "Ghost",
-		"types": [
-			"Ghost"
-		],
-		"pokemonNames": [
-			"Shuppet",
-			"Banette",
-			"Duskull",
-			"Dusclops"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/shuppet",
-			"https://pokemondb.net/pokedex/banette",
-			"https://pokemondb.net/pokedex/duskull",
-			"https://pokemondb.net/pokedex/dusclops"
-		],
-		"defense": {
-			"Normal": 0,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 0,
-			"Poison": 0.5,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 0.5,
-			"Rock": 1,
-			"Ghost": 2,
-			"Dragon": 1,
-			"Dark": 2,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Grass/Flying": {
-		"name": "Grass/Flying",
-		"types": [
-			"Grass",
-			"Flying"
-		],
-		"pokemonNames": [
-			"Tropius"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/tropius"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 0.5,
-			"Electric": 1,
-			"Grass": 0.25,
-			"Ice": 4,
-			"Fighting": 0.5,
-			"Poison": 2,
-			"Ground": 0,
-			"Flying": 2,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 2,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Flying/Psychic": {
-		"name": "Flying/Psychic",
-		"types": [
-			"Flying",
-			"Psychic"
-		],
-		"pokemonNames": [
-			"Natu",
-			"Xatu"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/natu",
-			"https://pokemondb.net/pokedex/xatu"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 2,
-			"Grass": 0.5,
-			"Ice": 2,
-			"Fighting": 0.25,
-			"Poison": 1,
-			"Ground": 0,
-			"Flying": 1,
-			"Psychic": 0.5,
-			"Bug": 1,
-			"Rock": 2,
-			"Ghost": 2,
-			"Dragon": 1,
-			"Dark": 2,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Normal/Psychic": {
-		"name": "Normal/Psychic",
-		"types": [
-			"Normal",
-			"Psychic"
-		],
-		"pokemonNames": [
-			"Girafarig"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/girafarig"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 1,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 1,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 0.5,
-			"Bug": 2,
-			"Rock": 1,
-			"Ghost": 0,
-			"Dragon": 1,
-			"Dark": 2,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Fighting/Bug": {
-		"name": "Fighting/Bug",
-		"types": [
-			"Fighting",
-			"Bug"
-		],
-		"pokemonNames": [
-			"Heracross"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/heracross"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 0.5,
-			"Ice": 1,
-			"Fighting": 0.5,
-			"Poison": 1,
-			"Ground": 0.5,
-			"Flying": 4,
-			"Psychic": 2,
-			"Bug": 0.5,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 0.5,
-			"Steel": 1,
-			"Fairy": 2
-		}
-	},
-	"Ice": {
-		"name": "Ice",
-		"types": [
-			"Ice"
-		],
-		"pokemonNames": [
-			"Snorunt",
-			"Glalie",
-			"Regice"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/snorunt",
-			"https://pokemondb.net/pokedex/glalie",
-			"https://pokemondb.net/pokedex/regice"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 2,
-			"Water": 1,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 0.5,
-			"Fighting": 2,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 2,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 2,
-			"Fairy": 1
-		}
-	},
-	"Water/Ice": {
-		"name": "Water/Ice",
-		"types": [
-			"Water",
-			"Ice"
-		],
-		"pokemonNames": [
-			"Spheal",
-			"Sealeo",
-			"Walrein"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/spheal",
-			"https://pokemondb.net/pokedex/sealeo",
-			"https://pokemondb.net/pokedex/walrein"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 0.5,
-			"Water": 0.5,
-			"Electric": 2,
-			"Grass": 2,
-			"Ice": 0.125,
-			"Fighting": 2,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 2,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Water/Rock": {
-		"name": "Water/Rock",
-		"types": [
-			"Water",
-			"Rock"
-		],
-		"pokemonNames": [
-			"Relicanth",
-			"Corsola"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/relicanth",
-			"https://pokemondb.net/pokedex/corsola"
-		],
-		"defense": {
-			"Normal": 0.5,
-			"Fire": 0.25,
-			"Water": 1,
-			"Electric": 2,
-			"Grass": 4,
-			"Ice": 0.5,
-			"Fighting": 2,
-			"Poison": 0.5,
-			"Ground": 2,
-			"Flying": 0.5,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 1,
-			"Fairy": 1
-		}
-	},
-	"Water/Electric": {
-		"name": "Water/Electric",
-		"types": [
-			"Water",
-			"Electric"
-		],
-		"pokemonNames": [
-			"Chinchou",
-			"Lanturn"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/chinchou",
-			"https://pokemondb.net/pokedex/lanturn"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 0.5,
-			"Water": 0.5,
-			"Electric": 0,
-			"Grass": 2,
-			"Ice": 0.5,
-			"Fighting": 1,
-			"Poison": 1,
-			"Ground": 2,
-			"Flying": 0.5,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 1,
-			"Dark": 1,
-			"Steel": 0.25,
-			"Fairy": 1
-		}
-	},
-	"Water/Dragon": {
-		"name": "Water/Dragon",
-		"types": [
-			"Water",
+			"Psychic",
 			"Dragon"
 		],
 		"pokemonNames": [
-			"Kingdra"
+			"Latias",
+			"Latios"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/kingdra"
-		],
-		"defense": {
-			"Normal": 1,
-			"Fire": 0.25,
-			"Water": 0.25,
-			"Electric": 1,
-			"Grass": 1,
-			"Ice": 1,
-			"Fighting": 1,
-			"Poison": 1,
-			"Ground": 1,
-			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 1,
-			"Rock": 1,
-			"Ghost": 1,
-			"Dragon": 2,
-			"Dark": 1,
-			"Steel": 0.5,
-			"Fairy": 2
-		}
-	},
-	"Dragon": {
-		"name": "Dragon",
-		"types": [
-			"Dragon"
-		],
-		"pokemonNames": [
-			"Bagon",
-			"Shelgon"
-		],
-		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/bagon",
-			"https://pokemondb.net/pokedex/shelgon"
+			"https://pokemondb.net/pokedex/latias",
+			"https://pokemondb.net/pokedex/latios"
 		],
 		"defense": {
 			"Normal": 1,
@@ -2066,16 +1745,16 @@
 			"Electric": 0.5,
 			"Grass": 0.5,
 			"Ice": 2,
-			"Fighting": 1,
+			"Fighting": 0.5,
 			"Poison": 1,
-			"Ground": 1,
+			"Ground": 0,
 			"Flying": 1,
-			"Psychic": 1,
-			"Bug": 1,
+			"Psychic": 0.5,
+			"Bug": 2,
 			"Rock": 1,
-			"Ghost": 1,
+			"Ghost": 2,
 			"Dragon": 2,
-			"Dark": 1,
+			"Dark": 2,
 			"Steel": 1,
 			"Fairy": 2
 		}
@@ -2119,19 +1798,270 @@
 			"Fairy": 0.5
 		}
 	},
-	"Psychic/Dragon": {
-		"name": "Psychic/Dragon",
+	"Bug": {
+		"name": "Bug",
 		"types": [
-			"Psychic",
+			"Bug"
+		],
+		"pokemonNames": [
+			"Wurmple",
+			"Silcoon",
+			"Cascoon",
+			"Volbeat",
+			"Illumise",
+			"Pinsir"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/wurmple",
+			"https://pokemondb.net/pokedex/silcoon",
+			"https://pokemondb.net/pokedex/cascoon",
+			"https://pokemondb.net/pokedex/volbeat",
+			"https://pokemondb.net/pokedex/illumise",
+			"https://pokemondb.net/pokedex/pinsir"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 2,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 0.5,
+			"Ice": 1,
+			"Fighting": 0.5,
+			"Poison": 1,
+			"Ground": 0.5,
+			"Flying": 2,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 2,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Bug/Rock": {
+		"name": "Bug/Rock",
+		"types": [
+			"Bug",
+			"Rock"
+		],
+		"pokemonNames": [
+			"Anorith",
+			"Armaldo"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/anorith",
+			"https://pokemondb.net/pokedex/armaldo"
+		],
+		"defense": {
+			"Normal": 0.5,
+			"Fire": 1,
+			"Water": 2,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 1,
+			"Poison": 0.5,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 2,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 2,
+			"Fairy": 1
+		}
+	},
+	"Bug/Ghost": {
+		"name": "Bug/Ghost",
+		"types": [
+			"Bug",
+			"Ghost"
+		],
+		"pokemonNames": [
+			"Shedinja"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/shedinja"
+		],
+		"defense": {
+			"Normal": 0,
+			"Fire": 2,
+			"Water": 0,
+			"Electric": 0,
+			"Grass": 0,
+			"Ice": 0,
+			"Fighting": 0,
+			"Poison": 0,
+			"Ground": 0,
+			"Flying": 2,
+			"Psychic": 0,
+			"Bug": 0,
+			"Rock": 2,
+			"Ghost": 2,
+			"Dragon": 0,
+			"Dark": 2,
+			"Steel": 0,
+			"Fairy": 0
+		}
+	},
+	"Rock": {
+		"name": "Rock",
+		"types": [
+			"Rock"
+		],
+		"pokemonNames": [
+			"Nosepass",
+			"Regirock"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/nosepass",
+			"https://pokemondb.net/pokedex/regirock"
+		],
+		"defense": {
+			"Normal": 0.5,
+			"Fire": 0.5,
+			"Water": 2,
+			"Electric": 1,
+			"Grass": 2,
+			"Ice": 1,
+			"Fighting": 2,
+			"Poison": 0.5,
+			"Ground": 2,
+			"Flying": 0.5,
+			"Psychic": 1,
+			"Bug": 1,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 2,
+			"Fairy": 1
+		}
+	},
+	"Rock/Steel": {
+		"name": "Rock/Steel",
+		"types": [
+			"Rock",
+			"Steel"
+		],
+		"pokemonNames": [
+			"Aron",
+			"Lairon",
+			"Aggron"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/aron",
+			"https://pokemondb.net/pokedex/lairon",
+			"https://pokemondb.net/pokedex/aggron"
+		],
+		"defense": {
+			"Normal": 0.25,
+			"Fire": 1,
+			"Water": 2,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 0.5,
+			"Fighting": 4,
+			"Poison": 0,
+			"Ground": 4,
+			"Flying": 0.25,
+			"Psychic": 0.5,
+			"Bug": 0.5,
+			"Rock": 0.5,
+			"Ghost": 1,
+			"Dragon": 0.5,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 0.5
+		}
+	},
+	"Ghost": {
+		"name": "Ghost",
+		"types": [
+			"Ghost"
+		],
+		"pokemonNames": [
+			"Shuppet",
+			"Banette",
+			"Duskull",
+			"Dusclops"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/shuppet",
+			"https://pokemondb.net/pokedex/banette",
+			"https://pokemondb.net/pokedex/duskull",
+			"https://pokemondb.net/pokedex/dusclops"
+		],
+		"defense": {
+			"Normal": 0,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 0,
+			"Poison": 0.5,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 1,
+			"Bug": 0.5,
+			"Rock": 1,
+			"Ghost": 2,
+			"Dragon": 1,
+			"Dark": 2,
+			"Steel": 1,
+			"Fairy": 1
+		}
+	},
+	"Ghost/Dark": {
+		"name": "Ghost/Dark",
+		"types": [
+			"Ghost",
+			"Dark"
+		],
+		"pokemonNames": [
+			"Sableye"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/sableye"
+		],
+		"defense": {
+			"Normal": 0,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 0,
+			"Poison": 0.5,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 0,
+			"Bug": 1,
+			"Rock": 1,
+			"Ghost": 1,
+			"Dragon": 1,
+			"Dark": 1,
+			"Steel": 1,
+			"Fairy": 2
+		}
+	},
+	"Dragon": {
+		"name": "Dragon",
+		"types": [
 			"Dragon"
 		],
 		"pokemonNames": [
-			"Latias",
-			"Latios"
+			"Bagon",
+			"Shelgon"
 		],
 		"pokemonUrls": [
-			"https://pokemondb.net/pokedex/latias",
-			"https://pokemondb.net/pokedex/latios"
+			"https://pokemondb.net/pokedex/bagon",
+			"https://pokemondb.net/pokedex/shelgon"
 		],
 		"defense": {
 			"Normal": 1,
@@ -2140,18 +2070,88 @@
 			"Electric": 0.5,
 			"Grass": 0.5,
 			"Ice": 2,
-			"Fighting": 0.5,
+			"Fighting": 1,
 			"Poison": 1,
-			"Ground": 0,
+			"Ground": 1,
 			"Flying": 1,
-			"Psychic": 0.5,
-			"Bug": 2,
+			"Psychic": 1,
+			"Bug": 1,
 			"Rock": 1,
-			"Ghost": 2,
+			"Ghost": 1,
 			"Dragon": 2,
-			"Dark": 2,
+			"Dark": 1,
 			"Steel": 1,
 			"Fairy": 2
+		}
+	},
+	"Dark": {
+		"name": "Dark",
+		"types": [
+			"Dark"
+		],
+		"pokemonNames": [
+			"Poochyena",
+			"Mightyena",
+			"Absol"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/poochyena",
+			"https://pokemondb.net/pokedex/mightyena",
+			"https://pokemondb.net/pokedex/absol"
+		],
+		"defense": {
+			"Normal": 1,
+			"Fire": 1,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 1,
+			"Ice": 1,
+			"Fighting": 2,
+			"Poison": 1,
+			"Ground": 1,
+			"Flying": 1,
+			"Psychic": 0,
+			"Bug": 2,
+			"Rock": 1,
+			"Ghost": 0.5,
+			"Dragon": 1,
+			"Dark": 0.5,
+			"Steel": 1,
+			"Fairy": 2
+		}
+	},
+	"Steel": {
+		"name": "Steel",
+		"types": [
+			"Steel"
+		],
+		"pokemonNames": [
+			"Mawile",
+			"Registeel"
+		],
+		"pokemonUrls": [
+			"https://pokemondb.net/pokedex/mawile",
+			"https://pokemondb.net/pokedex/registeel"
+		],
+		"defense": {
+			"Normal": 0.5,
+			"Fire": 2,
+			"Water": 1,
+			"Electric": 1,
+			"Grass": 0.5,
+			"Ice": 0.5,
+			"Fighting": 2,
+			"Poison": 0,
+			"Ground": 2,
+			"Flying": 0.5,
+			"Psychic": 0.5,
+			"Bug": 0.5,
+			"Rock": 0.5,
+			"Ghost": 1,
+			"Dragon": 0.5,
+			"Dark": 1,
+			"Steel": 0.5,
+			"Fairy": 0.5
 		}
 	}
 }

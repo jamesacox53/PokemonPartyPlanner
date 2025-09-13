@@ -1,0 +1,1962 @@
+Pokemon Party:
+[Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+
+What To Go For:
+Party:
+Combusken: [Normal, Fire/Rock, Electric/Steel, Grass, Grass/Fighting, Grass/Poison, Grass/Rock, Grass/Dark, Ice, Fighting/Bug, Poison/Bug, Bug, Bug/Rock, Bug/Ghost, Rock, Rock/Steel, Ghost/Dark, Dark, Steel]
+Walrein: [Normal/Flying, Fire, Fire/Ground, Water/Dragon, Poison/Flying, Ground, Ground/Psychic, Ground/Bug, Ground/Dragon, Flying/Psychic, Flying/Bug, Flying/Dragon, Psychic/Dragon, Dragon]
+Cacturne: [Normal/Psychic, Water, Water/Electric, Water/Ground, Water/Psychic, Water/Rock, Water/Dark, Ground/Rock, Psychic, Psychic/Rock, Psychic/Steel, Ghost]
+Manectric: [Water/Ice, Water/Poison, Water/Flying, Water/Bug, Flying/Steel]
+Claydol: [Electric, Fighting, Poison]
+Pelipper: [Fire/Fighting, Water/Grass, Grass/Flying, Fighting/Psychic]
+
+Types:
+Normal -> Combusken
+Normal/Flying -> Walrein
+Normal/Psychic -> Cacturne
+Fire -> Walrein
+Fire/Fighting -> Pelipper
+Fire/Ground -> Walrein
+Fire/Rock -> Combusken
+Water -> Cacturne
+Water/Electric -> Cacturne
+Water/Grass -> Pelipper
+Water/Ice -> Manectric
+Water/Poison -> Manectric
+Water/Ground -> Cacturne
+Water/Flying -> Manectric
+Water/Psychic -> Cacturne
+Water/Bug -> Manectric
+Water/Rock -> Cacturne
+Water/Dragon -> Walrein
+Water/Dark -> Cacturne
+Electric -> Claydol
+Electric/Steel -> Combusken
+Grass -> Combusken
+Grass/Fighting -> Combusken
+Grass/Poison -> Combusken
+Grass/Flying -> Pelipper
+Grass/Rock -> Combusken
+Grass/Dark -> Combusken
+Ice -> Combusken
+Fighting -> Claydol
+Fighting/Psychic -> Pelipper
+Fighting/Bug -> Combusken
+Poison -> Claydol
+Poison/Flying -> Walrein
+Poison/Bug -> Combusken
+Ground -> Walrein
+Ground/Psychic -> Walrein
+Ground/Bug -> Walrein
+Ground/Rock -> Cacturne
+Ground/Dragon -> Walrein
+Flying/Psychic -> Walrein
+Flying/Bug -> Walrein
+Flying/Dragon -> Walrein
+Flying/Steel -> Manectric
+Psychic -> Cacturne
+Psychic/Rock -> Cacturne
+Psychic/Dragon -> Walrein
+Psychic/Steel -> Cacturne
+Bug -> Combusken
+Bug/Rock -> Combusken
+Bug/Ghost -> Combusken
+Rock -> Combusken
+Rock/Steel -> Combusken
+Ghost -> Cacturne
+Ghost/Dark -> Combusken
+Dragon -> Walrein
+Dark -> Combusken
+Steel -> Combusken
+
+Type Summary:
+Normal -> [Combusken]
+Normal/Flying -> [Walrein, Manectric]
+Normal/Psychic -> [Cacturne]
+Fire -> [Walrein, Claydol, Pelipper]
+Fire/Fighting -> [Claydol, Pelipper]
+Fire/Ground -> [Walrein, Claydol, Pelipper]
+Fire/Rock -> [Combusken, Claydol]
+Water -> [Cacturne, Manectric]
+Water/Electric -> [Cacturne]
+Water/Grass -> [Pelipper]
+Water/Ice -> [Manectric]
+Water/Poison -> [Manectric]
+Water/Ground -> [Cacturne]
+Water/Flying -> [Manectric]
+Water/Psychic -> [Cacturne, Manectric]
+Water/Bug -> [Manectric, Pelipper]
+Water/Rock -> [Cacturne, Manectric]
+Water/Dragon -> No Sup Eff. Nor Eff: [Walrein, Cacturne, Manectric, Pelipper]
+Water/Dark -> [Cacturne, Manectric]
+Electric -> [Claydol]
+Electric/Steel -> [Combusken, Claydol]
+Grass -> [Combusken, Pelipper]
+Grass/Fighting -> [Combusken, Pelipper]
+Grass/Poison -> [Combusken, Pelipper]
+Grass/Flying -> [Pelipper]
+Grass/Rock -> [Combusken]
+Grass/Dark -> [Combusken, Pelipper]
+Ice -> [Combusken]
+Fighting -> [Claydol, Pelipper]
+Fighting/Psychic -> [Pelipper]
+Fighting/Bug -> [Combusken, Pelipper]
+Poison -> [Claydol]
+Poison/Flying -> [Walrein, Manectric, Claydol]
+Poison/Bug -> [Combusken, Pelipper]
+Ground -> [Walrein, Cacturne, Pelipper]
+Ground/Psychic -> [Walrein, Cacturne, Pelipper]
+Ground/Bug -> [Walrein, Pelipper]
+Ground/Rock -> [Cacturne, Claydol]
+Ground/Dragon -> [Walrein]
+Flying/Psychic -> [Walrein, Manectric]
+Flying/Bug -> [Walrein, Manectric, Pelipper]
+Flying/Dragon -> [Walrein]
+Flying/Steel -> [Manectric]
+Psychic -> [Cacturne]
+Psychic/Rock -> [Cacturne]
+Psychic/Dragon -> [Walrein, Cacturne]
+Psychic/Steel -> [Cacturne, Claydol]
+Bug -> [Combusken, Pelipper]
+Bug/Rock -> Sup Eff A/E: [Walrein, Pelipper] Nor Eff: [Combusken, Manectric]
+Bug/Ghost -> [Combusken, Pelipper]
+Rock -> [Combusken, Cacturne, Claydol]
+Rock/Steel -> [Combusken, Claydol]
+Ghost -> [Cacturne]
+Ghost/Dark -> No Sup Eff. Nor Eff: [Combusken, Walrein, Cacturne, Manectric, Pelipper]
+Dragon -> [Walrein]
+Dark -> [Combusken]
+Steel -> [Combusken, Claydol]
+
+Full Type Breakdown:
+Normal:
+	Summary Text:
+		[Combusken]
+	Party vs Normal:
+		Super Effective:
+			Fighting: [Combusken]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+	Normal vs Party:
+		Normal Effective:
+			Normal: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+	Normal Pokemon:
+		Zigzagoon
+		Linoone
+		Slakoth
+		Vigoroth
+		Slaking
+		Whismur
+		Loudred
+		Exploud
+		Azurill
+		Skitty
+		Delcatty
+		Spinda
+		Zangoose
+		Igglybuff
+		Jigglypuff
+		Wigglytuff
+		Castform
+		Kecleon
+--------------------------------------------------------------------------------
+Normal/Flying:
+	Summary Text:
+		[Walrein, Manectric]
+	Party vs Normal/Flying:
+		Super Effective:
+			Electric: [Manectric]
+			Ice: [Walrein]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Fighting: [Combusken]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+		Not Effective:
+			Ground: [Claydol]
+	Normal/Flying vs Party:
+		Super Effective:
+			Flying: [Combusken, Cacturne]
+		Normal Effective:
+			Normal: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+			Flying: [Walrein, Claydol, Pelipper]
+		Not Very Effective:
+			Flying: [Manectric]
+	Normal/Flying Pokemon:
+		Taillow
+		Swellow
+		Doduo
+		Dodrio
+		Swablu
+--------------------------------------------------------------------------------
+Normal/Psychic:
+	Summary Text:
+		[Cacturne]
+	Party vs Normal/Psychic:
+		Super Effective:
+			Dark: [Cacturne]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Psychic: [Claydol]
+	Normal/Psychic vs Party:
+		Super Effective:
+			Psychic: [Combusken]
+		Normal Effective:
+			Normal: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+			Psychic: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Psychic: [Claydol]
+		Not Effective:
+			Psychic: [Cacturne]
+	Normal/Psychic Pokemon:
+		Girafarig
+--------------------------------------------------------------------------------
+Fire:
+	Summary Text:
+		[Walrein, Claydol, Pelipper]
+	Party vs Fire:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Ground: [Claydol]
+		Normal Effective:
+			Electric: [Manectric]
+			Fighting: [Combusken]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+	Fire vs Party:
+		Super Effective:
+			Fire: [Cacturne]
+		Normal Effective:
+			Fire: [Manectric, Claydol]
+		Not Very Effective:
+			Fire: [Combusken, Walrein, Pelipper]
+	Fire Pokemon:
+		Torchic
+		Slugma
+		Torkoal
+		Vulpix
+		Ninetales
+--------------------------------------------------------------------------------
+Fire/Fighting:
+	Summary Text:
+		[Claydol, Pelipper]
+	Party vs Fire/Fighting:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Normal Effective:
+			Electric: [Manectric]
+			Fighting: [Combusken]
+		Not Very Effective:
+			Fire: [Combusken]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Dark: [Cacturne]
+	Fire/Fighting vs Party:
+		Super Effective:
+			Fire: [Cacturne]
+			Fighting: [Walrein, Cacturne]
+		Normal Effective:
+			Fire: [Manectric, Claydol]
+			Fighting: [Combusken, Manectric]
+		Not Very Effective:
+			Fire: [Combusken, Walrein, Pelipper]
+			Fighting: [Claydol, Pelipper]
+	Fire/Fighting Pokemon:
+		Combusken
+		Blaziken
+--------------------------------------------------------------------------------
+Fire/Ground:
+	Summary Text:
+		[Walrein, Claydol, Pelipper]
+	Party vs Fire/Ground:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Ground: [Claydol]
+		Normal Effective:
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+		Not Effective:
+			Electric: [Manectric]
+	Fire/Ground vs Party:
+		Super Effective:
+			Fire: [Cacturne]
+			Ground: [Combusken, Manectric]
+		Normal Effective:
+			Fire: [Manectric, Claydol]
+			Ground: [Walrein]
+		Not Very Effective:
+			Fire: [Combusken, Walrein, Pelipper]
+			Ground: [Cacturne]
+		Not Effective:
+			Ground: [Claydol, Pelipper]
+	Fire/Ground Pokemon:
+		Numel
+		Camerupt
+--------------------------------------------------------------------------------
+Fire/Rock:
+	Summary Text:
+		[Combusken, Claydol]
+	Party vs Fire/Rock:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Normal Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+	Fire/Rock vs Party:
+		Super Effective:
+			Fire: [Cacturne]
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Fire: [Manectric, Claydol]
+			Rock: [Combusken, Cacturne, Manectric]
+		Not Very Effective:
+			Fire: [Combusken, Walrein, Pelipper]
+			Rock: [Claydol]
+	Fire/Rock Pokemon:
+		Magcargo
+--------------------------------------------------------------------------------
+Water:
+	Summary Text:
+		[Cacturne, Manectric]
+	Party vs Water:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+		Normal Effective:
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+	Water vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+		Normal Effective:
+			Water: [Manectric]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+	Water Pokemon:
+		Mudkip
+		Goldeen
+		Seaking
+		Magikarp
+		Marill
+		Azumarill
+		Wailmer
+		Wailord
+		Corphish
+		Feebas
+		Milotic
+		Staryu
+		Psyduck
+		Golduck
+		Clamperl
+		Huntail
+		Gorebyss
+		Luvdisc
+		Horsea
+		Seadra
+		Kyogre
+--------------------------------------------------------------------------------
+Water/Electric:
+	Summary Text:
+		[Cacturne]
+	Party vs Water/Electric:
+		Super Effective:
+			Grass: [Cacturne]
+			Ground: [Claydol]
+		Normal Effective:
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+		Not Effective:
+			Electric: [Manectric]
+	Water/Electric vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Electric: [Walrein, Pelipper]
+		Normal Effective:
+			Water: [Manectric]
+			Electric: [Combusken]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Electric: [Cacturne, Manectric]
+		Not Effective:
+			Electric: [Claydol]
+	Water/Electric Pokemon:
+		Chinchou
+		Lanturn
+--------------------------------------------------------------------------------
+Water/Grass:
+	Summary Text:
+		[Pelipper]
+	Party vs Water/Grass:
+		Super Effective:
+			Flying: [Pelipper]
+		Normal Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Water: [Walrein, Pelipper]
+			Ground: [Claydol]
+	Water/Grass vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Grass: [Walrein, Claydol]
+		Normal Effective:
+			Water: [Manectric]
+			Grass: [Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Grass: [Combusken, Cacturne]
+	Water/Grass Pokemon:
+		Lotad
+		Lombre
+		Ludicolo
+--------------------------------------------------------------------------------
+Water/Ice:
+	Summary Text:
+		[Manectric]
+	Party vs Water/Ice:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+		Normal Effective:
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+	Water/Ice vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Ice: [Cacturne, Claydol]
+		Normal Effective:
+			Water: [Manectric]
+			Ice: [Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Ice: [Combusken, Walrein]
+	Water/Ice Pokemon:
+		Spheal
+		Sealeo
+		Walrein
+--------------------------------------------------------------------------------
+Water/Poison:
+	Summary Text:
+		[Manectric]
+	Party vs Water/Poison:
+		Super Effective:
+			Electric: [Manectric]
+			Ground: [Claydol]
+			Psychic: [Claydol]
+		Normal Effective:
+			Grass: [Cacturne]
+			Flying: [Pelipper]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+	Water/Poison vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Poison: [Cacturne]
+		Normal Effective:
+			Water: [Manectric]
+			Poison: [Combusken, Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Poison: [Claydol]
+	Water/Poison Pokemon:
+		Tentacool
+		Tentacruel
+--------------------------------------------------------------------------------
+Water/Ground:
+	Summary Text:
+		[Cacturne]
+	Party vs Water/Ground:
+		Super Effective:
+			Grass: [Cacturne]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+		Not Effective:
+			Electric: [Manectric]
+	Water/Ground vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Ground: [Combusken, Manectric]
+		Normal Effective:
+			Water: [Manectric]
+			Ground: [Walrein]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Ground: [Cacturne]
+		Not Effective:
+			Ground: [Claydol, Pelipper]
+	Water/Ground Pokemon:
+		Marshtomp
+		Swampert
+		Barboach
+		Whiscash
+--------------------------------------------------------------------------------
+Water/Flying:
+	Summary Text:
+		[Manectric]
+	Party vs Water/Flying:
+		Super Effective:
+			Electric: [Manectric]
+		Normal Effective:
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Fighting: [Combusken]
+		Not Effective:
+			Ground: [Claydol]
+	Water/Flying vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Flying: [Combusken, Cacturne]
+		Normal Effective:
+			Water: [Manectric]
+			Flying: [Walrein, Claydol, Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Flying: [Manectric]
+	Water/Flying Pokemon:
+		Wingull
+		Pelipper
+		Gyarados
+--------------------------------------------------------------------------------
+Water/Psychic:
+	Summary Text:
+		[Cacturne, Manectric]
+	Party vs Water/Psychic:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Dark: [Cacturne]
+		Normal Effective:
+			Ground: [Claydol]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+	Water/Psychic vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Psychic: [Combusken]
+		Normal Effective:
+			Water: [Manectric]
+			Psychic: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Psychic: [Claydol]
+		Not Effective:
+			Psychic: [Cacturne]
+	Water/Psychic Pokemon:
+		Starmie
+--------------------------------------------------------------------------------
+Water/Bug:
+	Summary Text:
+		[Manectric, Pelipper]
+	Party vs Water/Bug:
+		Super Effective:
+			Electric: [Manectric]
+			Flying: [Pelipper]
+		Normal Effective:
+			Fire: [Combusken]
+			Grass: [Cacturne]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+	Water/Bug vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Bug: [Cacturne, Claydol]
+		Normal Effective:
+			Water: [Manectric]
+			Bug: [Walrein, Manectric]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Bug: [Combusken, Pelipper]
+	Water/Bug Pokemon:
+		Surskit
+--------------------------------------------------------------------------------
+Water/Rock:
+	Summary Text:
+		[Cacturne, Manectric]
+	Party vs Water/Rock:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+	Water/Rock vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Water: [Manectric]
+			Rock: [Combusken, Cacturne, Manectric]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Rock: [Claydol]
+	Water/Rock Pokemon:
+		Relicanth
+		Corsola
+--------------------------------------------------------------------------------
+Water/Dragon:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Walrein, Cacturne, Manectric, Pelipper]
+	Party vs Water/Dragon:
+		Normal Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+	Water/Dragon vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+		Normal Effective:
+			Water: [Manectric]
+			Dragon: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+	Water/Dragon Pokemon:
+		Kingdra
+--------------------------------------------------------------------------------
+Water/Dark:
+	Summary Text:
+		[Cacturne, Manectric]
+	Party vs Water/Dark:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+		Normal Effective:
+			Ground: [Claydol]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Dark: [Cacturne]
+		Not Effective:
+			Psychic: [Claydol]
+	Water/Dark vs Party:
+		Super Effective:
+			Water: [Combusken, Claydol]
+			Dark: [Claydol]
+		Normal Effective:
+			Water: [Manectric]
+			Dark: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Cacturne, Pelipper]
+			Dark: [Combusken, Cacturne]
+	Water/Dark Pokemon:
+		Carvanha
+		Sharpedo
+		Crawdaunt
+--------------------------------------------------------------------------------
+Electric:
+	Summary Text:
+		[Claydol]
+	Party vs Electric:
+		Super Effective:
+			Ground: [Claydol]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Electric: [Manectric]
+			Flying: [Pelipper]
+	Electric vs Party:
+		Super Effective:
+			Electric: [Walrein, Pelipper]
+		Normal Effective:
+			Electric: [Combusken]
+		Not Very Effective:
+			Electric: [Cacturne, Manectric]
+		Not Effective:
+			Electric: [Claydol]
+	Electric Pokemon:
+		Electrike
+		Manectric
+		Plusle
+		Minun
+		Voltorb
+		Electrode
+		Pichu
+		Pikachu
+		Raichu
+--------------------------------------------------------------------------------
+Electric/Steel:
+	Summary Text:
+		[Combusken, Claydol]
+	Party vs Electric/Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+	Electric/Steel vs Party:
+		Super Effective:
+			Electric: [Walrein, Pelipper]
+		Normal Effective:
+			Electric: [Combusken]
+			Steel: [Walrein, Cacturne, Claydol]
+		Not Very Effective:
+			Electric: [Cacturne, Manectric]
+			Steel: [Combusken, Manectric, Pelipper]
+		Not Effective:
+			Electric: [Claydol]
+	Electric/Steel Pokemon:
+		Magnemite
+		Magneton
+--------------------------------------------------------------------------------
+Grass:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Grass:
+		Super Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+		Normal Effective:
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ground: [Claydol]
+	Grass vs Party:
+		Super Effective:
+			Grass: [Walrein, Claydol]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Cacturne]
+	Grass Pokemon:
+		Treecko
+		Grovyle
+		Sceptile
+		Seedot
+		Shroomish
+		Bellossom
+		Cacnea
+--------------------------------------------------------------------------------
+Grass/Fighting:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Grass/Fighting:
+		Super Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Normal Effective:
+			Fighting: [Combusken]
+		Not Very Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ground: [Claydol]
+			Dark: [Cacturne]
+	Grass/Fighting vs Party:
+		Super Effective:
+			Grass: [Walrein, Claydol]
+			Fighting: [Walrein, Cacturne]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Fighting: [Combusken, Manectric]
+		Not Very Effective:
+			Grass: [Combusken, Cacturne]
+			Fighting: [Claydol, Pelipper]
+	Grass/Fighting Pokemon:
+		Breloom
+--------------------------------------------------------------------------------
+Grass/Poison:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Grass/Poison:
+		Super Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Normal Effective:
+			Ground: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+	Grass/Poison vs Party:
+		Super Effective:
+			Grass: [Walrein, Claydol]
+			Poison: [Cacturne]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Poison: [Combusken, Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Cacturne]
+			Poison: [Claydol]
+	Grass/Poison Pokemon:
+		Oddish
+		Gloom
+		Vileplume
+		Roselia
+--------------------------------------------------------------------------------
+Grass/Flying:
+	Summary Text:
+		[Pelipper]
+	Party vs Grass/Flying:
+		Super Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+		Normal Effective:
+			Electric: [Manectric]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+		Not Effective:
+			Ground: [Claydol]
+	Grass/Flying vs Party:
+		Super Effective:
+			Grass: [Walrein, Claydol]
+			Flying: [Combusken, Cacturne]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Flying: [Walrein, Claydol, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Cacturne]
+			Flying: [Manectric]
+	Grass/Flying Pokemon:
+		Tropius
+--------------------------------------------------------------------------------
+Grass/Rock:
+	Summary Text:
+		[Combusken]
+	Party vs Grass/Rock:
+		Super Effective:
+			Ice: [Walrein]
+			Fighting: [Combusken]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Electric: [Manectric]
+	Grass/Rock vs Party:
+		Super Effective:
+			Grass: [Walrein, Claydol]
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Rock: [Combusken, Cacturne, Manectric]
+		Not Very Effective:
+			Grass: [Combusken, Cacturne]
+			Rock: [Claydol]
+	Grass/Rock Pokemon:
+		Lileep
+		Cradily
+--------------------------------------------------------------------------------
+Grass/Dark:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Grass/Dark:
+		Super Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ground: [Claydol]
+			Dark: [Cacturne]
+		Not Effective:
+			Psychic: [Claydol]
+	Grass/Dark vs Party:
+		Super Effective:
+			Grass: [Walrein, Claydol]
+			Dark: [Claydol]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Dark: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Cacturne]
+			Dark: [Combusken, Cacturne]
+	Grass/Dark Pokemon:
+		Nuzleaf
+		Shiftry
+		Cacturne
+--------------------------------------------------------------------------------
+Ice:
+	Summary Text:
+		[Combusken]
+	Party vs Ice:
+		Super Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Ice: [Walrein]
+	Ice vs Party:
+		Super Effective:
+			Ice: [Cacturne, Claydol]
+		Normal Effective:
+			Ice: [Manectric, Pelipper]
+		Not Very Effective:
+			Ice: [Combusken, Walrein]
+	Ice Pokemon:
+		Snorunt
+		Glalie
+		Regice
+--------------------------------------------------------------------------------
+Fighting:
+	Summary Text:
+		[Claydol, Pelipper]
+	Party vs Fighting:
+		Super Effective:
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Not Very Effective:
+			Fire: [Combusken]
+			Ice: [Walrein]
+			Dark: [Cacturne]
+	Fighting vs Party:
+		Super Effective:
+			Fighting: [Walrein, Cacturne]
+		Normal Effective:
+			Fighting: [Combusken, Manectric]
+		Not Very Effective:
+			Fighting: [Claydol, Pelipper]
+	Fighting Pokemon:
+		Makuhita
+		Hariyama
+		Machop
+		Machoke
+		Machamp
+--------------------------------------------------------------------------------
+Fighting/Psychic:
+	Summary Text:
+		[Pelipper]
+	Party vs Fighting/Psychic:
+		Super Effective:
+			Flying: [Pelipper]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Ground: [Claydol]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fighting: [Combusken]
+	Fighting/Psychic vs Party:
+		Super Effective:
+			Fighting: [Walrein, Cacturne]
+			Psychic: [Combusken]
+		Normal Effective:
+			Fighting: [Combusken, Manectric]
+			Psychic: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Fighting: [Claydol, Pelipper]
+			Psychic: [Claydol]
+		Not Effective:
+			Psychic: [Cacturne]
+	Fighting/Psychic Pokemon:
+		Meditite
+		Medicham
+--------------------------------------------------------------------------------
+Fighting/Bug:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Fighting/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Ice: [Walrein]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Dark: [Cacturne]
+	Fighting/Bug vs Party:
+		Super Effective:
+			Fighting: [Walrein, Cacturne]
+			Bug: [Cacturne, Claydol]
+		Normal Effective:
+			Fighting: [Combusken, Manectric]
+			Bug: [Walrein, Manectric]
+		Not Very Effective:
+			Fighting: [Claydol, Pelipper]
+			Bug: [Combusken, Pelipper]
+	Fighting/Bug Pokemon:
+		Heracross
+--------------------------------------------------------------------------------
+Poison:
+	Summary Text:
+		[Claydol]
+	Party vs Poison:
+		Super Effective:
+			Ground: [Claydol]
+			Psychic: [Claydol]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+	Poison vs Party:
+		Super Effective:
+			Poison: [Cacturne]
+		Normal Effective:
+			Poison: [Combusken, Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Poison: [Claydol]
+	Poison Pokemon:
+		Gulpin
+		Swalot
+		Grimer
+		Muk
+		Koffing
+		Weezing
+		Seviper
+--------------------------------------------------------------------------------
+Poison/Flying:
+	Summary Text:
+		[Walrein, Manectric, Claydol]
+	Party vs Poison/Flying:
+		Super Effective:
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Psychic: [Claydol]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Flying: [Pelipper]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+		Not Effective:
+			Ground: [Claydol]
+	Poison/Flying vs Party:
+		Super Effective:
+			Poison: [Cacturne]
+			Flying: [Combusken, Cacturne]
+		Normal Effective:
+			Poison: [Combusken, Walrein, Manectric, Pelipper]
+			Flying: [Walrein, Claydol, Pelipper]
+		Not Very Effective:
+			Poison: [Claydol]
+			Flying: [Manectric]
+	Poison/Flying Pokemon:
+		Zubat
+		Golbat
+		Crobat
+--------------------------------------------------------------------------------
+Poison/Bug:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Poison/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Ground: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+	Poison/Bug vs Party:
+		Super Effective:
+			Poison: [Cacturne]
+			Bug: [Cacturne, Claydol]
+		Normal Effective:
+			Poison: [Combusken, Walrein, Manectric, Pelipper]
+			Bug: [Walrein, Manectric]
+		Not Very Effective:
+			Poison: [Claydol]
+			Bug: [Combusken, Pelipper]
+	Poison/Bug Pokemon:
+		Dustox
+--------------------------------------------------------------------------------
+Ground:
+	Summary Text:
+		[Walrein, Cacturne, Pelipper]
+	Party vs Ground:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+		Normal Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Effective:
+			Electric: [Manectric]
+	Ground vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric]
+		Normal Effective:
+			Ground: [Walrein]
+		Not Very Effective:
+			Ground: [Cacturne]
+		Not Effective:
+			Ground: [Claydol, Pelipper]
+	Ground Pokemon:
+		Sandshrew
+		Sandslash
+		Trapinch
+		Phanpy
+		Donphan
+		Groudon
+--------------------------------------------------------------------------------
+Ground/Psychic:
+	Summary Text:
+		[Walrein, Cacturne, Pelipper]
+	Party vs Ground/Psychic:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Dark: [Cacturne]
+		Normal Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+		Not Effective:
+			Electric: [Manectric]
+			Ground: [Claydol]
+	Ground/Psychic vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric]
+			Psychic: [Combusken]
+		Normal Effective:
+			Ground: [Walrein]
+			Psychic: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Ground: [Cacturne]
+			Psychic: [Claydol]
+		Not Effective:
+			Ground: [Claydol, Pelipper]
+			Psychic: [Cacturne]
+	Ground/Psychic Pokemon:
+		Baltoy
+		Claydol
+--------------------------------------------------------------------------------
+Ground/Bug:
+	Summary Text:
+		[Walrein, Pelipper]
+	Party vs Ground/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+		Normal Effective:
+			Grass: [Cacturne]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Not Effective:
+			Electric: [Manectric]
+	Ground/Bug vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric]
+			Bug: [Cacturne, Claydol]
+		Normal Effective:
+			Ground: [Walrein]
+			Bug: [Walrein, Manectric]
+		Not Very Effective:
+			Ground: [Cacturne]
+			Bug: [Combusken, Pelipper]
+		Not Effective:
+			Ground: [Claydol, Pelipper]
+	Ground/Bug Pokemon:
+		Nincada
+--------------------------------------------------------------------------------
+Ground/Rock:
+	Summary Text:
+		[Cacturne, Claydol]
+	Party vs Ground/Rock:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Normal Effective:
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Not Effective:
+			Electric: [Manectric]
+	Ground/Rock vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric]
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Ground: [Walrein]
+			Rock: [Combusken, Cacturne, Manectric]
+		Not Very Effective:
+			Ground: [Cacturne]
+			Rock: [Claydol]
+		Not Effective:
+			Ground: [Claydol, Pelipper]
+	Ground/Rock Pokemon:
+		Geodude
+		Graveler
+		Golem
+		Rhyhorn
+		Rhydon
+--------------------------------------------------------------------------------
+Ground/Dragon:
+	Summary Text:
+		[Walrein]
+	Party vs Ground/Dragon:
+		Super Effective:
+			Ice: [Walrein]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+		Not Effective:
+			Electric: [Manectric]
+			Ground: [Claydol]
+	Ground/Dragon vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric]
+		Normal Effective:
+			Ground: [Walrein]
+			Dragon: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+		Not Very Effective:
+			Ground: [Cacturne]
+		Not Effective:
+			Ground: [Claydol, Pelipper]
+	Ground/Dragon Pokemon:
+		Vibrava
+		Flygon
+--------------------------------------------------------------------------------
+Flying/Psychic:
+	Summary Text:
+		[Walrein, Manectric]
+	Party vs Flying/Psychic:
+		Super Effective:
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Dark: [Cacturne]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+		Not Effective:
+			Ground: [Claydol]
+	Flying/Psychic vs Party:
+		Super Effective:
+			Flying: [Combusken, Cacturne]
+			Psychic: [Combusken]
+		Normal Effective:
+			Flying: [Walrein, Claydol, Pelipper]
+			Psychic: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Flying: [Manectric]
+			Psychic: [Claydol]
+		Not Effective:
+			Psychic: [Cacturne]
+	Flying/Psychic Pokemon:
+		Natu
+		Xatu
+--------------------------------------------------------------------------------
+Flying/Bug:
+	Summary Text:
+		[Walrein, Manectric, Pelipper]
+	Party vs Flying/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+		Not Effective:
+			Ground: [Claydol]
+	Flying/Bug vs Party:
+		Super Effective:
+			Flying: [Combusken, Cacturne]
+			Bug: [Cacturne, Claydol]
+		Normal Effective:
+			Flying: [Walrein, Claydol, Pelipper]
+			Bug: [Walrein, Manectric]
+		Not Very Effective:
+			Flying: [Manectric]
+			Bug: [Combusken, Pelipper]
+	Flying/Bug Pokemon:
+		Beautifly
+		Masquerain
+		Ninjask
+--------------------------------------------------------------------------------
+Flying/Dragon:
+	Summary Text:
+		[Walrein]
+	Party vs Flying/Dragon:
+		Super Effective:
+			Ice: [Walrein]
+		Normal Effective:
+			Electric: [Manectric]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+		Not Effective:
+			Ground: [Claydol]
+	Flying/Dragon vs Party:
+		Super Effective:
+			Flying: [Combusken, Cacturne]
+		Normal Effective:
+			Flying: [Walrein, Claydol, Pelipper]
+			Dragon: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+		Not Very Effective:
+			Flying: [Manectric]
+	Flying/Dragon Pokemon:
+		Altaria
+		Salamence
+		Rayquaza
+--------------------------------------------------------------------------------
+Flying/Steel:
+	Summary Text:
+		[Manectric]
+	Party vs Flying/Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Not Effective:
+			Ground: [Claydol]
+	Flying/Steel vs Party:
+		Super Effective:
+			Flying: [Combusken, Cacturne]
+		Normal Effective:
+			Flying: [Walrein, Claydol, Pelipper]
+			Steel: [Walrein, Cacturne, Claydol]
+		Not Very Effective:
+			Flying: [Manectric]
+			Steel: [Combusken, Manectric, Pelipper]
+	Flying/Steel Pokemon:
+		Skarmory
+--------------------------------------------------------------------------------
+Psychic:
+	Summary Text:
+		[Cacturne]
+	Party vs Psychic:
+		Super Effective:
+			Dark: [Cacturne]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+	Psychic vs Party:
+		Super Effective:
+			Psychic: [Combusken]
+		Normal Effective:
+			Psychic: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Psychic: [Claydol]
+		Not Effective:
+			Psychic: [Cacturne]
+	Psychic Pokemon:
+		Ralts
+		Kirlia
+		Gardevoir
+		Abra
+		Kadabra
+		Alakazam
+		Spoink
+		Grumpig
+		Chimecho
+		Wynaut
+		Wobbuffet
+		Deoxys
+--------------------------------------------------------------------------------
+Psychic/Rock:
+	Summary Text:
+		[Cacturne]
+	Party vs Psychic/Rock:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Dark: [Cacturne]
+		Normal Effective:
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Not Effective:
+			Ground: [Claydol]
+	Psychic/Rock vs Party:
+		Super Effective:
+			Psychic: [Combusken]
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Psychic: [Walrein, Manectric, Pelipper]
+			Rock: [Combusken, Cacturne, Manectric]
+		Not Very Effective:
+			Psychic: [Claydol]
+			Rock: [Claydol]
+		Not Effective:
+			Psychic: [Cacturne]
+	Psychic/Rock Pokemon:
+		Lunatone
+		Solrock
+--------------------------------------------------------------------------------
+Psychic/Dragon:
+	Summary Text:
+		[Walrein, Cacturne]
+	Party vs Psychic/Dragon:
+		Super Effective:
+			Ice: [Walrein]
+			Dark: [Cacturne]
+		Normal Effective:
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+		Not Effective:
+			Ground: [Claydol]
+	Psychic/Dragon vs Party:
+		Super Effective:
+			Psychic: [Combusken]
+		Normal Effective:
+			Psychic: [Walrein, Manectric, Pelipper]
+			Dragon: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+		Not Very Effective:
+			Psychic: [Claydol]
+		Not Effective:
+			Psychic: [Cacturne]
+	Psychic/Dragon Pokemon:
+		Latias
+		Latios
+--------------------------------------------------------------------------------
+Psychic/Steel:
+	Summary Text:
+		[Cacturne, Claydol]
+	Party vs Psychic/Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Ground: [Claydol]
+			Dark: [Cacturne]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Fighting: [Combusken]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+	Psychic/Steel vs Party:
+		Super Effective:
+			Psychic: [Combusken]
+		Normal Effective:
+			Psychic: [Walrein, Manectric, Pelipper]
+			Steel: [Walrein, Cacturne, Claydol]
+		Not Very Effective:
+			Psychic: [Claydol]
+			Steel: [Combusken, Manectric, Pelipper]
+		Not Effective:
+			Psychic: [Cacturne]
+	Psychic/Steel Pokemon:
+		Beldum
+		Metang
+		Metagross
+		Jirachi
+--------------------------------------------------------------------------------
+Bug:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+	Bug vs Party:
+		Super Effective:
+			Bug: [Cacturne, Claydol]
+		Normal Effective:
+			Bug: [Walrein, Manectric]
+		Not Very Effective:
+			Bug: [Combusken, Pelipper]
+	Bug Pokemon:
+		Wurmple
+		Silcoon
+		Cascoon
+		Volbeat
+		Illumise
+		Pinsir
+--------------------------------------------------------------------------------
+Bug/Rock:
+	Summary Text:
+		Sup Eff A/E: [Walrein, Pelipper] Nor Eff: [Combusken, Manectric]
+	Party vs Bug/Rock:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+		Normal Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+	Bug/Rock vs Party:
+		Super Effective:
+			Bug: [Cacturne, Claydol]
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Bug: [Walrein, Manectric]
+			Rock: [Combusken, Cacturne, Manectric]
+		Not Very Effective:
+			Bug: [Combusken, Pelipper]
+			Rock: [Claydol]
+	Bug/Rock Pokemon:
+		Anorith
+		Armaldo
+--------------------------------------------------------------------------------
+Bug/Ghost:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Bug/Ghost:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Dark: [Cacturne]
+		Not Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Psychic: [Claydol]
+	Bug/Ghost vs Party:
+		Super Effective:
+			Bug: [Cacturne, Claydol]
+			Ghost: [Claydol]
+		Normal Effective:
+			Bug: [Walrein, Manectric]
+			Ghost: [Combusken, Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Bug: [Combusken, Pelipper]
+			Ghost: [Cacturne]
+	Bug/Ghost Pokemon:
+		Shedinja
+--------------------------------------------------------------------------------
+Rock:
+	Summary Text:
+		[Combusken, Cacturne, Claydol]
+	Party vs Rock:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Grass: [Cacturne]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Normal Effective:
+			Electric: [Manectric]
+			Ice: [Walrein]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+	Rock vs Party:
+		Super Effective:
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Rock: [Combusken, Cacturne, Manectric]
+		Not Very Effective:
+			Rock: [Claydol]
+	Rock Pokemon:
+		Nosepass
+		Regirock
+--------------------------------------------------------------------------------
+Rock/Steel:
+	Summary Text:
+		[Combusken, Claydol]
+	Party vs Rock/Steel:
+		Super Effective:
+			Water: [Walrein, Pelipper]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Normal Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+	Rock/Steel vs Party:
+		Super Effective:
+			Rock: [Walrein, Pelipper]
+		Normal Effective:
+			Rock: [Combusken, Cacturne, Manectric]
+			Steel: [Walrein, Cacturne, Claydol]
+		Not Very Effective:
+			Rock: [Claydol]
+			Steel: [Combusken, Manectric, Pelipper]
+	Rock/Steel Pokemon:
+		Aron
+		Lairon
+		Aggron
+--------------------------------------------------------------------------------
+Ghost:
+	Summary Text:
+		[Cacturne]
+	Party vs Ghost:
+		Super Effective:
+			Dark: [Cacturne]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+		Not Effective:
+			Fighting: [Combusken]
+	Ghost vs Party:
+		Super Effective:
+			Ghost: [Claydol]
+		Normal Effective:
+			Ghost: [Combusken, Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Ghost: [Cacturne]
+	Ghost Pokemon:
+		Shuppet
+		Banette
+		Duskull
+		Dusclops
+--------------------------------------------------------------------------------
+Ghost/Dark:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Combusken, Walrein, Cacturne, Manectric, Pelipper]
+	Party vs Ghost/Dark:
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Dark: [Cacturne]
+		Not Effective:
+			Fighting: [Combusken]
+			Psychic: [Claydol]
+	Ghost/Dark vs Party:
+		Super Effective:
+			Ghost: [Claydol]
+			Dark: [Claydol]
+		Normal Effective:
+			Ghost: [Combusken, Walrein, Manectric, Pelipper]
+			Dark: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Ghost: [Cacturne]
+			Dark: [Combusken, Cacturne]
+	Ghost/Dark Pokemon:
+		Sableye
+--------------------------------------------------------------------------------
+Dragon:
+	Summary Text:
+		[Walrein]
+	Party vs Dragon:
+		Super Effective:
+			Ice: [Walrein]
+		Normal Effective:
+			Fighting: [Combusken]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+	Dragon vs Party:
+		Normal Effective:
+			Dragon: [Combusken, Walrein, Cacturne, Manectric, Claydol, Pelipper]
+	Dragon Pokemon:
+		Bagon
+		Shelgon
+--------------------------------------------------------------------------------
+Dark:
+	Summary Text:
+		[Combusken]
+	Party vs Dark:
+		Super Effective:
+			Fighting: [Combusken]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Ground: [Claydol]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Dark: [Cacturne]
+		Not Effective:
+			Psychic: [Claydol]
+	Dark vs Party:
+		Super Effective:
+			Dark: [Claydol]
+		Normal Effective:
+			Dark: [Walrein, Manectric, Pelipper]
+		Not Very Effective:
+			Dark: [Combusken, Cacturne]
+	Dark Pokemon:
+		Poochyena
+		Mightyena
+		Absol
+--------------------------------------------------------------------------------
+Steel:
+	Summary Text:
+		[Combusken, Claydol]
+	Party vs Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken]
+			Ground: [Claydol]
+		Normal Effective:
+			Water: [Walrein, Pelipper]
+			Electric: [Manectric]
+			Dark: [Cacturne]
+		Not Very Effective:
+			Grass: [Cacturne]
+			Ice: [Walrein]
+			Flying: [Pelipper]
+			Psychic: [Claydol]
+	Steel vs Party:
+		Normal Effective:
+			Steel: [Walrein, Cacturne, Claydol]
+		Not Very Effective:
+			Steel: [Combusken, Manectric, Pelipper]
+	Steel Pokemon:
+		Mawile
+		Registeel

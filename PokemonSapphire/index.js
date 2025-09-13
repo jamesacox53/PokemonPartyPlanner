@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url';
 import { createPartyTxtFile } from '../PokemonPartyPlanner/index.js';
 
 const directoryPathStr = dirname(fileURLToPath(import.meta.url));
-const partyFileNameStr = 'Blaziken1.txt';
+const partyFileNameStr = 'EarlyGame1.txt';
 const pokedexURLStr = 'https://pokemondb.net/pokedex/game/ruby-sapphire-emerald';
 const typeOrderURLStr = 'https://pokemondb.net/type';
 
@@ -12,7 +12,7 @@ const typeOrderURLStr = 'https://pokemondb.net/type';
 //     attackType: 'Water'
 // };
 
-const pokemonPartyArr = ['Blaziken', 'Walrein', 'Shiftry', 'Manectric', 'Rhydon', 'Pelipper'];
+const pokemonPartyArr = ['Combusken', 'Azumarill', 'Breloom', 'Manectric', 'Golem', 'Pelipper'];
 
 const argsObj = {
     directoryPathStr: directoryPathStr,

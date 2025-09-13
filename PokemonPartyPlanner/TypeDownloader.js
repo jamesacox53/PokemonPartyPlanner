@@ -24,7 +24,7 @@ async function loadTypesJSONFile(argsObj) {
 
         const jsonObj = JSON.parse(dataStr);
         argsObj['typesObj'] = jsonObj;
-        
+
         return true;
 
     } catch (err) {
@@ -35,7 +35,7 @@ async function loadTypesJSONFile(argsObj) {
 async function addTypesJSONObj(argsObj) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
-    
+
     await page.setViewport({ width: 1080, height: 1024 });
 
     const typesObj = await getTypesObj(page, argsObj);
@@ -45,17 +45,19 @@ async function addTypesJSONObj(argsObj) {
     return true;
 }
 
-async function getTypesObj(page, argsObj) { 
+async function getTypesObj(page, argsObj) {
     const typesObj = {};
     const pokedexObj = argsObj['pokedexObj'];
-    
+
     for (let pokemonNameStr in pokedexObj) {
         const pokemonObj = pokedexObj[pokemonNameStr];
         addPokemonObj(typesObj, pokemonObj);
     }
 
     await addTypeDefenses(typesObj, page, argsObj);
-    return typesObj;
+
+    const orderedTypesObj = getOrderedTypesObj(typesObj, argsObj);
+    return orderedTypesObj;
 }
 
 function addPokemonObj(typesObj, pokemonObj) {
@@ -65,7 +67,7 @@ function addPokemonObj(typesObj, pokemonObj) {
     if (typeObj) {
         typeObj['pokemonNames'].push(pokemonObj['name']);
         typeObj['pokemonUrls'].push(pokemonObj['url']);
-    
+
     } else {
         typesObj[typeStr] = {
             name: typeStr,
@@ -89,7 +91,7 @@ async function addTypeDefenses(typesObj, page, argsObj) {
 async function getTypeDefenseObj(typeObj, page, argsObj) {
     const typeStr = typeObj['name'];
     const pokemonURLArr = typeObj['pokemonUrls'];
-    
+
     for (let pokemonURLStr of pokemonURLArr) {
         const obj = await getDefenseObj(pokemonURLStr, typeStr, page, argsObj);
         if (obj) return obj;
@@ -99,7 +101,7 @@ async function getTypeDefenseObj(typeObj, page, argsObj) {
 async function getDefenseObj(pokemonURLStr, typeStr, page, argsObj) {
     await page.goto(pokemonURLStr);
     const mainHandle = await page.waitForSelector('#main');
-    
+
     const pokemonTypeStr = await getPokemonTypeStr(mainHandle, page, argsObj);
     if (pokemonTypeStr != typeStr) return;
 
@@ -119,16 +121,16 @@ async function getPokemonTypeStr(mainHandle, page, argsObj) {
     }
 
     const typeOrderObj = argsObj['typeOrderObj'];
-    typeArr.sort((a,b) => typeOrderObj[a] - typeOrderObj[b]);
+    typeArr.sort((a, b) => typeOrderObj[a] - typeOrderObj[b]);
 
-    const resStr = typeArr.join('/');    
+    const resStr = typeArr.join('/');
     return resStr;
 }
 
 async function getDefenseObjFromPage(mainHandle, page) {
     const defenseObj = {};
     const typeTableHandleArr = await mainHandle.$$('.type-table');
-    
+
     const topTypeTableHandle = typeTableHandleArr[0];
     const bottomTypeTableHandle = typeTableHandleArr[1];
 
@@ -141,7 +143,7 @@ async function getDefenseObjFromPage(mainHandle, page) {
 async function populateDefenseObj(typeTableHandle, defenseObj, page) {
     const typeNameArr = await getTypeNameArr(typeTableHandle, page);
     const typeValueArr = await getTypeValueArr(typeTableHandle, page);
-    
+
     for (let i = 0; i < typeNameArr.length; i++) {
         const typeNameStr = typeNameArr[i];
         const typeValueFlt = typeValueArr[i];
@@ -184,8 +186,47 @@ function getValueFlt(valueStr) {
     if (valueStr == '½') return 0.5;
     if (valueStr == '¼') return 0.25;
     if (valueStr == '⅛') return 0.125;
-    
+
     return 0.0;
+}
+
+function getOrderedTypesObj(typesObj, argsObj) {
+    const keyArr = getKeyArr(typesObj, argsObj);
+    keyArr.sort((a, b) => a[1] - b[1]);
+    
+    const orderedTypesObj = {};
+
+    for (let key of keyArr) {
+        const keyStr = key[0];
+        orderedTypesObj[keyStr] = typesObj[keyStr];
+    }
+
+    return orderedTypesObj;
+}
+
+function getKeyArr(typesObj, argsObj) {
+    const typeOrderObj = argsObj['typeOrderObj'];
+    const keyArr = [];
+
+    const baseInt = Object.keys(typeOrderObj).length + 1;
+
+    for (let typeStr in typesObj) {
+        const typeObj = typesObj[typeStr];
+        const typesArr = typeObj['types'];
+        
+        let orderInt = 0;
+        let powInt = 1;
+        
+        for (let typeStr of typesArr) {
+            const typeInt = typeOrderObj[typeStr] + 1;
+            orderInt += typeInt * (baseInt ** powInt);
+            powInt--;
+        }
+
+        keyArr.push([typeStr, orderInt]);
+    }
+
+    return keyArr;
 }
 
 async function createTypesJSONFile({ typesPathStr, typesObj }) {

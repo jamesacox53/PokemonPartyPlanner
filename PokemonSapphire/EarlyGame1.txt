@@ -1,0 +1,1795 @@
+Pokemon Party:
+[Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+
+What To Go For:
+Party:
+Combusken: [Normal, Fire/Rock, Electric/Steel, Grass, Grass/Fighting, Grass/Poison, Grass/Rock, Grass/Dark, Ice, Fighting/Bug, Poison/Bug, Bug, Bug/Ghost, Rock, Rock/Steel, Ghost, Ghost/Dark, Dragon, Dark, Steel]
+Azumarill: [Normal/Psychic, Fire, Fire/Fighting, Fire/Ground, Ground, Ground/Psychic, Ground/Bug, Psychic, Psychic/Rock, Psychic/Steel, Bug/Rock]
+Breloom: [Water, Water/Electric, Water/Ground, Water/Rock, Water/Dragon, Water/Dark, Ground/Rock, Ground/Dragon]
+Manectric: [Normal/Flying, Water/Ice, Water/Poison, Water/Flying, Water/Psychic, Water/Bug, Poison/Flying, Flying/Psychic, Flying/Bug, Flying/Steel]
+Golem: [Electric, Poison, Flying/Dragon, Psychic/Dragon]
+Pelipper: [Water/Grass, Grass/Flying, Fighting, Fighting/Psychic]
+
+Types:
+Normal -> Combusken
+Normal/Flying -> Manectric
+Normal/Psychic -> Azumarill
+Fire -> Azumarill
+Fire/Fighting -> Azumarill
+Fire/Ground -> Azumarill
+Fire/Rock -> Combusken
+Water -> Breloom
+Water/Electric -> Breloom
+Water/Grass -> Pelipper
+Water/Ice -> Manectric
+Water/Poison -> Manectric
+Water/Ground -> Breloom
+Water/Flying -> Manectric
+Water/Psychic -> Manectric
+Water/Bug -> Manectric
+Water/Rock -> Breloom
+Water/Dragon -> Breloom
+Water/Dark -> Breloom
+Electric -> Golem
+Electric/Steel -> Combusken
+Grass -> Combusken
+Grass/Fighting -> Combusken
+Grass/Poison -> Combusken
+Grass/Flying -> Pelipper
+Grass/Rock -> Combusken
+Grass/Dark -> Combusken
+Ice -> Combusken
+Fighting -> Pelipper
+Fighting/Psychic -> Pelipper
+Fighting/Bug -> Combusken
+Poison -> Golem
+Poison/Flying -> Manectric
+Poison/Bug -> Combusken
+Ground -> Azumarill
+Ground/Psychic -> Azumarill
+Ground/Bug -> Azumarill
+Ground/Rock -> Breloom
+Ground/Dragon -> Breloom
+Flying/Psychic -> Manectric
+Flying/Bug -> Manectric
+Flying/Dragon -> Golem
+Flying/Steel -> Manectric
+Psychic -> Azumarill
+Psychic/Rock -> Azumarill
+Psychic/Dragon -> Golem
+Psychic/Steel -> Azumarill
+Bug -> Combusken
+Bug/Rock -> Azumarill
+Bug/Ghost -> Combusken
+Rock -> Combusken
+Rock/Steel -> Combusken
+Ghost -> Combusken
+Ghost/Dark -> Combusken
+Dragon -> Combusken
+Dark -> Combusken
+Steel -> Combusken
+
+Type Summary:
+Normal -> [Combusken, Breloom]
+Normal/Flying -> [Manectric, Golem]
+Normal/Psychic -> No Sup Eff. Nor Eff: [Azumarill, Manectric, Golem, Pelipper]
+Fire -> [Azumarill, Golem, Pelipper]
+Fire/Fighting -> [Azumarill, Pelipper]
+Fire/Ground -> [Azumarill, Pelipper]
+Fire/Rock -> [Combusken, Azumarill, Golem]
+Water -> [Breloom, Manectric]
+Water/Electric -> [Breloom]
+Water/Grass -> [Pelipper]
+Water/Ice -> [Manectric]
+Water/Poison -> [Manectric]
+Water/Ground -> [Breloom]
+Water/Flying -> [Manectric]
+Water/Psychic -> [Manectric]
+Water/Bug -> [Manectric, Pelipper]
+Water/Rock -> [Breloom, Manectric]
+Water/Dragon -> No Sup Eff. Nor Eff: [Breloom, Manectric, Pelipper]
+Water/Dark -> [Breloom, Manectric]
+Electric -> [Golem]
+Electric/Steel -> [Combusken, Breloom]
+Grass -> [Combusken, Pelipper]
+Grass/Fighting -> [Combusken, Pelipper]
+Grass/Poison -> [Combusken, Pelipper]
+Grass/Flying -> [Pelipper]
+Grass/Rock -> [Combusken, Breloom]
+Grass/Dark -> [Combusken, Breloom, Pelipper]
+Ice -> [Combusken]
+Fighting -> [Pelipper]
+Fighting/Psychic -> [Pelipper]
+Fighting/Bug -> [Combusken, Pelipper]
+Poison -> [Golem]
+Poison/Flying -> [Manectric, Golem]
+Poison/Bug -> [Combusken, Golem, Pelipper]
+Ground -> [Azumarill, Breloom, Pelipper]
+Ground/Psychic -> [Azumarill, Pelipper]
+Ground/Bug -> [Azumarill, Pelipper]
+Ground/Rock -> [Azumarill, Breloom]
+Ground/Dragon -> No Sup Eff. Nor Eff: [Azumarill, Breloom, Pelipper]
+Flying/Psychic -> [Manectric, Golem]
+Flying/Bug -> [Manectric, Golem, Pelipper]
+Flying/Dragon -> [Golem]
+Flying/Steel -> [Manectric]
+Psychic -> No Sup Eff. Nor Eff: [Azumarill, Manectric, Golem, Pelipper]
+Psychic/Rock -> [Azumarill]
+Psychic/Dragon -> No Sup Eff. Nor Eff: [Golem, Pelipper]
+Psychic/Steel -> Sup Eff A/E: [Combusken, Golem] Nor Eff: [Azumarill, Manectric, Pelipper]
+Bug -> [Combusken, Golem, Pelipper]
+Bug/Rock -> [Azumarill, Golem]
+Bug/Ghost -> [Combusken, Golem, Pelipper]
+Rock -> [Combusken, Azumarill, Breloom, Golem]
+Rock/Steel -> [Combusken, Azumarill, Breloom]
+Ghost -> No Sup Eff. Nor Eff: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+Ghost/Dark -> No Sup Eff. Nor Eff: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+Dragon -> No Sup Eff. Nor Eff: [Combusken, Breloom, Golem, Pelipper]
+Dark -> [Combusken, Breloom]
+Steel -> [Combusken, Breloom]
+
+Full Type Breakdown:
+Normal:
+	Summary Text:
+		[Combusken, Breloom]
+	Party vs Normal:
+		Super Effective:
+			Fighting: [Combusken, Breloom]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+	Normal vs Party:
+		Normal Effective:
+			Normal: [Combusken, Azumarill, Breloom, Manectric, Pelipper]
+		Not Very Effective:
+			Normal: [Golem]
+	Normal Pokemon:
+		Zigzagoon
+		Linoone
+		Slakoth
+		Vigoroth
+		Slaking
+		Whismur
+		Loudred
+		Exploud
+		Azurill
+		Skitty
+		Delcatty
+		Spinda
+		Zangoose
+		Igglybuff
+		Jigglypuff
+		Wigglytuff
+		Castform
+		Kecleon
+--------------------------------------------------------------------------------
+Normal/Flying:
+	Summary Text:
+		[Manectric, Golem]
+	Party vs Normal/Flying:
+		Super Effective:
+			Electric: [Manectric]
+			Rock: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Grass: [Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Normal/Flying vs Party:
+		Super Effective:
+			Flying: [Combusken, Breloom]
+		Normal Effective:
+			Normal: [Combusken, Azumarill, Breloom, Manectric, Pelipper]
+			Flying: [Azumarill, Pelipper]
+		Not Very Effective:
+			Normal: [Golem]
+			Flying: [Manectric, Golem]
+	Normal/Flying Pokemon:
+		Taillow
+		Swellow
+		Doduo
+		Dodrio
+		Swablu
+--------------------------------------------------------------------------------
+Normal/Psychic:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Azumarill, Manectric, Golem, Pelipper]
+	Party vs Normal/Psychic:
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+	Normal/Psychic vs Party:
+		Super Effective:
+			Psychic: [Combusken, Breloom]
+		Normal Effective:
+			Normal: [Combusken, Azumarill, Breloom, Manectric, Pelipper]
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Normal: [Golem]
+	Normal/Psychic Pokemon:
+		Girafarig
+--------------------------------------------------------------------------------
+Fire:
+	Summary Text:
+		[Azumarill, Golem, Pelipper]
+	Party vs Fire:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Ground: [Golem]
+			Rock: [Golem]
+		Normal Effective:
+			Electric: [Manectric]
+			Fighting: [Combusken, Breloom]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Grass: [Breloom]
+	Fire vs Party:
+		Super Effective:
+			Fire: [Breloom]
+		Normal Effective:
+			Fire: [Manectric]
+		Not Very Effective:
+			Fire: [Combusken, Azumarill, Golem, Pelipper]
+	Fire Pokemon:
+		Torchic
+		Slugma
+		Torkoal
+		Vulpix
+		Ninetales
+--------------------------------------------------------------------------------
+Fire/Fighting:
+	Summary Text:
+		[Azumarill, Pelipper]
+	Party vs Fire/Fighting:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Ground: [Golem]
+			Flying: [Pelipper]
+		Normal Effective:
+			Electric: [Manectric]
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Grass: [Breloom]
+	Fire/Fighting vs Party:
+		Super Effective:
+			Fire: [Breloom]
+			Fighting: [Golem]
+		Normal Effective:
+			Fire: [Manectric]
+			Fighting: [Combusken, Azumarill, Breloom, Manectric]
+		Not Very Effective:
+			Fire: [Combusken, Azumarill, Golem, Pelipper]
+			Fighting: [Pelipper]
+	Fire/Fighting Pokemon:
+		Combusken
+		Blaziken
+--------------------------------------------------------------------------------
+Fire/Ground:
+	Summary Text:
+		[Azumarill, Pelipper]
+	Party vs Fire/Ground:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Ground: [Golem]
+		Normal Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+		Not Effective:
+			Electric: [Manectric]
+	Fire/Ground vs Party:
+		Super Effective:
+			Fire: [Breloom]
+			Ground: [Combusken, Manectric, Golem]
+		Normal Effective:
+			Fire: [Manectric]
+			Ground: [Azumarill]
+		Not Very Effective:
+			Fire: [Combusken, Azumarill, Golem, Pelipper]
+			Ground: [Breloom]
+		Not Effective:
+			Ground: [Pelipper]
+	Fire/Ground Pokemon:
+		Numel
+		Camerupt
+--------------------------------------------------------------------------------
+Fire/Rock:
+	Summary Text:
+		[Combusken, Azumarill, Golem]
+	Party vs Fire/Rock:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Rock: [Golem]
+		Normal Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+	Fire/Rock vs Party:
+		Super Effective:
+			Fire: [Breloom]
+			Rock: [Pelipper]
+		Normal Effective:
+			Fire: [Manectric]
+			Rock: [Combusken, Azumarill, Manectric]
+		Not Very Effective:
+			Fire: [Combusken, Azumarill, Golem, Pelipper]
+			Rock: [Breloom, Golem]
+	Fire/Rock Pokemon:
+		Magcargo
+--------------------------------------------------------------------------------
+Water:
+	Summary Text:
+		[Breloom, Manectric]
+	Party vs Water:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+		Normal Effective:
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+	Water vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+		Normal Effective:
+			Water: [Manectric]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+	Water Pokemon:
+		Mudkip
+		Goldeen
+		Seaking
+		Magikarp
+		Marill
+		Azumarill
+		Wailmer
+		Wailord
+		Corphish
+		Feebas
+		Milotic
+		Staryu
+		Psyduck
+		Golduck
+		Clamperl
+		Huntail
+		Gorebyss
+		Luvdisc
+		Horsea
+		Seadra
+		Kyogre
+--------------------------------------------------------------------------------
+Water/Electric:
+	Summary Text:
+		[Breloom]
+	Party vs Water/Electric:
+		Super Effective:
+			Grass: [Breloom]
+			Ground: [Golem]
+		Normal Effective:
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Flying: [Pelipper]
+		Not Effective:
+			Electric: [Manectric]
+	Water/Electric vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Electric: [Azumarill, Pelipper]
+		Normal Effective:
+			Water: [Manectric]
+			Electric: [Combusken]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Electric: [Breloom, Manectric]
+		Not Effective:
+			Electric: [Golem]
+	Water/Electric Pokemon:
+		Chinchou
+		Lanturn
+--------------------------------------------------------------------------------
+Water/Grass:
+	Summary Text:
+		[Pelipper]
+	Party vs Water/Grass:
+		Super Effective:
+			Flying: [Pelipper]
+		Normal Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Water: [Azumarill, Pelipper]
+			Ground: [Golem]
+	Water/Grass vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Grass: [Azumarill, Golem]
+		Normal Effective:
+			Water: [Manectric]
+			Grass: [Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Grass: [Combusken, Breloom]
+	Water/Grass Pokemon:
+		Lotad
+		Lombre
+		Ludicolo
+--------------------------------------------------------------------------------
+Water/Ice:
+	Summary Text:
+		[Manectric]
+	Party vs Water/Ice:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Normal Effective:
+			Ground: [Golem]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+	Water/Ice vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Ice: [Breloom, Golem]
+		Normal Effective:
+			Water: [Manectric]
+			Ice: [Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Ice: [Combusken, Azumarill]
+	Water/Ice Pokemon:
+		Spheal
+		Sealeo
+		Walrein
+--------------------------------------------------------------------------------
+Water/Poison:
+	Summary Text:
+		[Manectric]
+	Party vs Water/Poison:
+		Super Effective:
+			Electric: [Manectric]
+			Ground: [Golem]
+		Normal Effective:
+			Grass: [Breloom]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+	Water/Poison vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Poison: [Breloom]
+		Normal Effective:
+			Water: [Manectric]
+			Poison: [Combusken, Azumarill, Manectric, Pelipper]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Poison: [Golem]
+	Water/Poison Pokemon:
+		Tentacool
+		Tentacruel
+--------------------------------------------------------------------------------
+Water/Ground:
+	Summary Text:
+		[Breloom]
+	Party vs Water/Ground:
+		Super Effective:
+			Grass: [Breloom]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Rock: [Golem]
+		Not Effective:
+			Electric: [Manectric]
+	Water/Ground vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Ground: [Combusken, Manectric, Golem]
+		Normal Effective:
+			Water: [Manectric]
+			Ground: [Azumarill]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Ground: [Breloom]
+		Not Effective:
+			Ground: [Pelipper]
+	Water/Ground Pokemon:
+		Marshtomp
+		Swampert
+		Barboach
+		Whiscash
+--------------------------------------------------------------------------------
+Water/Flying:
+	Summary Text:
+		[Manectric]
+	Party vs Water/Flying:
+		Super Effective:
+			Electric: [Manectric]
+			Rock: [Golem]
+		Normal Effective:
+			Grass: [Breloom]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Water/Flying vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Flying: [Combusken, Breloom]
+		Normal Effective:
+			Water: [Manectric]
+			Flying: [Azumarill, Pelipper]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Flying: [Manectric, Golem]
+	Water/Flying Pokemon:
+		Wingull
+		Pelipper
+		Gyarados
+--------------------------------------------------------------------------------
+Water/Psychic:
+	Summary Text:
+		[Manectric]
+	Party vs Water/Psychic:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+		Normal Effective:
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+	Water/Psychic vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Psychic: [Combusken, Breloom]
+		Normal Effective:
+			Water: [Manectric]
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+	Water/Psychic Pokemon:
+		Starmie
+--------------------------------------------------------------------------------
+Water/Bug:
+	Summary Text:
+		[Manectric, Pelipper]
+	Party vs Water/Bug:
+		Super Effective:
+			Electric: [Manectric]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Grass: [Breloom]
+		Not Very Effective:
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+	Water/Bug vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+		Normal Effective:
+			Water: [Manectric]
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Bug: [Combusken, Pelipper]
+	Water/Bug Pokemon:
+		Surskit
+--------------------------------------------------------------------------------
+Water/Rock:
+	Summary Text:
+		[Breloom, Manectric]
+	Party vs Water/Rock:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+	Water/Rock vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+			Rock: [Pelipper]
+		Normal Effective:
+			Water: [Manectric]
+			Rock: [Combusken, Azumarill, Manectric]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Rock: [Breloom, Golem]
+	Water/Rock Pokemon:
+		Relicanth
+		Corsola
+--------------------------------------------------------------------------------
+Water/Dragon:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Breloom, Manectric, Pelipper]
+	Party vs Water/Dragon:
+		Normal Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+	Water/Dragon vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+		Normal Effective:
+			Water: [Manectric]
+			Dragon: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+	Water/Dragon Pokemon:
+		Kingdra
+--------------------------------------------------------------------------------
+Water/Dark:
+	Summary Text:
+		[Breloom, Manectric]
+	Party vs Water/Dark:
+		Super Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+		Normal Effective:
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+	Water/Dark vs Party:
+		Super Effective:
+			Water: [Combusken, Golem]
+		Normal Effective:
+			Water: [Manectric]
+			Dark: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Water: [Azumarill, Breloom, Pelipper]
+			Dark: [Combusken, Breloom]
+	Water/Dark Pokemon:
+		Carvanha
+		Sharpedo
+		Crawdaunt
+--------------------------------------------------------------------------------
+Electric:
+	Summary Text:
+		[Golem]
+	Party vs Electric:
+		Super Effective:
+			Ground: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Electric: [Manectric]
+			Flying: [Pelipper]
+	Electric vs Party:
+		Super Effective:
+			Electric: [Azumarill, Pelipper]
+		Normal Effective:
+			Electric: [Combusken]
+		Not Very Effective:
+			Electric: [Breloom, Manectric]
+		Not Effective:
+			Electric: [Golem]
+	Electric Pokemon:
+		Electrike
+		Manectric
+		Plusle
+		Minun
+		Voltorb
+		Electrode
+		Pichu
+		Pikachu
+		Raichu
+--------------------------------------------------------------------------------
+Electric/Steel:
+	Summary Text:
+		[Combusken, Breloom]
+	Party vs Electric/Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+		Not Very Effective:
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Flying: [Pelipper]
+			Rock: [Golem]
+	Electric/Steel vs Party:
+		Super Effective:
+			Electric: [Azumarill, Pelipper]
+			Steel: [Golem]
+		Normal Effective:
+			Electric: [Combusken]
+			Steel: [Breloom]
+		Not Very Effective:
+			Electric: [Breloom, Manectric]
+			Steel: [Combusken, Azumarill, Manectric, Pelipper]
+		Not Effective:
+			Electric: [Golem]
+	Electric/Steel Pokemon:
+		Magnemite
+		Magneton
+--------------------------------------------------------------------------------
+Grass:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Grass:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Normal Effective:
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+	Grass vs Party:
+		Super Effective:
+			Grass: [Azumarill, Golem]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Breloom]
+	Grass Pokemon:
+		Treecko
+		Grovyle
+		Sceptile
+		Seedot
+		Shroomish
+		Bellossom
+		Cacnea
+--------------------------------------------------------------------------------
+Grass/Fighting:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Grass/Fighting:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Normal Effective:
+			Fighting: [Combusken, Breloom]
+		Not Very Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Rock: [Golem]
+	Grass/Fighting vs Party:
+		Super Effective:
+			Grass: [Azumarill, Golem]
+			Fighting: [Golem]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Fighting: [Combusken, Azumarill, Breloom, Manectric]
+		Not Very Effective:
+			Grass: [Combusken, Breloom]
+			Fighting: [Pelipper]
+	Grass/Fighting Pokemon:
+		Breloom
+--------------------------------------------------------------------------------
+Grass/Poison:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Grass/Poison:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Normal Effective:
+			Ground: [Golem]
+			Rock: [Golem]
+		Not Very Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+	Grass/Poison vs Party:
+		Super Effective:
+			Grass: [Azumarill, Golem]
+			Poison: [Breloom]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Poison: [Combusken, Azumarill, Manectric, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Breloom]
+			Poison: [Golem]
+	Grass/Poison Pokemon:
+		Oddish
+		Gloom
+		Vileplume
+		Roselia
+--------------------------------------------------------------------------------
+Grass/Flying:
+	Summary Text:
+		[Pelipper]
+	Party vs Grass/Flying:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Normal Effective:
+			Electric: [Manectric]
+		Not Very Effective:
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Grass/Flying vs Party:
+		Super Effective:
+			Grass: [Azumarill, Golem]
+			Flying: [Combusken, Breloom]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Flying: [Azumarill, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Breloom]
+			Flying: [Manectric, Golem]
+	Grass/Flying Pokemon:
+		Tropius
+--------------------------------------------------------------------------------
+Grass/Rock:
+	Summary Text:
+		[Combusken, Breloom]
+	Party vs Grass/Rock:
+		Super Effective:
+			Fighting: [Combusken, Breloom]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Electric: [Manectric]
+	Grass/Rock vs Party:
+		Super Effective:
+			Grass: [Azumarill, Golem]
+			Rock: [Pelipper]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Rock: [Combusken, Azumarill, Manectric]
+		Not Very Effective:
+			Grass: [Combusken, Breloom]
+			Rock: [Breloom, Golem]
+	Grass/Rock Pokemon:
+		Lileep
+		Cradily
+--------------------------------------------------------------------------------
+Grass/Dark:
+	Summary Text:
+		[Combusken, Breloom, Pelipper]
+	Party vs Grass/Dark:
+		Super Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken, Breloom]
+			Flying: [Pelipper]
+		Normal Effective:
+			Rock: [Golem]
+		Not Very Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+	Grass/Dark vs Party:
+		Super Effective:
+			Grass: [Azumarill, Golem]
+		Normal Effective:
+			Grass: [Manectric, Pelipper]
+			Dark: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Grass: [Combusken, Breloom]
+			Dark: [Combusken, Breloom]
+	Grass/Dark Pokemon:
+		Nuzleaf
+		Shiftry
+		Cacturne
+--------------------------------------------------------------------------------
+Ice:
+	Summary Text:
+		[Combusken]
+	Party vs Ice:
+		Super Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+	Ice vs Party:
+		Super Effective:
+			Ice: [Breloom, Golem]
+		Normal Effective:
+			Ice: [Manectric, Pelipper]
+		Not Very Effective:
+			Ice: [Combusken, Azumarill]
+	Ice Pokemon:
+		Snorunt
+		Glalie
+		Regice
+--------------------------------------------------------------------------------
+Fighting:
+	Summary Text:
+		[Pelipper]
+	Party vs Fighting:
+		Super Effective:
+			Flying: [Pelipper]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Rock: [Golem]
+	Fighting vs Party:
+		Super Effective:
+			Fighting: [Golem]
+		Normal Effective:
+			Fighting: [Combusken, Azumarill, Breloom, Manectric]
+		Not Very Effective:
+			Fighting: [Pelipper]
+	Fighting Pokemon:
+		Makuhita
+		Hariyama
+		Machop
+		Machoke
+		Machamp
+--------------------------------------------------------------------------------
+Fighting/Psychic:
+	Summary Text:
+		[Pelipper]
+	Party vs Fighting/Psychic:
+		Super Effective:
+			Flying: [Pelipper]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+		Not Very Effective:
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+	Fighting/Psychic vs Party:
+		Super Effective:
+			Fighting: [Golem]
+			Psychic: [Combusken, Breloom]
+		Normal Effective:
+			Fighting: [Combusken, Azumarill, Breloom, Manectric]
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Fighting: [Pelipper]
+	Fighting/Psychic Pokemon:
+		Meditite
+		Medicham
+--------------------------------------------------------------------------------
+Fighting/Bug:
+	Summary Text:
+		[Combusken, Pelipper]
+	Party vs Fighting/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Rock: [Golem]
+		Not Very Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+	Fighting/Bug vs Party:
+		Super Effective:
+			Fighting: [Golem]
+		Normal Effective:
+			Fighting: [Combusken, Azumarill, Breloom, Manectric]
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+		Not Very Effective:
+			Fighting: [Pelipper]
+			Bug: [Combusken, Pelipper]
+	Fighting/Bug Pokemon:
+		Heracross
+--------------------------------------------------------------------------------
+Poison:
+	Summary Text:
+		[Golem]
+	Party vs Poison:
+		Super Effective:
+			Ground: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+	Poison vs Party:
+		Super Effective:
+			Poison: [Breloom]
+		Normal Effective:
+			Poison: [Combusken, Azumarill, Manectric, Pelipper]
+		Not Very Effective:
+			Poison: [Golem]
+	Poison Pokemon:
+		Gulpin
+		Swalot
+		Grimer
+		Muk
+		Koffing
+		Weezing
+		Seviper
+--------------------------------------------------------------------------------
+Poison/Flying:
+	Summary Text:
+		[Manectric, Golem]
+	Party vs Poison/Flying:
+		Super Effective:
+			Electric: [Manectric]
+			Rock: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Poison/Flying vs Party:
+		Super Effective:
+			Poison: [Breloom]
+			Flying: [Combusken, Breloom]
+		Normal Effective:
+			Poison: [Combusken, Azumarill, Manectric, Pelipper]
+			Flying: [Azumarill, Pelipper]
+		Not Very Effective:
+			Poison: [Golem]
+			Flying: [Manectric, Golem]
+	Poison/Flying Pokemon:
+		Zubat
+		Golbat
+		Crobat
+--------------------------------------------------------------------------------
+Poison/Bug:
+	Summary Text:
+		[Combusken, Golem, Pelipper]
+	Party vs Poison/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Ground: [Golem]
+		Not Very Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+	Poison/Bug vs Party:
+		Super Effective:
+			Poison: [Breloom]
+		Normal Effective:
+			Poison: [Combusken, Azumarill, Manectric, Pelipper]
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+		Not Very Effective:
+			Poison: [Golem]
+			Bug: [Combusken, Pelipper]
+	Poison/Bug Pokemon:
+		Dustox
+--------------------------------------------------------------------------------
+Ground:
+	Summary Text:
+		[Azumarill, Breloom, Pelipper]
+	Party vs Ground:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+		Normal Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Rock: [Golem]
+		Not Effective:
+			Electric: [Manectric]
+	Ground vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric, Golem]
+		Normal Effective:
+			Ground: [Azumarill]
+		Not Very Effective:
+			Ground: [Breloom]
+		Not Effective:
+			Ground: [Pelipper]
+	Ground Pokemon:
+		Sandshrew
+		Sandslash
+		Trapinch
+		Phanpy
+		Donphan
+		Groudon
+--------------------------------------------------------------------------------
+Ground/Psychic:
+	Summary Text:
+		[Azumarill, Pelipper]
+	Party vs Ground/Psychic:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+		Normal Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Effective:
+			Electric: [Manectric]
+			Ground: [Golem]
+	Ground/Psychic vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric, Golem]
+			Psychic: [Combusken, Breloom]
+		Normal Effective:
+			Ground: [Azumarill]
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Ground: [Breloom]
+		Not Effective:
+			Ground: [Pelipper]
+	Ground/Psychic Pokemon:
+		Baltoy
+		Claydol
+--------------------------------------------------------------------------------
+Ground/Bug:
+	Summary Text:
+		[Azumarill, Pelipper]
+	Party vs Ground/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Flying: [Pelipper]
+		Normal Effective:
+			Grass: [Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Not Effective:
+			Electric: [Manectric]
+	Ground/Bug vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric, Golem]
+		Normal Effective:
+			Ground: [Azumarill]
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+		Not Very Effective:
+			Ground: [Breloom]
+			Bug: [Combusken, Pelipper]
+		Not Effective:
+			Ground: [Pelipper]
+	Ground/Bug Pokemon:
+		Nincada
+--------------------------------------------------------------------------------
+Ground/Rock:
+	Summary Text:
+		[Azumarill, Breloom]
+	Party vs Ground/Rock:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Effective:
+			Electric: [Manectric]
+	Ground/Rock vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric, Golem]
+			Rock: [Pelipper]
+		Normal Effective:
+			Ground: [Azumarill]
+			Rock: [Combusken, Azumarill, Manectric]
+		Not Very Effective:
+			Ground: [Breloom]
+			Rock: [Breloom, Golem]
+		Not Effective:
+			Ground: [Pelipper]
+	Ground/Rock Pokemon:
+		Geodude
+		Graveler
+		Golem
+		Rhyhorn
+		Rhydon
+--------------------------------------------------------------------------------
+Ground/Dragon:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Azumarill, Breloom, Pelipper]
+	Party vs Ground/Dragon:
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Rock: [Golem]
+		Not Effective:
+			Electric: [Manectric]
+			Ground: [Golem]
+	Ground/Dragon vs Party:
+		Super Effective:
+			Ground: [Combusken, Manectric, Golem]
+		Normal Effective:
+			Ground: [Azumarill]
+			Dragon: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Ground: [Breloom]
+		Not Effective:
+			Ground: [Pelipper]
+	Ground/Dragon Pokemon:
+		Vibrava
+		Flygon
+--------------------------------------------------------------------------------
+Flying/Psychic:
+	Summary Text:
+		[Manectric, Golem]
+	Party vs Flying/Psychic:
+		Super Effective:
+			Electric: [Manectric]
+			Rock: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Flying/Psychic vs Party:
+		Super Effective:
+			Flying: [Combusken, Breloom]
+			Psychic: [Combusken, Breloom]
+		Normal Effective:
+			Flying: [Azumarill, Pelipper]
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Flying: [Manectric, Golem]
+	Flying/Psychic Pokemon:
+		Natu
+		Xatu
+--------------------------------------------------------------------------------
+Flying/Bug:
+	Summary Text:
+		[Manectric, Golem, Pelipper]
+	Party vs Flying/Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+		Not Very Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Flying/Bug vs Party:
+		Super Effective:
+			Flying: [Combusken, Breloom]
+		Normal Effective:
+			Flying: [Azumarill, Pelipper]
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+		Not Very Effective:
+			Flying: [Manectric, Golem]
+			Bug: [Combusken, Pelipper]
+	Flying/Bug Pokemon:
+		Beautifly
+		Masquerain
+		Ninjask
+--------------------------------------------------------------------------------
+Flying/Dragon:
+	Summary Text:
+		[Golem]
+	Party vs Flying/Dragon:
+		Super Effective:
+			Rock: [Golem]
+		Normal Effective:
+			Electric: [Manectric]
+			Flying: [Pelipper]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Flying/Dragon vs Party:
+		Super Effective:
+			Flying: [Combusken, Breloom]
+		Normal Effective:
+			Flying: [Azumarill, Pelipper]
+			Dragon: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Flying: [Manectric, Golem]
+	Flying/Dragon Pokemon:
+		Altaria
+		Salamence
+		Rayquaza
+--------------------------------------------------------------------------------
+Flying/Steel:
+	Summary Text:
+		[Manectric]
+	Party vs Flying/Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Grass: [Breloom]
+			Flying: [Pelipper]
+		Not Effective:
+			Ground: [Golem]
+	Flying/Steel vs Party:
+		Super Effective:
+			Flying: [Combusken, Breloom]
+			Steel: [Golem]
+		Normal Effective:
+			Flying: [Azumarill, Pelipper]
+			Steel: [Breloom]
+		Not Very Effective:
+			Flying: [Manectric, Golem]
+			Steel: [Combusken, Azumarill, Manectric, Pelipper]
+	Flying/Steel Pokemon:
+		Skarmory
+--------------------------------------------------------------------------------
+Psychic:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Azumarill, Manectric, Golem, Pelipper]
+	Party vs Psychic:
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fighting: [Combusken, Breloom]
+	Psychic vs Party:
+		Super Effective:
+			Psychic: [Combusken, Breloom]
+		Normal Effective:
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+	Psychic Pokemon:
+		Ralts
+		Kirlia
+		Gardevoir
+		Abra
+		Kadabra
+		Alakazam
+		Spoink
+		Grumpig
+		Chimecho
+		Wynaut
+		Wobbuffet
+		Deoxys
+--------------------------------------------------------------------------------
+Psychic/Rock:
+	Summary Text:
+		[Azumarill]
+	Party vs Psychic/Rock:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+		Normal Effective:
+			Electric: [Manectric]
+			Fighting: [Combusken, Breloom]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+		Not Effective:
+			Ground: [Golem]
+	Psychic/Rock vs Party:
+		Super Effective:
+			Psychic: [Combusken, Breloom]
+			Rock: [Pelipper]
+		Normal Effective:
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+			Rock: [Combusken, Azumarill, Manectric]
+		Not Very Effective:
+			Rock: [Breloom, Golem]
+	Psychic/Rock Pokemon:
+		Lunatone
+		Solrock
+--------------------------------------------------------------------------------
+Psychic/Dragon:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Golem, Pelipper]
+	Party vs Psychic/Dragon:
+		Normal Effective:
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+		Not Effective:
+			Ground: [Golem]
+	Psychic/Dragon vs Party:
+		Super Effective:
+			Psychic: [Combusken, Breloom]
+		Normal Effective:
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+			Dragon: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+	Psychic/Dragon Pokemon:
+		Latias
+		Latios
+--------------------------------------------------------------------------------
+Psychic/Steel:
+	Summary Text:
+		Sup Eff A/E: [Combusken, Golem] Nor Eff: [Azumarill, Manectric, Pelipper]
+	Party vs Psychic/Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Ground: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Fighting: [Combusken, Breloom]
+		Not Very Effective:
+			Grass: [Breloom]
+			Flying: [Pelipper]
+			Rock: [Golem]
+	Psychic/Steel vs Party:
+		Super Effective:
+			Psychic: [Combusken, Breloom]
+			Steel: [Golem]
+		Normal Effective:
+			Psychic: [Azumarill, Manectric, Golem, Pelipper]
+			Steel: [Breloom]
+		Not Very Effective:
+			Steel: [Combusken, Azumarill, Manectric, Pelipper]
+	Psychic/Steel Pokemon:
+		Beldum
+		Metang
+		Metagross
+		Jirachi
+--------------------------------------------------------------------------------
+Bug:
+	Summary Text:
+		[Combusken, Golem, Pelipper]
+	Party vs Bug:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+		Not Very Effective:
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+	Bug vs Party:
+		Normal Effective:
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+		Not Very Effective:
+			Bug: [Combusken, Pelipper]
+	Bug Pokemon:
+		Wurmple
+		Silcoon
+		Cascoon
+		Volbeat
+		Illumise
+		Pinsir
+--------------------------------------------------------------------------------
+Bug/Rock:
+	Summary Text:
+		[Azumarill, Golem]
+	Party vs Bug/Rock:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Rock: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+	Bug/Rock vs Party:
+		Super Effective:
+			Rock: [Pelipper]
+		Normal Effective:
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+			Rock: [Combusken, Azumarill, Manectric]
+		Not Very Effective:
+			Bug: [Combusken, Pelipper]
+			Rock: [Breloom, Golem]
+	Bug/Rock Pokemon:
+		Anorith
+		Armaldo
+--------------------------------------------------------------------------------
+Bug/Ghost:
+	Summary Text:
+		[Combusken, Golem, Pelipper]
+	Party vs Bug/Ghost:
+		Super Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+	Bug/Ghost vs Party:
+		Normal Effective:
+			Bug: [Azumarill, Breloom, Manectric, Golem]
+			Ghost: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Bug: [Combusken, Pelipper]
+	Bug/Ghost Pokemon:
+		Shedinja
+--------------------------------------------------------------------------------
+Rock:
+	Summary Text:
+		[Combusken, Azumarill, Breloom, Golem]
+	Party vs Rock:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Grass: [Breloom]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Normal Effective:
+			Electric: [Manectric]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Flying: [Pelipper]
+	Rock vs Party:
+		Super Effective:
+			Rock: [Pelipper]
+		Normal Effective:
+			Rock: [Combusken, Azumarill, Manectric]
+		Not Very Effective:
+			Rock: [Breloom, Golem]
+	Rock Pokemon:
+		Nosepass
+		Regirock
+--------------------------------------------------------------------------------
+Rock/Steel:
+	Summary Text:
+		[Combusken, Azumarill, Breloom]
+	Party vs Rock/Steel:
+		Super Effective:
+			Water: [Azumarill, Pelipper]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Normal Effective:
+			Fire: [Combusken]
+			Electric: [Manectric]
+			Grass: [Breloom]
+		Not Very Effective:
+			Flying: [Pelipper]
+			Rock: [Golem]
+	Rock/Steel vs Party:
+		Super Effective:
+			Rock: [Pelipper]
+			Steel: [Golem]
+		Normal Effective:
+			Rock: [Combusken, Azumarill, Manectric]
+			Steel: [Breloom]
+		Not Very Effective:
+			Rock: [Breloom, Golem]
+			Steel: [Combusken, Azumarill, Manectric, Pelipper]
+	Rock/Steel Pokemon:
+		Aron
+		Lairon
+		Aggron
+--------------------------------------------------------------------------------
+Ghost:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+	Party vs Ghost:
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Effective:
+			Fighting: [Combusken, Breloom]
+	Ghost vs Party:
+		Normal Effective:
+			Ghost: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+	Ghost Pokemon:
+		Shuppet
+		Banette
+		Duskull
+		Dusclops
+--------------------------------------------------------------------------------
+Ghost/Dark:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+	Party vs Ghost/Dark:
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Effective:
+			Fighting: [Combusken, Breloom]
+	Ghost/Dark vs Party:
+		Normal Effective:
+			Ghost: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+			Dark: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Dark: [Combusken, Breloom]
+	Ghost/Dark Pokemon:
+		Sableye
+--------------------------------------------------------------------------------
+Dragon:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Combusken, Breloom, Golem, Pelipper]
+	Party vs Dragon:
+		Normal Effective:
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+		Not Very Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+	Dragon vs Party:
+		Normal Effective:
+			Dragon: [Combusken, Azumarill, Breloom, Manectric, Golem, Pelipper]
+	Dragon Pokemon:
+		Bagon
+		Shelgon
+--------------------------------------------------------------------------------
+Dark:
+	Summary Text:
+		[Combusken, Breloom]
+	Party vs Dark:
+		Super Effective:
+			Fighting: [Combusken, Breloom]
+		Normal Effective:
+			Fire: [Combusken]
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+			Grass: [Breloom]
+			Ground: [Golem]
+			Flying: [Pelipper]
+			Rock: [Golem]
+	Dark vs Party:
+		Normal Effective:
+			Dark: [Azumarill, Manectric, Golem, Pelipper]
+		Not Very Effective:
+			Dark: [Combusken, Breloom]
+	Dark Pokemon:
+		Poochyena
+		Mightyena
+		Absol
+--------------------------------------------------------------------------------
+Steel:
+	Summary Text:
+		[Combusken, Breloom]
+	Party vs Steel:
+		Super Effective:
+			Fire: [Combusken]
+			Fighting: [Combusken, Breloom]
+			Ground: [Golem]
+		Normal Effective:
+			Water: [Azumarill, Pelipper]
+			Electric: [Manectric]
+		Not Very Effective:
+			Grass: [Breloom]
+			Flying: [Pelipper]
+			Rock: [Golem]
+	Steel vs Party:
+		Super Effective:
+			Steel: [Golem]
+		Normal Effective:
+			Steel: [Breloom]
+		Not Very Effective:
+			Steel: [Combusken, Azumarill, Manectric, Pelipper]
+	Steel Pokemon:
+		Mawile
+		Registeel
