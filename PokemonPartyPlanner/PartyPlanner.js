@@ -49,7 +49,6 @@ function getPokemonObjForStr(i, pokemon, argsObj) {
 
     return {
         name: pokemonObj['name'],
-        attackType: pokemonObj['type'],
         attackTypes: pokemonObj['types'],
         defenseType: pokemonObj['type'],
         defense: defenseTypeObj['defense'],
@@ -62,13 +61,11 @@ function getPokemonObjForObj(i, pokemon, argsObj) {
     const typesObj = argsObj['typesObj'];
     
     const pokemonObj = pokedexObj[pokemon['name']];
-    const attackTypeObj = typesObj[pokemon['attackType']];
     const defenseTypeObj = typesObj[pokemonObj['type']];
 
     return {
         name: pokemonObj['name'],
-        attackType: attackTypeObj['name'],
-        attackTypes: attackTypeObj['types'],
+        attackTypes: pokemon['attackTypeArr'],
         defenseType: pokemonObj['type'],
         defense: defenseTypeObj['defense'],
         order: i

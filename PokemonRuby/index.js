@@ -7,12 +7,32 @@ const partyFileNameStr = 'EarlyGame1.txt';
 const pokedexURLStr = 'https://pokemondb.net/pokedex/game/ruby-sapphire-emerald';
 const typeOrderURLStr = 'https://pokemondb.net/type';
 
-// const ludicoloObj = {
-//     name: 'Ludicolo',
-//     attackTypeArr: ['Water']
-// };
+const groudonObj = {
+    name: 'Groudon',
+    attackTypeArr: ['Ground', 'Fire']
+};
 
-const pokemonPartyArr = ['Combusken', 'Azumarill', 'Breloom', 'Manectric', 'Golem', 'Pelipper'];
+const gyaradosObj = {
+    name: 'Gyarados',
+    attackTypeArr: ['Water', 'Ice']
+};
+
+const sceptileObj = {
+    name: 'Sceptile',
+    attackTypeArr: ['Grass', 'Fighting']
+};
+
+const magnetonObj = {
+    name: 'Magneton',
+    attackTypeArr: ['Electric']
+};
+
+const salamenceObj = {
+    name: 'Salamence',
+    attackTypeArr: ['Flying', 'Dragon', 'Dark']
+};
+
+const pokemonPartyArr = ['Camerupt', gyaradosObj, sceptileObj, magnetonObj, 'Gardevoir', salamenceObj];
 
 const argsObj = {
     directoryPathStr: directoryPathStr,

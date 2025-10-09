@@ -1,0 +1,2008 @@
+Pokemon Party:
+[Groudon, Gyarados, Sceptile, Magneton, Gardevoir, Salamence]
+
+What To Go For:
+Party:
+Groudon: [Fire, Fire/Fighting, Fire/Ground, Fire/Rock, Electric, Electric/Steel, Fighting/Bug, Poison, Poison/Bug, Ground/Bug, Ground/Rock, Flying/Bug, Flying/Steel, Psychic/Steel, Bug, Bug/Rock, Bug/Ghost, Rock, Rock/Steel, Ghost/Dark, Steel]
+Gyarados: [Normal/Flying, Water/Dragon, Grass, Grass/Fighting, Grass/Poison, Grass/Flying, Grass/Dark, Ice, Poison/Flying, Ground, Ground/Psychic, Ground/Dragon, Flying/Psychic, Flying/Dragon, Psychic/Dragon, Dragon]
+Sceptile: [Normal, Water, Water/Electric, Water/Ground, Water/Psychic, Water/Rock, Water/Dark, Grass/Rock, Psychic/Rock, Dark]
+Magneton: [Water/Ice, Water/Poison, Water/Flying, Water/Bug]
+Gardevoir: [Fighting]
+Salamence: [Normal/Psychic, Water/Grass, Fighting/Psychic, Psychic, Ghost]
+
+Types:
+Normal -> Sceptile
+Normal/Flying -> Gyarados
+Normal/Psychic -> Salamence
+Fire -> Groudon
+Fire/Fighting -> Groudon
+Fire/Ground -> Groudon
+Fire/Rock -> Groudon
+Water -> Sceptile
+Water/Electric -> Sceptile
+Water/Grass -> Salamence
+Water/Ice -> Magneton
+Water/Poison -> Magneton
+Water/Ground -> Sceptile
+Water/Flying -> Magneton
+Water/Psychic -> Sceptile
+Water/Bug -> Magneton
+Water/Rock -> Sceptile
+Water/Dragon -> Gyarados
+Water/Dark -> Sceptile
+Electric -> Groudon
+Electric/Steel -> Groudon
+Grass -> Gyarados
+Grass/Fighting -> Gyarados
+Grass/Poison -> Gyarados
+Grass/Flying -> Gyarados
+Grass/Rock -> Sceptile
+Grass/Dark -> Gyarados
+Ice -> Gyarados
+Fighting -> Gardevoir
+Fighting/Psychic -> Salamence
+Fighting/Bug -> Groudon
+Poison -> Groudon
+Poison/Flying -> Gyarados
+Poison/Bug -> Groudon
+Ground -> Gyarados
+Ground/Psychic -> Gyarados
+Ground/Bug -> Groudon
+Ground/Rock -> Groudon
+Ground/Dragon -> Gyarados
+Flying/Psychic -> Gyarados
+Flying/Bug -> Groudon
+Flying/Dragon -> Gyarados
+Flying/Steel -> Groudon
+Psychic -> Salamence
+Psychic/Rock -> Sceptile
+Psychic/Dragon -> Gyarados
+Psychic/Steel -> Groudon
+Bug -> Groudon
+Bug/Rock -> Groudon
+Bug/Ghost -> Groudon
+Rock -> Groudon
+Rock/Steel -> Groudon
+Ghost -> Salamence
+Ghost/Dark -> Groudon
+Dragon -> Gyarados
+Dark -> Sceptile
+Steel -> Groudon
+
+Type Summary:
+Normal -> [Sceptile]
+Normal/Flying -> [Gyarados, Magneton]
+Normal/Psychic -> [Salamence]
+Fire -> [Groudon, Gyarados]
+Fire/Fighting -> [Groudon, Gyarados, Gardevoir, Salamence]
+Fire/Ground -> [Groudon, Gyarados]
+Fire/Rock -> [Groudon]
+Water -> [Sceptile, Magneton]
+Water/Electric -> [Sceptile]
+Water/Grass -> [Salamence]
+Water/Ice -> [Magneton]
+Water/Poison -> [Magneton, Gardevoir]
+Water/Ground -> [Sceptile]
+Water/Flying -> [Magneton]
+Water/Psychic -> [Sceptile, Magneton, Salamence]
+Water/Bug -> [Magneton, Salamence]
+Water/Rock -> [Sceptile, Magneton]
+Water/Dragon -> Sup Eff A/E: [Salamence] Nor Eff: [Gyarados, Sceptile, Magneton, Gardevoir]
+Water/Dark -> [Sceptile, Magneton]
+Electric -> [Groudon]
+Electric/Steel -> [Groudon, Sceptile]
+Grass -> [Gyarados, Salamence]
+Grass/Fighting -> [Gyarados, Gardevoir, Salamence]
+Grass/Poison -> [Gyarados, Gardevoir, Salamence]
+Grass/Flying -> [Gyarados, Salamence]
+Grass/Rock -> [Sceptile]
+Grass/Dark -> [Gyarados, Sceptile, Salamence]
+Ice -> Sup Eff A/E: [Groudon, Sceptile] Nor Eff: [Gyarados, Magneton, Gardevoir]
+Fighting -> [Gardevoir, Salamence]
+Fighting/Psychic -> [Salamence]
+Fighting/Bug -> [Groudon, Salamence]
+Poison -> [Groudon, Gardevoir]
+Poison/Flying -> [Gyarados, Magneton, Gardevoir]
+Poison/Bug -> [Groudon, Salamence]
+Ground -> [Gyarados, Sceptile]
+Ground/Psychic -> [Gyarados, Sceptile, Salamence]
+Ground/Bug -> [Groudon, Gyarados, Salamence]
+Ground/Rock -> [Groudon, Sceptile]
+Ground/Dragon -> [Gyarados]
+Flying/Psychic -> [Gyarados, Magneton, Salamence]
+Flying/Bug -> [Groudon, Gyarados, Magneton, Salamence]
+Flying/Dragon -> [Gyarados]
+Flying/Steel -> [Groudon, Magneton]
+Psychic -> [Salamence]
+Psychic/Rock -> [Sceptile]
+Psychic/Dragon -> [Gyarados]
+Psychic/Steel -> [Groudon, Salamence]
+Bug -> [Groudon, Salamence]
+Bug/Rock -> Sup Eff A/E: [Gyarados] Nor Eff: [Groudon, Magneton]
+Bug/Ghost -> [Groudon, Salamence]
+Rock -> [Groudon, Sceptile]
+Rock/Steel -> [Groudon, Sceptile]
+Ghost -> [Salamence]
+Ghost/Dark -> No Sup Eff. Nor Eff: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+Dragon -> [Gyarados]
+Dark -> [Sceptile]
+Steel -> [Groudon, Sceptile]
+
+Full Type Breakdown:
+Normal:
+	Summary Text:
+		[Sceptile]
+	Party vs Normal:
+		Super Effective:
+			Fighting: [Sceptile]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+	Normal vs Party:
+		Normal Effective:
+			Normal: [Groudon, Gyarados, Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Normal: [Magneton]
+	Normal Pokemon:
+		Zigzagoon
+		Linoone
+		Slakoth
+		Vigoroth
+		Slaking
+		Whismur
+		Loudred
+		Exploud
+		Azurill
+		Skitty
+		Delcatty
+		Spinda
+		Zangoose
+		Igglybuff
+		Jigglypuff
+		Wigglytuff
+		Castform
+		Kecleon
+--------------------------------------------------------------------------------
+Normal/Flying:
+	Summary Text:
+		[Gyarados, Magneton]
+	Party vs Normal/Flying:
+		Super Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+		Not Effective:
+			Ground: [Groudon]
+	Normal/Flying vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+		Normal Effective:
+			Normal: [Groudon, Gyarados, Sceptile, Gardevoir, Salamence]
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Normal: [Magneton]
+			Flying: [Magneton]
+	Normal/Flying Pokemon:
+		Taillow
+		Swellow
+		Doduo
+		Dodrio
+		Swablu
+--------------------------------------------------------------------------------
+Normal/Psychic:
+	Summary Text:
+		[Salamence]
+	Party vs Normal/Psychic:
+		Super Effective:
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Psychic: [Gardevoir]
+	Normal/Psychic vs Party:
+		Normal Effective:
+			Normal: [Groudon, Gyarados, Sceptile, Gardevoir, Salamence]
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Normal: [Magneton]
+			Psychic: [Magneton, Gardevoir]
+	Normal/Psychic Pokemon:
+		Girafarig
+--------------------------------------------------------------------------------
+Fire:
+	Summary Text:
+		[Groudon, Gyarados]
+	Party vs Fire:
+		Super Effective:
+			Water: [Gyarados]
+			Ground: [Groudon]
+		Normal Effective:
+			Electric: [Magneton]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+	Fire vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+		Normal Effective:
+			Fire: [Groudon, Gardevoir]
+		Not Very Effective:
+			Fire: [Gyarados, Salamence]
+	Fire Pokemon:
+		Torchic
+		Slugma
+		Torkoal
+		Vulpix
+		Ninetales
+--------------------------------------------------------------------------------
+Fire/Fighting:
+	Summary Text:
+		[Groudon, Gyarados, Gardevoir, Salamence]
+	Party vs Fire/Fighting:
+		Super Effective:
+			Water: [Gyarados]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Electric: [Magneton]
+			Fighting: [Sceptile]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+	Fire/Fighting vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+			Fighting: [Magneton]
+		Normal Effective:
+			Fire: [Groudon, Gardevoir]
+			Fighting: [Groudon, Sceptile]
+		Not Very Effective:
+			Fire: [Gyarados, Salamence]
+			Fighting: [Gyarados, Gardevoir, Salamence]
+	Fire/Fighting Pokemon:
+		Combusken
+		Blaziken
+--------------------------------------------------------------------------------
+Fire/Ground:
+	Summary Text:
+		[Groudon, Gyarados]
+	Party vs Fire/Ground:
+		Super Effective:
+			Water: [Gyarados]
+			Ground: [Groudon]
+		Normal Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+		Not Effective:
+			Electric: [Magneton]
+	Fire/Ground vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+			Ground: [Magneton]
+		Normal Effective:
+			Fire: [Groudon, Gardevoir]
+			Ground: [Groudon, Gardevoir]
+		Not Very Effective:
+			Fire: [Gyarados, Salamence]
+			Ground: [Sceptile]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Fire/Ground Pokemon:
+		Numel
+		Camerupt
+--------------------------------------------------------------------------------
+Fire/Rock:
+	Summary Text:
+		[Groudon]
+	Party vs Fire/Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+	Fire/Rock vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Fire: [Groudon, Gardevoir]
+			Rock: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Fire: [Gyarados, Salamence]
+			Rock: [Groudon, Magneton]
+	Fire/Rock Pokemon:
+		Magcargo
+--------------------------------------------------------------------------------
+Water:
+	Summary Text:
+		[Sceptile, Magneton]
+	Party vs Water:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+	Water vs Party:
+		Super Effective:
+			Water: [Groudon]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+	Water Pokemon:
+		Mudkip
+		Goldeen
+		Seaking
+		Magikarp
+		Marill
+		Azumarill
+		Wailmer
+		Wailord
+		Corphish
+		Feebas
+		Milotic
+		Staryu
+		Psyduck
+		Golduck
+		Clamperl
+		Huntail
+		Gorebyss
+		Luvdisc
+		Horsea
+		Seadra
+		Kyogre
+--------------------------------------------------------------------------------
+Water/Electric:
+	Summary Text:
+		[Sceptile]
+	Party vs Water/Electric:
+		Super Effective:
+			Grass: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Not Effective:
+			Electric: [Magneton]
+	Water/Electric vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Electric: [Gyarados]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Electric: [Gardevoir, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Electric: [Sceptile, Magneton]
+		Not Effective:
+			Electric: [Groudon]
+	Water/Electric Pokemon:
+		Chinchou
+		Lanturn
+--------------------------------------------------------------------------------
+Water/Grass:
+	Summary Text:
+		[Salamence]
+	Party vs Water/Grass:
+		Super Effective:
+			Flying: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Ground: [Groudon]
+	Water/Grass vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Grass: [Groudon]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Grass: [Gyarados, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Grass: [Sceptile, Magneton, Salamence]
+	Water/Grass Pokemon:
+		Lotad
+		Lombre
+		Ludicolo
+--------------------------------------------------------------------------------
+Water/Ice:
+	Summary Text:
+		[Magneton]
+	Party vs Water/Ice:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+	Water/Ice vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Ice: [Groudon, Sceptile, Salamence]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Ice: [Gyarados, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Ice: [Magneton]
+	Water/Ice Pokemon:
+		Spheal
+		Sealeo
+		Walrein
+--------------------------------------------------------------------------------
+Water/Poison:
+	Summary Text:
+		[Magneton, Gardevoir]
+	Party vs Water/Poison:
+		Super Effective:
+			Electric: [Magneton]
+			Ground: [Groudon]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Grass: [Sceptile]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+	Water/Poison vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Poison: [Sceptile]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Poison: [Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Poison: [Groudon]
+		Not Effective:
+			Poison: [Magneton]
+	Water/Poison Pokemon:
+		Tentacool
+		Tentacruel
+--------------------------------------------------------------------------------
+Water/Ground:
+	Summary Text:
+		[Sceptile]
+	Party vs Water/Ground:
+		Super Effective:
+			Grass: [Sceptile]
+		Normal Effective:
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+		Not Effective:
+			Electric: [Magneton]
+	Water/Ground vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Ground: [Magneton]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Ground: [Groudon, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Ground: [Sceptile]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Water/Ground Pokemon:
+		Marshtomp
+		Swampert
+		Barboach
+		Whiscash
+--------------------------------------------------------------------------------
+Water/Flying:
+	Summary Text:
+		[Magneton]
+	Party vs Water/Flying:
+		Super Effective:
+			Electric: [Magneton]
+		Normal Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Groudon]
+	Water/Flying vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Flying: [Sceptile]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Flying: [Magneton]
+	Water/Flying Pokemon:
+		Wingull
+		Pelipper
+		Gyarados
+--------------------------------------------------------------------------------
+Water/Psychic:
+	Summary Text:
+		[Sceptile, Magneton, Salamence]
+	Party vs Water/Psychic:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Dark: [Salamence]
+		Normal Effective:
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+	Water/Psychic vs Party:
+		Super Effective:
+			Water: [Groudon]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Psychic: [Magneton, Gardevoir]
+	Water/Psychic Pokemon:
+		Starmie
+--------------------------------------------------------------------------------
+Water/Bug:
+	Summary Text:
+		[Magneton, Salamence]
+	Party vs Water/Bug:
+		Super Effective:
+			Electric: [Magneton]
+			Flying: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Grass: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+	Water/Bug vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Bug: [Groudon]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Bug: [Gyarados, Magneton, Salamence]
+	Water/Bug Pokemon:
+		Surskit
+--------------------------------------------------------------------------------
+Water/Rock:
+	Summary Text:
+		[Sceptile, Magneton]
+	Party vs Water/Rock:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Water: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+	Water/Rock vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Rock: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Rock: [Groudon, Magneton]
+	Water/Rock Pokemon:
+		Relicanth
+		Corsola
+--------------------------------------------------------------------------------
+Water/Dragon:
+	Summary Text:
+		Sup Eff A/E: [Salamence] Nor Eff: [Gyarados, Sceptile, Magneton, Gardevoir]
+	Party vs Water/Dragon:
+		Super Effective:
+			Dragon: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+	Water/Dragon vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Dragon: [Salamence]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Dragon: [Groudon, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Dragon: [Magneton]
+	Water/Dragon Pokemon:
+		Kingdra
+--------------------------------------------------------------------------------
+Water/Dark:
+	Summary Text:
+		[Sceptile, Magneton]
+	Party vs Water/Dark:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+		Not Effective:
+			Psychic: [Gardevoir]
+	Water/Dark vs Party:
+		Super Effective:
+			Water: [Groudon]
+			Dark: [Gardevoir]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Dark: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+	Water/Dark Pokemon:
+		Carvanha
+		Sharpedo
+		Crawdaunt
+--------------------------------------------------------------------------------
+Electric:
+	Summary Text:
+		[Groudon]
+	Party vs Electric:
+		Super Effective:
+			Ground: [Groudon]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Electric: [Magneton]
+			Flying: [Salamence]
+	Electric vs Party:
+		Super Effective:
+			Electric: [Gyarados]
+		Normal Effective:
+			Electric: [Gardevoir, Salamence]
+		Not Very Effective:
+			Electric: [Sceptile, Magneton]
+		Not Effective:
+			Electric: [Groudon]
+	Electric Pokemon:
+		Electrike
+		Manectric
+		Plusle
+		Minun
+		Voltorb
+		Electrode
+		Pichu
+		Pikachu
+		Raichu
+--------------------------------------------------------------------------------
+Electric/Steel:
+	Summary Text:
+		[Groudon, Sceptile]
+	Party vs Electric/Steel:
+		Super Effective:
+			Fire: [Groudon]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Water: [Gyarados]
+			Dark: [Salamence]
+		Not Very Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Electric/Steel vs Party:
+		Super Effective:
+			Electric: [Gyarados]
+		Normal Effective:
+			Electric: [Gardevoir, Salamence]
+			Steel: [Groudon, Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Electric: [Sceptile, Magneton]
+			Steel: [Gyarados, Magneton]
+		Not Effective:
+			Electric: [Groudon]
+	Electric/Steel Pokemon:
+		Magnemite
+		Magneton
+--------------------------------------------------------------------------------
+Grass:
+	Summary Text:
+		[Gyarados, Salamence]
+	Party vs Grass:
+		Super Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Groudon]
+	Grass vs Party:
+		Super Effective:
+			Grass: [Groudon]
+		Normal Effective:
+			Grass: [Gyarados, Gardevoir]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+	Grass Pokemon:
+		Treecko
+		Grovyle
+		Sceptile
+		Seedot
+		Shroomish
+		Bellossom
+		Cacnea
+--------------------------------------------------------------------------------
+Grass/Fighting:
+	Summary Text:
+		[Gyarados, Gardevoir, Salamence]
+	Party vs Grass/Fighting:
+		Super Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Groudon]
+			Dark: [Salamence]
+	Grass/Fighting vs Party:
+		Super Effective:
+			Grass: [Groudon]
+			Fighting: [Magneton]
+		Normal Effective:
+			Grass: [Gyarados, Gardevoir]
+			Fighting: [Groudon, Sceptile]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Fighting: [Gyarados, Gardevoir, Salamence]
+	Grass/Fighting Pokemon:
+		Breloom
+--------------------------------------------------------------------------------
+Grass/Poison:
+	Summary Text:
+		[Gyarados, Gardevoir, Salamence]
+	Party vs Grass/Poison:
+		Super Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Ground: [Groudon]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+	Grass/Poison vs Party:
+		Super Effective:
+			Grass: [Groudon]
+			Poison: [Sceptile]
+		Normal Effective:
+			Grass: [Gyarados, Gardevoir]
+			Poison: [Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Poison: [Groudon]
+		Not Effective:
+			Poison: [Magneton]
+	Grass/Poison Pokemon:
+		Oddish
+		Gloom
+		Vileplume
+		Roselia
+--------------------------------------------------------------------------------
+Grass/Flying:
+	Summary Text:
+		[Gyarados, Salamence]
+	Party vs Grass/Flying:
+		Super Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Groudon]
+	Grass/Flying vs Party:
+		Super Effective:
+			Grass: [Groudon]
+			Flying: [Sceptile]
+		Normal Effective:
+			Grass: [Gyarados, Gardevoir]
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Flying: [Magneton]
+	Grass/Flying Pokemon:
+		Tropius
+--------------------------------------------------------------------------------
+Grass/Rock:
+	Summary Text:
+		[Sceptile]
+	Party vs Grass/Rock:
+		Super Effective:
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Electric: [Magneton]
+	Grass/Rock vs Party:
+		Super Effective:
+			Grass: [Groudon]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Grass: [Gyarados, Gardevoir]
+			Rock: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Rock: [Groudon, Magneton]
+	Grass/Rock Pokemon:
+		Lileep
+		Cradily
+--------------------------------------------------------------------------------
+Grass/Dark:
+	Summary Text:
+		[Gyarados, Sceptile, Salamence]
+	Party vs Grass/Dark:
+		Super Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+		Normal Effective:
+			Dragon: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Groudon]
+			Dark: [Salamence]
+		Not Effective:
+			Psychic: [Gardevoir]
+	Grass/Dark vs Party:
+		Super Effective:
+			Grass: [Groudon]
+			Dark: [Gardevoir]
+		Normal Effective:
+			Grass: [Gyarados, Gardevoir]
+			Dark: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+	Grass/Dark Pokemon:
+		Nuzleaf
+		Shiftry
+		Cacturne
+--------------------------------------------------------------------------------
+Ice:
+	Summary Text:
+		Sup Eff A/E: [Groudon, Sceptile] Nor Eff: [Gyarados, Magneton, Gardevoir]
+	Party vs Ice:
+		Super Effective:
+			Fire: [Groudon]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Ice: [Gyarados]
+	Ice vs Party:
+		Super Effective:
+			Ice: [Groudon, Sceptile, Salamence]
+		Normal Effective:
+			Ice: [Gyarados, Gardevoir]
+		Not Very Effective:
+			Ice: [Magneton]
+	Ice Pokemon:
+		Snorunt
+		Glalie
+		Regice
+--------------------------------------------------------------------------------
+Fighting:
+	Summary Text:
+		[Gardevoir, Salamence]
+	Party vs Fighting:
+		Super Effective:
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+	Fighting vs Party:
+		Super Effective:
+			Fighting: [Magneton]
+		Normal Effective:
+			Fighting: [Groudon, Sceptile]
+		Not Very Effective:
+			Fighting: [Gyarados, Gardevoir, Salamence]
+	Fighting Pokemon:
+		Makuhita
+		Hariyama
+		Machop
+		Machoke
+		Machamp
+--------------------------------------------------------------------------------
+Fighting/Psychic:
+	Summary Text:
+		[Salamence]
+	Party vs Fighting/Psychic:
+		Super Effective:
+			Flying: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Groudon]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+	Fighting/Psychic vs Party:
+		Super Effective:
+			Fighting: [Magneton]
+		Normal Effective:
+			Fighting: [Groudon, Sceptile]
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Fighting: [Gyarados, Gardevoir, Salamence]
+			Psychic: [Magneton, Gardevoir]
+	Fighting/Psychic Pokemon:
+		Meditite
+		Medicham
+--------------------------------------------------------------------------------
+Fighting/Bug:
+	Summary Text:
+		[Groudon, Salamence]
+	Party vs Fighting/Bug:
+		Super Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Dark: [Salamence]
+	Fighting/Bug vs Party:
+		Super Effective:
+			Fighting: [Magneton]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Fighting: [Groudon, Sceptile]
+			Bug: [Groudon]
+		Not Very Effective:
+			Fighting: [Gyarados, Gardevoir, Salamence]
+			Bug: [Gyarados, Magneton, Salamence]
+	Fighting/Bug Pokemon:
+		Heracross
+--------------------------------------------------------------------------------
+Poison:
+	Summary Text:
+		[Groudon, Gardevoir]
+	Party vs Poison:
+		Super Effective:
+			Ground: [Groudon]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+	Poison vs Party:
+		Super Effective:
+			Poison: [Sceptile]
+		Normal Effective:
+			Poison: [Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Poison: [Groudon]
+		Not Effective:
+			Poison: [Magneton]
+	Poison Pokemon:
+		Gulpin
+		Swalot
+		Grimer
+		Muk
+		Koffing
+		Weezing
+		Seviper
+--------------------------------------------------------------------------------
+Poison/Flying:
+	Summary Text:
+		[Gyarados, Magneton, Gardevoir]
+	Party vs Poison/Flying:
+		Super Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Groudon]
+	Poison/Flying vs Party:
+		Super Effective:
+			Poison: [Sceptile]
+			Flying: [Sceptile]
+		Normal Effective:
+			Poison: [Gyarados, Gardevoir, Salamence]
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Poison: [Groudon]
+			Flying: [Magneton]
+		Not Effective:
+			Poison: [Magneton]
+	Poison/Flying Pokemon:
+		Zubat
+		Golbat
+		Crobat
+--------------------------------------------------------------------------------
+Poison/Bug:
+	Summary Text:
+		[Groudon, Salamence]
+	Party vs Poison/Bug:
+		Super Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Ground: [Groudon]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+	Poison/Bug vs Party:
+		Super Effective:
+			Poison: [Sceptile]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Poison: [Gyarados, Gardevoir, Salamence]
+			Bug: [Groudon]
+		Not Very Effective:
+			Poison: [Groudon]
+			Bug: [Gyarados, Magneton, Salamence]
+		Not Effective:
+			Poison: [Magneton]
+	Poison/Bug Pokemon:
+		Dustox
+--------------------------------------------------------------------------------
+Ground:
+	Summary Text:
+		[Gyarados, Sceptile]
+	Party vs Ground:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+		Normal Effective:
+			Fire: [Groudon]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Effective:
+			Electric: [Magneton]
+	Ground vs Party:
+		Super Effective:
+			Ground: [Magneton]
+		Normal Effective:
+			Ground: [Groudon, Gardevoir]
+		Not Very Effective:
+			Ground: [Sceptile]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground Pokemon:
+		Sandshrew
+		Sandslash
+		Trapinch
+		Phanpy
+		Donphan
+		Groudon
+--------------------------------------------------------------------------------
+Ground/Psychic:
+	Summary Text:
+		[Gyarados, Sceptile, Salamence]
+	Party vs Ground/Psychic:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Electric: [Magneton]
+			Ground: [Groudon]
+	Ground/Psychic vs Party:
+		Super Effective:
+			Ground: [Magneton]
+		Normal Effective:
+			Ground: [Groudon, Gardevoir]
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Psychic: [Magneton, Gardevoir]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Psychic Pokemon:
+		Baltoy
+		Claydol
+--------------------------------------------------------------------------------
+Ground/Bug:
+	Summary Text:
+		[Groudon, Gyarados, Salamence]
+	Party vs Ground/Bug:
+		Super Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Grass: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Not Effective:
+			Electric: [Magneton]
+	Ground/Bug vs Party:
+		Super Effective:
+			Ground: [Magneton]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Ground: [Groudon, Gardevoir]
+			Bug: [Groudon]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Bug: [Gyarados, Magneton, Salamence]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Bug Pokemon:
+		Nincada
+--------------------------------------------------------------------------------
+Ground/Rock:
+	Summary Text:
+		[Groudon, Sceptile]
+	Party vs Ground/Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+		Not Effective:
+			Electric: [Magneton]
+	Ground/Rock vs Party:
+		Super Effective:
+			Ground: [Magneton]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Ground: [Groudon, Gardevoir]
+			Rock: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Rock: [Groudon, Magneton]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Rock Pokemon:
+		Geodude
+		Graveler
+		Golem
+		Rhyhorn
+		Rhydon
+--------------------------------------------------------------------------------
+Ground/Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Ground/Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+		Not Effective:
+			Electric: [Magneton]
+			Ground: [Groudon]
+	Ground/Dragon vs Party:
+		Super Effective:
+			Ground: [Magneton]
+			Dragon: [Salamence]
+		Normal Effective:
+			Ground: [Groudon, Gardevoir]
+			Dragon: [Groudon, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Dragon: [Magneton]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Dragon Pokemon:
+		Vibrava
+		Flygon
+--------------------------------------------------------------------------------
+Flying/Psychic:
+	Summary Text:
+		[Gyarados, Magneton, Salamence]
+	Party vs Flying/Psychic:
+		Super Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Ground: [Groudon]
+	Flying/Psychic vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+		Normal Effective:
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Flying: [Magneton]
+			Psychic: [Magneton, Gardevoir]
+	Flying/Psychic Pokemon:
+		Natu
+		Xatu
+--------------------------------------------------------------------------------
+Flying/Bug:
+	Summary Text:
+		[Groudon, Gyarados, Magneton, Salamence]
+	Party vs Flying/Bug:
+		Super Effective:
+			Fire: [Groudon]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Groudon]
+	Flying/Bug vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+			Bug: [Groudon]
+		Not Very Effective:
+			Flying: [Magneton]
+			Bug: [Gyarados, Magneton, Salamence]
+	Flying/Bug Pokemon:
+		Beautifly
+		Masquerain
+		Ninjask
+--------------------------------------------------------------------------------
+Flying/Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Flying/Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Groudon]
+	Flying/Dragon vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+			Dragon: [Salamence]
+		Normal Effective:
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+			Dragon: [Groudon, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Flying: [Magneton]
+			Dragon: [Magneton]
+	Flying/Dragon Pokemon:
+		Altaria
+		Salamence
+		Rayquaza
+--------------------------------------------------------------------------------
+Flying/Steel:
+	Summary Text:
+		[Groudon, Magneton]
+	Party vs Flying/Steel:
+		Super Effective:
+			Fire: [Groudon]
+			Electric: [Magneton]
+		Normal Effective:
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+		Not Effective:
+			Ground: [Groudon]
+	Flying/Steel vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+		Normal Effective:
+			Flying: [Groudon, Gyarados, Gardevoir, Salamence]
+			Steel: [Groudon, Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Flying: [Magneton]
+			Steel: [Gyarados, Magneton]
+	Flying/Steel Pokemon:
+		Skarmory
+--------------------------------------------------------------------------------
+Psychic:
+	Summary Text:
+		[Salamence]
+	Party vs Psychic:
+		Super Effective:
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+	Psychic vs Party:
+		Normal Effective:
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+	Psychic Pokemon:
+		Ralts
+		Kirlia
+		Gardevoir
+		Abra
+		Kadabra
+		Alakazam
+		Spoink
+		Grumpig
+		Chimecho
+		Wynaut
+		Wobbuffet
+		Deoxys
+--------------------------------------------------------------------------------
+Psychic/Rock:
+	Summary Text:
+		[Sceptile]
+	Party vs Psychic/Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Dark: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Ground: [Groudon]
+	Psychic/Rock vs Party:
+		Super Effective:
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+			Rock: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+			Rock: [Groudon, Magneton]
+	Psychic/Rock Pokemon:
+		Lunatone
+		Solrock
+--------------------------------------------------------------------------------
+Psychic/Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Psychic/Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Normal Effective:
+			Flying: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Ground: [Groudon]
+	Psychic/Dragon vs Party:
+		Super Effective:
+			Dragon: [Salamence]
+		Normal Effective:
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+			Dragon: [Groudon, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+			Dragon: [Magneton]
+	Psychic/Dragon Pokemon:
+		Latias
+		Latios
+--------------------------------------------------------------------------------
+Psychic/Steel:
+	Summary Text:
+		[Groudon, Salamence]
+	Party vs Psychic/Steel:
+		Super Effective:
+			Fire: [Groudon]
+			Ground: [Groudon]
+			Dark: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Fighting: [Sceptile]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Psychic/Steel vs Party:
+		Normal Effective:
+			Psychic: [Groudon, Gyarados, Sceptile, Salamence]
+			Steel: [Groudon, Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+			Steel: [Gyarados, Magneton]
+	Psychic/Steel Pokemon:
+		Beldum
+		Metang
+		Metagross
+		Jirachi
+--------------------------------------------------------------------------------
+Bug:
+	Summary Text:
+		[Groudon, Salamence]
+	Party vs Bug:
+		Super Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+	Bug vs Party:
+		Super Effective:
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Bug: [Groudon]
+		Not Very Effective:
+			Bug: [Gyarados, Magneton, Salamence]
+	Bug Pokemon:
+		Wurmple
+		Silcoon
+		Cascoon
+		Volbeat
+		Illumise
+		Pinsir
+--------------------------------------------------------------------------------
+Bug/Rock:
+	Summary Text:
+		Sup Eff A/E: [Gyarados] Nor Eff: [Groudon, Magneton]
+	Party vs Bug/Rock:
+		Super Effective:
+			Water: [Gyarados]
+		Normal Effective:
+			Fire: [Groudon]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+	Bug/Rock vs Party:
+		Super Effective:
+			Bug: [Sceptile, Gardevoir]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Bug: [Groudon]
+			Rock: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Bug: [Gyarados, Magneton, Salamence]
+			Rock: [Groudon, Magneton]
+	Bug/Rock Pokemon:
+		Anorith
+		Armaldo
+--------------------------------------------------------------------------------
+Bug/Ghost:
+	Summary Text:
+		[Groudon, Salamence]
+	Party vs Bug/Ghost:
+		Super Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+			Dark: [Salamence]
+		Not Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Bug/Ghost vs Party:
+		Super Effective:
+			Bug: [Sceptile, Gardevoir]
+			Ghost: [Gardevoir]
+		Normal Effective:
+			Bug: [Groudon]
+			Ghost: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+		Not Very Effective:
+			Bug: [Gyarados, Magneton, Salamence]
+	Bug/Ghost Pokemon:
+		Shedinja
+--------------------------------------------------------------------------------
+Rock:
+	Summary Text:
+		[Groudon, Sceptile]
+	Party vs Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Flying: [Salamence]
+	Rock vs Party:
+		Super Effective:
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Rock: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Rock: [Groudon, Magneton]
+	Rock Pokemon:
+		Nosepass
+		Regirock
+--------------------------------------------------------------------------------
+Rock/Steel:
+	Summary Text:
+		[Groudon, Sceptile]
+	Party vs Rock/Steel:
+		Super Effective:
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Fire: [Groudon]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Dark: [Salamence]
+		Not Very Effective:
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Rock/Steel vs Party:
+		Super Effective:
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Rock: [Sceptile, Gardevoir]
+			Steel: [Groudon, Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Rock: [Groudon, Magneton]
+			Steel: [Gyarados, Magneton]
+	Rock/Steel Pokemon:
+		Aron
+		Lairon
+		Aggron
+--------------------------------------------------------------------------------
+Ghost:
+	Summary Text:
+		[Salamence]
+	Party vs Ghost:
+		Super Effective:
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+		Not Effective:
+			Fighting: [Sceptile]
+	Ghost vs Party:
+		Super Effective:
+			Ghost: [Gardevoir]
+		Normal Effective:
+			Ghost: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+	Ghost Pokemon:
+		Shuppet
+		Banette
+		Duskull
+		Dusclops
+--------------------------------------------------------------------------------
+Ghost/Dark:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+	Party vs Ghost/Dark:
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+	Ghost/Dark vs Party:
+		Super Effective:
+			Ghost: [Gardevoir]
+			Dark: [Gardevoir]
+		Normal Effective:
+			Ghost: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+			Dark: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+	Ghost/Dark Pokemon:
+		Sableye
+--------------------------------------------------------------------------------
+Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+	Dragon vs Party:
+		Super Effective:
+			Dragon: [Salamence]
+		Normal Effective:
+			Dragon: [Groudon, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Dragon: [Magneton]
+	Dragon Pokemon:
+		Bagon
+		Shelgon
+--------------------------------------------------------------------------------
+Dark:
+	Summary Text:
+		[Sceptile]
+	Party vs Dark:
+		Super Effective:
+			Fighting: [Sceptile]
+		Normal Effective:
+			Fire: [Groudon]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Groudon]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Dark: [Salamence]
+		Not Effective:
+			Psychic: [Gardevoir]
+	Dark vs Party:
+		Super Effective:
+			Dark: [Gardevoir]
+		Normal Effective:
+			Dark: [Groudon, Gyarados, Sceptile, Magneton, Salamence]
+	Dark Pokemon:
+		Poochyena
+		Mightyena
+		Absol
+--------------------------------------------------------------------------------
+Steel:
+	Summary Text:
+		[Groudon, Sceptile]
+	Party vs Steel:
+		Super Effective:
+			Fire: [Groudon]
+			Fighting: [Sceptile]
+			Ground: [Groudon]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Steel vs Party:
+		Normal Effective:
+			Steel: [Groudon, Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Steel: [Gyarados, Magneton]
+	Steel Pokemon:
+		Mawile
+		Registeel

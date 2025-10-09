@@ -1,0 +1,1991 @@
+Pokemon Party:
+[Camerupt, Gyarados, Sceptile, Magneton, Gardevoir, Salamence]
+
+What To Go For:
+Party:
+Camerupt: [Fire, Fire/Fighting, Fire/Rock, Electric, Electric/Steel, Grass, Grass/Fighting, Grass/Poison, Grass/Flying, Grass/Dark, Ice, Fighting/Bug, Poison, Poison/Bug, Flying/Bug, Flying/Steel, Psychic/Steel, Bug, Bug/Rock, Bug/Ghost, Rock, Rock/Steel, Ghost/Dark, Steel]
+Gyarados: [Normal/Flying, Fire/Ground, Water/Dragon, Poison/Flying, Ground, Ground/Psychic, Ground/Bug, Ground/Dragon, Flying/Psychic, Flying/Dragon, Psychic/Dragon, Dragon]
+Sceptile: [Normal, Water, Water/Electric, Water/Ground, Water/Psychic, Water/Rock, Water/Dark, Grass/Rock, Ground/Rock, Psychic/Rock, Dark]
+Magneton: [Water/Ice, Water/Poison, Water/Flying, Water/Bug]
+Gardevoir: [Fighting]
+Salamence: [Normal/Psychic, Water/Grass, Fighting/Psychic, Psychic, Ghost]
+
+Types:
+Normal -> Sceptile
+Normal/Flying -> Gyarados
+Normal/Psychic -> Salamence
+Fire -> Camerupt
+Fire/Fighting -> Camerupt
+Fire/Ground -> Gyarados
+Fire/Rock -> Camerupt
+Water -> Sceptile
+Water/Electric -> Sceptile
+Water/Grass -> Salamence
+Water/Ice -> Magneton
+Water/Poison -> Magneton
+Water/Ground -> Sceptile
+Water/Flying -> Magneton
+Water/Psychic -> Sceptile
+Water/Bug -> Magneton
+Water/Rock -> Sceptile
+Water/Dragon -> Gyarados
+Water/Dark -> Sceptile
+Electric -> Camerupt
+Electric/Steel -> Camerupt
+Grass -> Camerupt
+Grass/Fighting -> Camerupt
+Grass/Poison -> Camerupt
+Grass/Flying -> Camerupt
+Grass/Rock -> Sceptile
+Grass/Dark -> Camerupt
+Ice -> Camerupt
+Fighting -> Gardevoir
+Fighting/Psychic -> Salamence
+Fighting/Bug -> Camerupt
+Poison -> Camerupt
+Poison/Flying -> Gyarados
+Poison/Bug -> Camerupt
+Ground -> Gyarados
+Ground/Psychic -> Gyarados
+Ground/Bug -> Gyarados
+Ground/Rock -> Sceptile
+Ground/Dragon -> Gyarados
+Flying/Psychic -> Gyarados
+Flying/Bug -> Camerupt
+Flying/Dragon -> Gyarados
+Flying/Steel -> Camerupt
+Psychic -> Salamence
+Psychic/Rock -> Sceptile
+Psychic/Dragon -> Gyarados
+Psychic/Steel -> Camerupt
+Bug -> Camerupt
+Bug/Rock -> Camerupt
+Bug/Ghost -> Camerupt
+Rock -> Camerupt
+Rock/Steel -> Camerupt
+Ghost -> Salamence
+Ghost/Dark -> Camerupt
+Dragon -> Gyarados
+Dark -> Sceptile
+Steel -> Camerupt
+
+Type Summary:
+Normal -> [Sceptile]
+Normal/Flying -> [Gyarados, Magneton]
+Normal/Psychic -> [Salamence]
+Fire -> [Camerupt, Gyarados]
+Fire/Fighting -> [Camerupt, Gyarados, Gardevoir, Salamence]
+Fire/Ground -> [Gyarados]
+Fire/Rock -> [Camerupt]
+Water -> [Sceptile, Magneton]
+Water/Electric -> [Sceptile]
+Water/Grass -> [Salamence]
+Water/Ice -> [Magneton]
+Water/Poison -> [Magneton, Gardevoir]
+Water/Ground -> [Sceptile]
+Water/Flying -> [Magneton]
+Water/Psychic -> [Sceptile, Magneton, Salamence]
+Water/Bug -> [Magneton, Salamence]
+Water/Rock -> [Sceptile, Magneton]
+Water/Dragon -> Sup Eff A/E: [Salamence] Nor Eff: [Gyarados, Sceptile, Magneton, Gardevoir]
+Water/Dark -> [Sceptile, Magneton]
+Electric -> [Camerupt]
+Electric/Steel -> [Camerupt, Sceptile]
+Grass -> [Camerupt, Gyarados, Salamence]
+Grass/Fighting -> [Camerupt, Gyarados, Gardevoir, Salamence]
+Grass/Poison -> [Camerupt, Gyarados, Gardevoir, Salamence]
+Grass/Flying -> [Camerupt, Gyarados, Salamence]
+Grass/Rock -> [Sceptile]
+Grass/Dark -> [Camerupt, Gyarados, Sceptile, Salamence]
+Ice -> [Camerupt]
+Fighting -> [Gardevoir, Salamence]
+Fighting/Psychic -> [Salamence]
+Fighting/Bug -> [Camerupt, Salamence]
+Poison -> [Camerupt, Gardevoir]
+Poison/Flying -> [Gyarados, Magneton, Gardevoir]
+Poison/Bug -> [Camerupt, Salamence]
+Ground -> [Gyarados, Sceptile]
+Ground/Psychic -> [Gyarados, Sceptile, Salamence]
+Ground/Bug -> [Gyarados, Salamence]
+Ground/Rock -> [Sceptile]
+Ground/Dragon -> [Gyarados]
+Flying/Psychic -> [Gyarados, Magneton, Salamence]
+Flying/Bug -> [Camerupt, Gyarados, Magneton, Salamence]
+Flying/Dragon -> [Gyarados]
+Flying/Steel -> [Camerupt, Magneton]
+Psychic -> [Salamence]
+Psychic/Rock -> [Sceptile]
+Psychic/Dragon -> [Gyarados]
+Psychic/Steel -> [Camerupt, Salamence]
+Bug -> [Camerupt, Salamence]
+Bug/Rock -> Sup Eff A/E: [Gyarados] Nor Eff: [Camerupt, Magneton]
+Bug/Ghost -> [Camerupt, Salamence]
+Rock -> [Camerupt, Sceptile]
+Rock/Steel -> [Camerupt, Sceptile]
+Ghost -> [Salamence]
+Ghost/Dark -> No Sup Eff. Nor Eff: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+Dragon -> [Gyarados]
+Dark -> [Sceptile]
+Steel -> [Camerupt, Sceptile]
+
+Full Type Breakdown:
+Normal:
+	Summary Text:
+		[Sceptile]
+	Party vs Normal:
+		Super Effective:
+			Fighting: [Sceptile]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+	Normal vs Party:
+		Normal Effective:
+			Normal: [Camerupt, Gyarados, Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Normal: [Magneton]
+	Normal Pokemon:
+		Zigzagoon
+		Linoone
+		Slakoth
+		Vigoroth
+		Slaking
+		Whismur
+		Loudred
+		Exploud
+		Azurill
+		Skitty
+		Delcatty
+		Spinda
+		Zangoose
+		Igglybuff
+		Jigglypuff
+		Wigglytuff
+		Castform
+		Kecleon
+--------------------------------------------------------------------------------
+Normal/Flying:
+	Summary Text:
+		[Gyarados, Magneton]
+	Party vs Normal/Flying:
+		Super Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+		Not Effective:
+			Ground: [Camerupt]
+	Normal/Flying vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+		Normal Effective:
+			Normal: [Camerupt, Gyarados, Sceptile, Gardevoir, Salamence]
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Normal: [Magneton]
+			Flying: [Magneton]
+	Normal/Flying Pokemon:
+		Taillow
+		Swellow
+		Doduo
+		Dodrio
+		Swablu
+--------------------------------------------------------------------------------
+Normal/Psychic:
+	Summary Text:
+		[Salamence]
+	Party vs Normal/Psychic:
+		Super Effective:
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Psychic: [Gardevoir]
+	Normal/Psychic vs Party:
+		Normal Effective:
+			Normal: [Camerupt, Gyarados, Sceptile, Gardevoir, Salamence]
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Normal: [Magneton]
+			Psychic: [Magneton, Gardevoir]
+	Normal/Psychic Pokemon:
+		Girafarig
+--------------------------------------------------------------------------------
+Fire:
+	Summary Text:
+		[Camerupt, Gyarados]
+	Party vs Fire:
+		Super Effective:
+			Water: [Gyarados]
+			Ground: [Camerupt]
+		Normal Effective:
+			Electric: [Magneton]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+	Fire vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+		Normal Effective:
+			Fire: [Gardevoir]
+		Not Very Effective:
+			Fire: [Camerupt, Gyarados, Salamence]
+	Fire Pokemon:
+		Torchic
+		Slugma
+		Torkoal
+		Vulpix
+		Ninetales
+--------------------------------------------------------------------------------
+Fire/Fighting:
+	Summary Text:
+		[Camerupt, Gyarados, Gardevoir, Salamence]
+	Party vs Fire/Fighting:
+		Super Effective:
+			Water: [Gyarados]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Electric: [Magneton]
+			Fighting: [Sceptile]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+	Fire/Fighting vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+			Fighting: [Magneton]
+		Normal Effective:
+			Fire: [Gardevoir]
+			Fighting: [Camerupt, Sceptile]
+		Not Very Effective:
+			Fire: [Camerupt, Gyarados, Salamence]
+			Fighting: [Gyarados, Gardevoir, Salamence]
+	Fire/Fighting Pokemon:
+		Combusken
+		Blaziken
+--------------------------------------------------------------------------------
+Fire/Ground:
+	Summary Text:
+		[Gyarados]
+	Party vs Fire/Ground:
+		Super Effective:
+			Water: [Gyarados]
+			Ground: [Camerupt]
+		Normal Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+		Not Effective:
+			Electric: [Magneton]
+	Fire/Ground vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+			Ground: [Camerupt, Magneton]
+		Normal Effective:
+			Fire: [Gardevoir]
+			Ground: [Gardevoir]
+		Not Very Effective:
+			Fire: [Camerupt, Gyarados, Salamence]
+			Ground: [Sceptile]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Fire/Ground Pokemon:
+		Numel
+		Camerupt
+--------------------------------------------------------------------------------
+Fire/Rock:
+	Summary Text:
+		[Camerupt]
+	Party vs Fire/Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+	Fire/Rock vs Party:
+		Super Effective:
+			Fire: [Sceptile, Magneton]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Fire: [Gardevoir]
+			Rock: [Camerupt, Sceptile, Gardevoir]
+		Not Very Effective:
+			Fire: [Camerupt, Gyarados, Salamence]
+			Rock: [Magneton]
+	Fire/Rock Pokemon:
+		Magcargo
+--------------------------------------------------------------------------------
+Water:
+	Summary Text:
+		[Sceptile, Magneton]
+	Party vs Water:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+	Water vs Party:
+		Super Effective:
+			Water: [Camerupt]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+	Water Pokemon:
+		Mudkip
+		Goldeen
+		Seaking
+		Magikarp
+		Marill
+		Azumarill
+		Wailmer
+		Wailord
+		Corphish
+		Feebas
+		Milotic
+		Staryu
+		Psyduck
+		Golduck
+		Clamperl
+		Huntail
+		Gorebyss
+		Luvdisc
+		Horsea
+		Seadra
+		Kyogre
+--------------------------------------------------------------------------------
+Water/Electric:
+	Summary Text:
+		[Sceptile]
+	Party vs Water/Electric:
+		Super Effective:
+			Grass: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Not Effective:
+			Electric: [Magneton]
+	Water/Electric vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Electric: [Gyarados]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Electric: [Gardevoir, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Electric: [Sceptile, Magneton]
+		Not Effective:
+			Electric: [Camerupt]
+	Water/Electric Pokemon:
+		Chinchou
+		Lanturn
+--------------------------------------------------------------------------------
+Water/Grass:
+	Summary Text:
+		[Salamence]
+	Party vs Water/Grass:
+		Super Effective:
+			Flying: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Ground: [Camerupt]
+	Water/Grass vs Party:
+		Super Effective:
+			Water: [Camerupt]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Grass: [Camerupt, Gyarados, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Grass: [Sceptile, Magneton, Salamence]
+	Water/Grass Pokemon:
+		Lotad
+		Lombre
+		Ludicolo
+--------------------------------------------------------------------------------
+Water/Ice:
+	Summary Text:
+		[Magneton]
+	Party vs Water/Ice:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+	Water/Ice vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Ice: [Sceptile, Salamence]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Ice: [Camerupt, Gyarados, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Ice: [Magneton]
+	Water/Ice Pokemon:
+		Spheal
+		Sealeo
+		Walrein
+--------------------------------------------------------------------------------
+Water/Poison:
+	Summary Text:
+		[Magneton, Gardevoir]
+	Party vs Water/Poison:
+		Super Effective:
+			Electric: [Magneton]
+			Ground: [Camerupt]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Grass: [Sceptile]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+	Water/Poison vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Poison: [Sceptile]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Poison: [Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Poison: [Camerupt]
+		Not Effective:
+			Poison: [Magneton]
+	Water/Poison Pokemon:
+		Tentacool
+		Tentacruel
+--------------------------------------------------------------------------------
+Water/Ground:
+	Summary Text:
+		[Sceptile]
+	Party vs Water/Ground:
+		Super Effective:
+			Grass: [Sceptile]
+		Normal Effective:
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+		Not Effective:
+			Electric: [Magneton]
+	Water/Ground vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Ground: [Camerupt, Magneton]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Ground: [Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Ground: [Sceptile]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Water/Ground Pokemon:
+		Marshtomp
+		Swampert
+		Barboach
+		Whiscash
+--------------------------------------------------------------------------------
+Water/Flying:
+	Summary Text:
+		[Magneton]
+	Party vs Water/Flying:
+		Super Effective:
+			Electric: [Magneton]
+		Normal Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Camerupt]
+	Water/Flying vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Flying: [Sceptile]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Flying: [Magneton]
+	Water/Flying Pokemon:
+		Wingull
+		Pelipper
+		Gyarados
+--------------------------------------------------------------------------------
+Water/Psychic:
+	Summary Text:
+		[Sceptile, Magneton, Salamence]
+	Party vs Water/Psychic:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Dark: [Salamence]
+		Normal Effective:
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+	Water/Psychic vs Party:
+		Super Effective:
+			Water: [Camerupt]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Psychic: [Magneton, Gardevoir]
+	Water/Psychic Pokemon:
+		Starmie
+--------------------------------------------------------------------------------
+Water/Bug:
+	Summary Text:
+		[Magneton, Salamence]
+	Party vs Water/Bug:
+		Super Effective:
+			Electric: [Magneton]
+			Flying: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Grass: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+	Water/Bug vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+	Water/Bug Pokemon:
+		Surskit
+--------------------------------------------------------------------------------
+Water/Rock:
+	Summary Text:
+		[Sceptile, Magneton]
+	Party vs Water/Rock:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Water: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+	Water/Rock vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Rock: [Camerupt, Sceptile, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Rock: [Magneton]
+	Water/Rock Pokemon:
+		Relicanth
+		Corsola
+--------------------------------------------------------------------------------
+Water/Dragon:
+	Summary Text:
+		Sup Eff A/E: [Salamence] Nor Eff: [Gyarados, Sceptile, Magneton, Gardevoir]
+	Party vs Water/Dragon:
+		Super Effective:
+			Dragon: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+	Water/Dragon vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Dragon: [Salamence]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Dragon: [Camerupt, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+			Dragon: [Magneton]
+	Water/Dragon Pokemon:
+		Kingdra
+--------------------------------------------------------------------------------
+Water/Dark:
+	Summary Text:
+		[Sceptile, Magneton]
+	Party vs Water/Dark:
+		Super Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+		Not Effective:
+			Psychic: [Gardevoir]
+	Water/Dark vs Party:
+		Super Effective:
+			Water: [Camerupt]
+			Dark: [Gardevoir]
+		Normal Effective:
+			Water: [Magneton, Gardevoir]
+			Dark: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+		Not Very Effective:
+			Water: [Gyarados, Sceptile, Salamence]
+	Water/Dark Pokemon:
+		Carvanha
+		Sharpedo
+		Crawdaunt
+--------------------------------------------------------------------------------
+Electric:
+	Summary Text:
+		[Camerupt]
+	Party vs Electric:
+		Super Effective:
+			Ground: [Camerupt]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Electric: [Magneton]
+			Flying: [Salamence]
+	Electric vs Party:
+		Super Effective:
+			Electric: [Gyarados]
+		Normal Effective:
+			Electric: [Gardevoir, Salamence]
+		Not Very Effective:
+			Electric: [Sceptile, Magneton]
+		Not Effective:
+			Electric: [Camerupt]
+	Electric Pokemon:
+		Electrike
+		Manectric
+		Plusle
+		Minun
+		Voltorb
+		Electrode
+		Pichu
+		Pikachu
+		Raichu
+--------------------------------------------------------------------------------
+Electric/Steel:
+	Summary Text:
+		[Camerupt, Sceptile]
+	Party vs Electric/Steel:
+		Super Effective:
+			Fire: [Camerupt]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Water: [Gyarados]
+			Dark: [Salamence]
+		Not Very Effective:
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Electric/Steel vs Party:
+		Super Effective:
+			Electric: [Gyarados]
+		Normal Effective:
+			Electric: [Gardevoir, Salamence]
+			Steel: [Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Electric: [Sceptile, Magneton]
+			Steel: [Camerupt, Gyarados, Magneton]
+		Not Effective:
+			Electric: [Camerupt]
+	Electric/Steel Pokemon:
+		Magnemite
+		Magneton
+--------------------------------------------------------------------------------
+Grass:
+	Summary Text:
+		[Camerupt, Gyarados, Salamence]
+	Party vs Grass:
+		Super Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Camerupt]
+	Grass vs Party:
+		Normal Effective:
+			Grass: [Camerupt, Gyarados, Gardevoir]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+	Grass Pokemon:
+		Treecko
+		Grovyle
+		Sceptile
+		Seedot
+		Shroomish
+		Bellossom
+		Cacnea
+--------------------------------------------------------------------------------
+Grass/Fighting:
+	Summary Text:
+		[Camerupt, Gyarados, Gardevoir, Salamence]
+	Party vs Grass/Fighting:
+		Super Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Camerupt]
+			Dark: [Salamence]
+	Grass/Fighting vs Party:
+		Super Effective:
+			Fighting: [Magneton]
+		Normal Effective:
+			Grass: [Camerupt, Gyarados, Gardevoir]
+			Fighting: [Camerupt, Sceptile]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Fighting: [Gyarados, Gardevoir, Salamence]
+	Grass/Fighting Pokemon:
+		Breloom
+--------------------------------------------------------------------------------
+Grass/Poison:
+	Summary Text:
+		[Camerupt, Gyarados, Gardevoir, Salamence]
+	Party vs Grass/Poison:
+		Super Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Ground: [Camerupt]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+	Grass/Poison vs Party:
+		Super Effective:
+			Poison: [Sceptile]
+		Normal Effective:
+			Grass: [Camerupt, Gyarados, Gardevoir]
+			Poison: [Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Poison: [Camerupt]
+		Not Effective:
+			Poison: [Magneton]
+	Grass/Poison Pokemon:
+		Oddish
+		Gloom
+		Vileplume
+		Roselia
+--------------------------------------------------------------------------------
+Grass/Flying:
+	Summary Text:
+		[Camerupt, Gyarados, Salamence]
+	Party vs Grass/Flying:
+		Super Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Camerupt]
+	Grass/Flying vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+		Normal Effective:
+			Grass: [Camerupt, Gyarados, Gardevoir]
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Flying: [Magneton]
+	Grass/Flying Pokemon:
+		Tropius
+--------------------------------------------------------------------------------
+Grass/Rock:
+	Summary Text:
+		[Sceptile]
+	Party vs Grass/Rock:
+		Super Effective:
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Electric: [Magneton]
+	Grass/Rock vs Party:
+		Super Effective:
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Grass: [Camerupt, Gyarados, Gardevoir]
+			Rock: [Camerupt, Sceptile, Gardevoir]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+			Rock: [Magneton]
+	Grass/Rock Pokemon:
+		Lileep
+		Cradily
+--------------------------------------------------------------------------------
+Grass/Dark:
+	Summary Text:
+		[Camerupt, Gyarados, Sceptile, Salamence]
+	Party vs Grass/Dark:
+		Super Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+		Normal Effective:
+			Dragon: [Salamence]
+		Not Very Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Camerupt]
+			Dark: [Salamence]
+		Not Effective:
+			Psychic: [Gardevoir]
+	Grass/Dark vs Party:
+		Super Effective:
+			Dark: [Gardevoir]
+		Normal Effective:
+			Grass: [Camerupt, Gyarados, Gardevoir]
+			Dark: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+		Not Very Effective:
+			Grass: [Sceptile, Magneton, Salamence]
+	Grass/Dark Pokemon:
+		Nuzleaf
+		Shiftry
+		Cacturne
+--------------------------------------------------------------------------------
+Ice:
+	Summary Text:
+		[Camerupt]
+	Party vs Ice:
+		Super Effective:
+			Fire: [Camerupt]
+			Fighting: [Sceptile]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Ice: [Gyarados]
+	Ice vs Party:
+		Super Effective:
+			Ice: [Sceptile, Salamence]
+		Normal Effective:
+			Ice: [Camerupt, Gyarados, Gardevoir]
+		Not Very Effective:
+			Ice: [Magneton]
+	Ice Pokemon:
+		Snorunt
+		Glalie
+		Regice
+--------------------------------------------------------------------------------
+Fighting:
+	Summary Text:
+		[Gardevoir, Salamence]
+	Party vs Fighting:
+		Super Effective:
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+	Fighting vs Party:
+		Super Effective:
+			Fighting: [Magneton]
+		Normal Effective:
+			Fighting: [Camerupt, Sceptile]
+		Not Very Effective:
+			Fighting: [Gyarados, Gardevoir, Salamence]
+	Fighting Pokemon:
+		Makuhita
+		Hariyama
+		Machop
+		Machoke
+		Machamp
+--------------------------------------------------------------------------------
+Fighting/Psychic:
+	Summary Text:
+		[Salamence]
+	Party vs Fighting/Psychic:
+		Super Effective:
+			Flying: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Camerupt]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+	Fighting/Psychic vs Party:
+		Super Effective:
+			Fighting: [Magneton]
+		Normal Effective:
+			Fighting: [Camerupt, Sceptile]
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Fighting: [Gyarados, Gardevoir, Salamence]
+			Psychic: [Magneton, Gardevoir]
+	Fighting/Psychic Pokemon:
+		Meditite
+		Medicham
+--------------------------------------------------------------------------------
+Fighting/Bug:
+	Summary Text:
+		[Camerupt, Salamence]
+	Party vs Fighting/Bug:
+		Super Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Dark: [Salamence]
+	Fighting/Bug vs Party:
+		Super Effective:
+			Fighting: [Magneton]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Fighting: [Camerupt, Sceptile]
+		Not Very Effective:
+			Fighting: [Gyarados, Gardevoir, Salamence]
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+	Fighting/Bug Pokemon:
+		Heracross
+--------------------------------------------------------------------------------
+Poison:
+	Summary Text:
+		[Camerupt, Gardevoir]
+	Party vs Poison:
+		Super Effective:
+			Ground: [Camerupt]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+	Poison vs Party:
+		Super Effective:
+			Poison: [Sceptile]
+		Normal Effective:
+			Poison: [Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Poison: [Camerupt]
+		Not Effective:
+			Poison: [Magneton]
+	Poison Pokemon:
+		Gulpin
+		Swalot
+		Grimer
+		Muk
+		Koffing
+		Weezing
+		Seviper
+--------------------------------------------------------------------------------
+Poison/Flying:
+	Summary Text:
+		[Gyarados, Magneton, Gardevoir]
+	Party vs Poison/Flying:
+		Super Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Camerupt]
+	Poison/Flying vs Party:
+		Super Effective:
+			Poison: [Sceptile]
+			Flying: [Sceptile]
+		Normal Effective:
+			Poison: [Gyarados, Gardevoir, Salamence]
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Poison: [Camerupt]
+			Flying: [Magneton]
+		Not Effective:
+			Poison: [Magneton]
+	Poison/Flying Pokemon:
+		Zubat
+		Golbat
+		Crobat
+--------------------------------------------------------------------------------
+Poison/Bug:
+	Summary Text:
+		[Camerupt, Salamence]
+	Party vs Poison/Bug:
+		Super Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Ground: [Camerupt]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+	Poison/Bug vs Party:
+		Super Effective:
+			Poison: [Sceptile]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Poison: [Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Poison: [Camerupt]
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+		Not Effective:
+			Poison: [Magneton]
+	Poison/Bug Pokemon:
+		Dustox
+--------------------------------------------------------------------------------
+Ground:
+	Summary Text:
+		[Gyarados, Sceptile]
+	Party vs Ground:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+		Normal Effective:
+			Fire: [Camerupt]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Effective:
+			Electric: [Magneton]
+	Ground vs Party:
+		Super Effective:
+			Ground: [Camerupt, Magneton]
+		Normal Effective:
+			Ground: [Gardevoir]
+		Not Very Effective:
+			Ground: [Sceptile]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground Pokemon:
+		Sandshrew
+		Sandslash
+		Trapinch
+		Phanpy
+		Donphan
+		Groudon
+--------------------------------------------------------------------------------
+Ground/Psychic:
+	Summary Text:
+		[Gyarados, Sceptile, Salamence]
+	Party vs Ground/Psychic:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Electric: [Magneton]
+			Ground: [Camerupt]
+	Ground/Psychic vs Party:
+		Super Effective:
+			Ground: [Camerupt, Magneton]
+		Normal Effective:
+			Ground: [Gardevoir]
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Psychic: [Magneton, Gardevoir]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Psychic Pokemon:
+		Baltoy
+		Claydol
+--------------------------------------------------------------------------------
+Ground/Bug:
+	Summary Text:
+		[Gyarados, Salamence]
+	Party vs Ground/Bug:
+		Super Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Grass: [Sceptile]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Not Effective:
+			Electric: [Magneton]
+	Ground/Bug vs Party:
+		Super Effective:
+			Ground: [Camerupt, Magneton]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Ground: [Gardevoir]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Bug Pokemon:
+		Nincada
+--------------------------------------------------------------------------------
+Ground/Rock:
+	Summary Text:
+		[Sceptile]
+	Party vs Ground/Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+		Not Effective:
+			Electric: [Magneton]
+	Ground/Rock vs Party:
+		Super Effective:
+			Ground: [Camerupt, Magneton]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Ground: [Gardevoir]
+			Rock: [Camerupt, Sceptile, Gardevoir]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Rock: [Magneton]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Rock Pokemon:
+		Geodude
+		Graveler
+		Golem
+		Rhyhorn
+		Rhydon
+--------------------------------------------------------------------------------
+Ground/Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Ground/Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+		Not Effective:
+			Electric: [Magneton]
+			Ground: [Camerupt]
+	Ground/Dragon vs Party:
+		Super Effective:
+			Ground: [Camerupt, Magneton]
+			Dragon: [Salamence]
+		Normal Effective:
+			Ground: [Gardevoir]
+			Dragon: [Camerupt, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Ground: [Sceptile]
+			Dragon: [Magneton]
+		Not Effective:
+			Ground: [Gyarados, Salamence]
+	Ground/Dragon Pokemon:
+		Vibrava
+		Flygon
+--------------------------------------------------------------------------------
+Flying/Psychic:
+	Summary Text:
+		[Gyarados, Magneton, Salamence]
+	Party vs Flying/Psychic:
+		Super Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Ground: [Camerupt]
+	Flying/Psychic vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+		Normal Effective:
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Flying: [Magneton]
+			Psychic: [Magneton, Gardevoir]
+	Flying/Psychic Pokemon:
+		Natu
+		Xatu
+--------------------------------------------------------------------------------
+Flying/Bug:
+	Summary Text:
+		[Camerupt, Gyarados, Magneton, Salamence]
+	Party vs Flying/Bug:
+		Super Effective:
+			Fire: [Camerupt]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Camerupt]
+	Flying/Bug vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+			Bug: [Sceptile, Gardevoir]
+		Normal Effective:
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+		Not Very Effective:
+			Flying: [Magneton]
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+	Flying/Bug Pokemon:
+		Beautifly
+		Masquerain
+		Ninjask
+--------------------------------------------------------------------------------
+Flying/Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Flying/Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+		Not Effective:
+			Ground: [Camerupt]
+	Flying/Dragon vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+			Dragon: [Salamence]
+		Normal Effective:
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+			Dragon: [Camerupt, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Flying: [Magneton]
+			Dragon: [Magneton]
+	Flying/Dragon Pokemon:
+		Altaria
+		Salamence
+		Rayquaza
+--------------------------------------------------------------------------------
+Flying/Steel:
+	Summary Text:
+		[Camerupt, Magneton]
+	Party vs Flying/Steel:
+		Super Effective:
+			Fire: [Camerupt]
+			Electric: [Magneton]
+		Normal Effective:
+			Water: [Gyarados]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+		Not Effective:
+			Ground: [Camerupt]
+	Flying/Steel vs Party:
+		Super Effective:
+			Flying: [Sceptile]
+		Normal Effective:
+			Flying: [Camerupt, Gyarados, Gardevoir, Salamence]
+			Steel: [Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Flying: [Magneton]
+			Steel: [Camerupt, Gyarados, Magneton]
+	Flying/Steel Pokemon:
+		Skarmory
+--------------------------------------------------------------------------------
+Psychic:
+	Summary Text:
+		[Salamence]
+	Party vs Psychic:
+		Super Effective:
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+	Psychic vs Party:
+		Normal Effective:
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+	Psychic Pokemon:
+		Ralts
+		Kirlia
+		Gardevoir
+		Abra
+		Kadabra
+		Alakazam
+		Spoink
+		Grumpig
+		Chimecho
+		Wynaut
+		Wobbuffet
+		Deoxys
+--------------------------------------------------------------------------------
+Psychic/Rock:
+	Summary Text:
+		[Sceptile]
+	Party vs Psychic/Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Dark: [Salamence]
+		Normal Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Ground: [Camerupt]
+	Psychic/Rock vs Party:
+		Super Effective:
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+			Rock: [Camerupt, Sceptile, Gardevoir]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+			Rock: [Magneton]
+	Psychic/Rock Pokemon:
+		Lunatone
+		Solrock
+--------------------------------------------------------------------------------
+Psychic/Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Psychic/Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Normal Effective:
+			Flying: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+		Not Effective:
+			Ground: [Camerupt]
+	Psychic/Dragon vs Party:
+		Super Effective:
+			Dragon: [Salamence]
+		Normal Effective:
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+			Dragon: [Camerupt, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+			Dragon: [Magneton]
+	Psychic/Dragon Pokemon:
+		Latias
+		Latios
+--------------------------------------------------------------------------------
+Psychic/Steel:
+	Summary Text:
+		[Camerupt, Salamence]
+	Party vs Psychic/Steel:
+		Super Effective:
+			Fire: [Camerupt]
+			Ground: [Camerupt]
+			Dark: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Fighting: [Sceptile]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Psychic/Steel vs Party:
+		Normal Effective:
+			Psychic: [Camerupt, Gyarados, Sceptile, Salamence]
+			Steel: [Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Psychic: [Magneton, Gardevoir]
+			Steel: [Camerupt, Gyarados, Magneton]
+	Psychic/Steel Pokemon:
+		Beldum
+		Metang
+		Metagross
+		Jirachi
+--------------------------------------------------------------------------------
+Bug:
+	Summary Text:
+		[Camerupt, Salamence]
+	Party vs Bug:
+		Super Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+	Bug vs Party:
+		Super Effective:
+			Bug: [Sceptile, Gardevoir]
+		Not Very Effective:
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+	Bug Pokemon:
+		Wurmple
+		Silcoon
+		Cascoon
+		Volbeat
+		Illumise
+		Pinsir
+--------------------------------------------------------------------------------
+Bug/Rock:
+	Summary Text:
+		Sup Eff A/E: [Gyarados] Nor Eff: [Camerupt, Magneton]
+	Party vs Bug/Rock:
+		Super Effective:
+			Water: [Gyarados]
+		Normal Effective:
+			Fire: [Camerupt]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+	Bug/Rock vs Party:
+		Super Effective:
+			Bug: [Sceptile, Gardevoir]
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Rock: [Camerupt, Sceptile, Gardevoir]
+		Not Very Effective:
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+			Rock: [Magneton]
+	Bug/Rock Pokemon:
+		Anorith
+		Armaldo
+--------------------------------------------------------------------------------
+Bug/Ghost:
+	Summary Text:
+		[Camerupt, Salamence]
+	Party vs Bug/Ghost:
+		Super Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+			Dark: [Salamence]
+		Not Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Bug/Ghost vs Party:
+		Super Effective:
+			Bug: [Sceptile, Gardevoir]
+			Ghost: [Gardevoir]
+		Normal Effective:
+			Ghost: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+		Not Very Effective:
+			Bug: [Camerupt, Gyarados, Magneton, Salamence]
+	Bug/Ghost Pokemon:
+		Shedinja
+--------------------------------------------------------------------------------
+Rock:
+	Summary Text:
+		[Camerupt, Sceptile]
+	Party vs Rock:
+		Super Effective:
+			Water: [Gyarados]
+			Grass: [Sceptile]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Electric: [Magneton]
+			Ice: [Gyarados]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Flying: [Salamence]
+	Rock vs Party:
+		Super Effective:
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Rock: [Camerupt, Sceptile, Gardevoir]
+		Not Very Effective:
+			Rock: [Magneton]
+	Rock Pokemon:
+		Nosepass
+		Regirock
+--------------------------------------------------------------------------------
+Rock/Steel:
+	Summary Text:
+		[Camerupt, Sceptile]
+	Party vs Rock/Steel:
+		Super Effective:
+			Water: [Gyarados]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Fire: [Camerupt]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Dark: [Salamence]
+		Not Very Effective:
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Rock/Steel vs Party:
+		Super Effective:
+			Rock: [Gyarados, Salamence]
+		Normal Effective:
+			Rock: [Camerupt, Sceptile, Gardevoir]
+			Steel: [Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Rock: [Magneton]
+			Steel: [Camerupt, Gyarados, Magneton]
+	Rock/Steel Pokemon:
+		Aron
+		Lairon
+		Aggron
+--------------------------------------------------------------------------------
+Ghost:
+	Summary Text:
+		[Salamence]
+	Party vs Ghost:
+		Super Effective:
+			Dark: [Salamence]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+		Not Effective:
+			Fighting: [Sceptile]
+	Ghost vs Party:
+		Super Effective:
+			Ghost: [Gardevoir]
+		Normal Effective:
+			Ghost: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+	Ghost Pokemon:
+		Shuppet
+		Banette
+		Duskull
+		Dusclops
+--------------------------------------------------------------------------------
+Ghost/Dark:
+	Summary Text:
+		No Sup Eff. Nor Eff: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+	Party vs Ghost/Dark:
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+			Dark: [Salamence]
+		Not Effective:
+			Fighting: [Sceptile]
+			Psychic: [Gardevoir]
+	Ghost/Dark vs Party:
+		Super Effective:
+			Ghost: [Gardevoir]
+			Dark: [Gardevoir]
+		Normal Effective:
+			Ghost: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+			Dark: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+	Ghost/Dark Pokemon:
+		Sableye
+--------------------------------------------------------------------------------
+Dragon:
+	Summary Text:
+		[Gyarados]
+	Party vs Dragon:
+		Super Effective:
+			Ice: [Gyarados]
+			Dragon: [Salamence]
+		Normal Effective:
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dark: [Salamence]
+		Not Very Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+	Dragon vs Party:
+		Super Effective:
+			Dragon: [Salamence]
+		Normal Effective:
+			Dragon: [Camerupt, Gyarados, Sceptile, Gardevoir]
+		Not Very Effective:
+			Dragon: [Magneton]
+	Dragon Pokemon:
+		Bagon
+		Shelgon
+--------------------------------------------------------------------------------
+Dark:
+	Summary Text:
+		[Sceptile]
+	Party vs Dark:
+		Super Effective:
+			Fighting: [Sceptile]
+		Normal Effective:
+			Fire: [Camerupt]
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Ground: [Camerupt]
+			Flying: [Salamence]
+			Dragon: [Salamence]
+		Not Very Effective:
+			Dark: [Salamence]
+		Not Effective:
+			Psychic: [Gardevoir]
+	Dark vs Party:
+		Super Effective:
+			Dark: [Gardevoir]
+		Normal Effective:
+			Dark: [Camerupt, Gyarados, Sceptile, Magneton, Salamence]
+	Dark Pokemon:
+		Poochyena
+		Mightyena
+		Absol
+--------------------------------------------------------------------------------
+Steel:
+	Summary Text:
+		[Camerupt, Sceptile]
+	Party vs Steel:
+		Super Effective:
+			Fire: [Camerupt]
+			Fighting: [Sceptile]
+			Ground: [Camerupt]
+		Normal Effective:
+			Water: [Gyarados]
+			Electric: [Magneton]
+			Dark: [Salamence]
+		Not Very Effective:
+			Grass: [Sceptile]
+			Ice: [Gyarados]
+			Flying: [Salamence]
+			Psychic: [Gardevoir]
+			Dragon: [Salamence]
+	Steel vs Party:
+		Normal Effective:
+			Steel: [Sceptile, Gardevoir, Salamence]
+		Not Very Effective:
+			Steel: [Camerupt, Gyarados, Magneton]
+	Steel Pokemon:
+		Mawile
+		Registeel
